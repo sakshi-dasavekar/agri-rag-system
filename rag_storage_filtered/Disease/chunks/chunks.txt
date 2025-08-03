@@ -1,0 +1,1904 @@
+=== CHUNK 1 ===
+Query Type: Disease
+Question: DEATH OF CHICKEN
+Answer: ADVICE TO CONTACT NEAREST VETERINARY OFFICE
+State: ODISHA
+District: CUTTACK
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 2 ===
+Query Type: Disease
+Question: RANIKHET DISEASE OF POULTRY
+Answer: IMIDIATLY CONTACT TO VETENARY SURGEON
+State: ODISHA
+District: PURI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 3 ===
+Query Type: Disease
+Question: POUTRIES ARE AFFECTED BY ANY DISEASE PROBLEM
+Answer: CONTACT TO VETERNARY DOCTOR
+State: RAJASTHAN
+District: HANUMANGARH
+Crop Code: 1266
+
+=== CHUNK 4 ===
+Query Type: Disease
+Question: whitish diarrhoea of broiler chicks
+Answer: amprolium1mlliter of water for 4daysmix electrolite in drinking water
+State: TRIPURA
+District: WEST TRIPURA
+Crop Code: 1266
+
+=== CHUNK 5 ===
+Query Type: Disease
+Question: redish excreta
+Answer: coxinil liq 20 ml per 100 ml of water
+State: TRIPURA
+District: SOUTH TRIPURA
+Crop Code: 1266
+
+=== CHUNK 6 ===
+Query Type: Disease
+Question: bee keeping kar rakhi hai bee mar rahi hai
+Answer: pl call tomorrow at 1000 am
+State: UTTAR PRADESH
+District: JYOTIBA PHULE NAGAR
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 7 ===
+Query Type: Disease
+Question: BHER MAI MYTUS ROG KAB LAGTA HAI
+Answer: ONLY RAINING SEASON ATTACK THIS DISEASE
+State: UTTARAKHAND
+District: HARIDWAR
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 8 ===
+Query Type: Disease
+Question: HEN DIED HO RAHI HAIN
+Answer: SHOULD BE SEPARATE HEN FROM INFECTED BIRD AND ALSO SPRAY PHENYL SOL
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 9 ===
+Query Type: Disease
+Question: ASKING ABOUT TREATMENT OF WHITE DIARRHOEA IN CHICKEN
+Answer: SUGGESTED TO ADMINISTER TETRACYCLINE POWDER 5GM 5LIT OF WATER FOR FIVE DAYS
+State: ASSAM
+District: KAMRUP
+Crop Code: 1266
+
+=== CHUNK 10 ===
+Query Type: Disease
+Question: Ask about disease helpline for pigeonpea
+Answer: Give him contact no of Asha Foundation
+State: GUJARAT
+District: Mehsana
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 11 ===
+Query Type: Disease
+Question: Ask about disease in pigeon
+Answer: Give him contact no of Asha Foundation
+State: GUJARAT
+District: Mehsana
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 12 ===
+Query Type: Disease
+Question: ASK ABOUT RANIKHET DISEASE
+Answer: PREFER CONTACT TO VETERNARY DOCTOR
+State: GUJARAT
+District: Mehsana
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 13 ===
+Query Type: Disease
+Question: OUT BRAKE IN CHICKEN HOW TO CONTROL 
+Answer: CONTACT POULTRY OFFICER IMMIDIATELY 
+State: JAMMU AND KASHMIR
+District: PULWAMA
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 14 ===
+Query Type: Disease
+Question: HOW TO CONTROL GASTROINTESTINAL NEMATODES IN CHICKENS 
+Answer: GIVE ALBOMAR  75 MG  KG BODY WEIGHT 
+State: JAMMU AND KASHMIR
+District: GANDERBAL
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 15 ===
+Query Type: Disease
+Question: control over ranikhet disease of chicken
+Answer: first of all you must visit to veternary doctor and give  vaccination of losota through eyes or nose and again when chicks are of the age of 8 to 10 weeks give vaccine of R2B through skin of feathers
+State: MAHARASHTRA
+District: JALNA
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 16 ===
+Query Type: Disease
+Question: DISEASE ATTACK IN POULTRY BIRDS DIE 15 BIRDS
+Answer: CONTACT VETERNERY DOCTOR AS SOON AS POSSIBLE
+State: MAHARASHTRA
+District: BHANDARA
+Crop Code: 1266
+
+=== CHUNK 17 ===
+Query Type: Disease
+Question: DISEASE OF POULTRY
+Answer: CONTACT WITH BLOCK VETERINERY
+State: ODISHA
+District: BALANGIR
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 18 ===
+Query Type: Disease
+Question: DISEASE OF CHICKEN
+Answer: CONTACT CONCERNED VS
+State: ODISHA
+District: BALANGIR
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 19 ===
+Query Type: Disease
+Question: DISEASE OF POULTRY
+Answer: CONTACT WITH BLOCK VS
+State: ODISHA
+District: CUTTACK
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 20 ===
+Query Type: Disease
+Question: DISEASE OF POULTRY
+Answer: CONTACT WITH BLOCK VS
+State: ODISHA
+District: GANJAM
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 21 ===
+Query Type: Disease
+Question: DISEASE OF CHICKEN
+Answer: ASNWER GIVEN IN DETAIL
+State: ODISHA
+District: KALAHANDI
+Crop Code: 1266
+
+=== CHUNK 22 ===
+Query Type: Disease
+Question: FOX DISEASE OF CHICKEN
+Answer: GIVE TETRACYCLIN MIX WITH WATER
+State: ODISHA
+District: KEONJHAR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 23 ===
+Query Type: Disease
+Question: DISEASE OF DUCKS
+Answer: CONTACT WITH BLOCK VS
+State: ODISHA
+District: MAYURBHANJ
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 24 ===
+Query Type: Disease
+Question: RANIKHET DISEASE OF CHICKEN
+Answer: CONSULT VETERINARY SURGEON
+State: ODISHA
+District: PURI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 25 ===
+Query Type: Disease
+Question: RANIKHET DISEASE OF POULTRY8-9 WEEK
+Answer: GIVE R2B RANIKHET TIKKA
+State: ODISHA
+District: SAMBALPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 26 ===
+Query Type: Disease
+Question: NAME OF MEDICINE IN RANIKHET DISEASE OF CHICKEN
+Answer: ASNWER GIVEN IN DETAIL
+State: ODISHA
+District: SAMBALPUR
+Crop Code: 1266
+
+=== CHUNK 27 ===
+Query Type: Disease
+Question: RANIKHET DISEASE IN CHICKEN
+Answer: CONSULT TO VETERINARY SUREGEON
+State: ODISHA
+District: SUNDARGARH
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 28 ===
+Query Type: Disease
+Question: DISEASE OF CHICKEN
+Answer: CONSULT BLOCK VETERINARY SURGEON
+State: ODISHA
+District: BHADRAK
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 29 ===
+Query Type: Disease
+Question: DISEASES OF DUCKS
+Answer: CONTACT WITH BLOCK VETERINERY SURGEON
+State: ODISHA
+District: BHADRAK
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 30 ===
+Query Type: Disease
+Question: DISEASE OF POULTRY
+Answer: CONTACT WITH BLOCK VS
+State: ODISHA
+District: BHADRAK
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 31 ===
+Query Type: Disease
+Question: DISEASE OF DUCK
+Answer: GIVE HOSTACYCLIN POWDER
+State: ODISHA
+District: SONEPUR
+Crop Code: 2825
+
+=== CHUNK 32 ===
+Query Type: Disease
+Question: DISEASE OF CHICKEN
+Answer: CONTACT WITH BLOCK VS
+State: ODISHA
+District: JAGATSINGHAPUR
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 33 ===
+Query Type: Disease
+Question: RANIKHET DISEASE OF CHICKEN
+Answer: CONTACT TO NEAREST POULTRY SPECILIST
+State: ODISHA
+District: RAYAGADA
+Crop Code: 1266
+
+=== CHUNK 34 ===
+Query Type: Disease
+Question: RANIKHET DISEASE OF POULTRY
+Answer: ANSWER GIVEN INB DETAIL
+State: ODISHA
+District: BAUDH
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 35 ===
+Query Type: Disease
+Question: DISEASE OF DUCKS
+Answer: CONTACT WITH BLOCH VS
+State: ODISHA
+District: BARGARH
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 36 ===
+Query Type: Disease
+Question: disease of chicken
+Answer: contact with nearest block vs
+State: ODISHA
+District: BARGARH
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 37 ===
+Query Type: Disease
+Question: MY HEN IS ILL
+Answer: CONTECT NEAREST VETDOCTOR
+State: RAJASTHAN
+District: JHUNJHUNU
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 38 ===
+Query Type: Disease
+Question: MY CJIKEN IS ILL
+Answer: CONTACT 0141-2350929
+State: RAJASTHAN
+District: JHUNJHUNU
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 39 ===
+Query Type: Disease
+Question: asking about poultry diseases details
+Answer: given veterinary university and training research centre saravanampatty 0422 - 2669965
+State: TAMILNADU
+District: COIMBATORE
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 40 ===
+Query Type: Disease
+Question: asking about diseases poultry details
+Answer: given vetrinary university namakkal contact no 04286 - 266345
+State: TAMILNADU
+District: TIRUNELVELI
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 41 ===
+Query Type: Disease
+Question: chicks are drowsing and few have died
+Answer: enrodac1mlliteer of drnking water for 4-5days
+State: TRIPURA
+District: WEST TRIPURA
+Crop Code: 1266
+
+=== CHUNK 42 ===
+Query Type: Disease
+Question: Ranikhet disease
+Answer: RD vaccine at 8days  1dropchick another at 21 days
+State: TRIPURA
+District: WEST TRIPURA
+Crop Code: 1266
+
+=== CHUNK 43 ===
+Query Type: Disease
+Question: two poutry bird has died with clinical symptom of bloody diarrhoea
+Answer: Give Amprolium sol  2mllitr of water and give enrofloxacin poder with feed
+State: TRIPURA
+District: WEST TRIPURA
+Crop Code: 1266
+
+=== CHUNK 44 ===
+Query Type: Disease
+Question: my poultry bird suffering from feverwhat to do
+Answer: give BOLIN BOLUS to it
+State: TRIPURA
+District: WEST TRIPURA
+Crop Code: 1266
+
+=== CHUNK 45 ===
+Query Type: Disease
+Question: Dozzing
+Answer: Furazolidun  3-5 ml lt of water for 4-5 days
+State: TRIPURA
+District: SOUTH TRIPURA
+Crop Code: 1266
+
+=== CHUNK 46 ===
+Query Type: Disease
+Question: murgi palan ke bare mein jankari
+Answer: plzcontact to 0581- 2300204
+State: UTTAR PRADESH
+District: PILIBHIT
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 47 ===
+Query Type: Disease
+Question: murgiyan bimar ho rahi hain
+Answer: temperature maintain kareinupcharit pani pilayen
+State: UTTAR PRADESH
+District: PILIBHIT
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 48 ===
+Query Type: Disease
+Question: murgi palan ki jankari de 
+Answer: plesae cont no -0581-2300204 par jankari le 
+State: UTTAR PRADESH
+District: LALITPUR
+Crop Code: 1266
+
+=== CHUNK 49 ===
+Query Type: Disease
+Question: murgi ke bache mar rahe hai
+Answer: apne nagdhiki dr ko dikhaye
+State: UTTAR PRADESH
+District: JALAUN
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 50 ===
+Query Type: Disease
+Question: PROBLEM RELATED WITH POULTRY
+Answer: PlEASE CONTACT BIRD RESEARCH INSTITUTE
+State: UTTAR PRADESH
+District: MIRZAPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 51 ===
+Query Type: Disease
+Question: meri murgiya bimar hain
+Answer: plz contact to - 0581- 2300204 2301220
+State: UTTAR PRADESH
+District: JAUNPUR
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 52 ===
+Query Type: Disease
+Question: meri murgi bimar hain
+Answer: plz contact to - 0581-  2300204  23001220
+State: UTTAR PRADESH
+District: GORAKHPUR
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 53 ===
+Query Type: Disease
+Question: murgi ke bachhe bimar hai
+Answer: plz contact to 0581-2300204 2301220
+State: UTTAR PRADESH
+District: DEORIA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 54 ===
+Query Type: Disease
+Question: murgi ke chuje roj 10-12 mar rahe hain
+Answer: information and number 0581 2300204
+State: UTTAR PRADESH
+District: LUCKNOW
+Crop Code: 2825
+
+=== CHUNK 55 ===
+Query Type: Disease
+Question: POULTRY KI JANKARI BATAO
+Answer: PLS CONTACT TO IARI-IZZAT NAGAR BAREILLYUP
+State: UTTAR PRADESH
+District: JYOTIBA PHULE NAGAR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 56 ===
+Query Type: Disease
+Question: meri murgiya bimar hain
+Answer: plz Contact to 0581-  2301220  2300204
+State: UTTAR PRADESH
+District: SONBHADRA
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 57 ===
+Query Type: Disease
+Question: MURGI DIED HO RAHI HAIN
+Answer: PLS SEPARATE OF HEALTHY BIRD FROM EFFECTED BIRDAND ALSO CONSULT WITH A VETERINARY SURGEON
+State: UTTAR PRADESH
+District: SONBHADRA
+Crop Code: 1266
+
+=== CHUNK 58 ===
+Query Type: Disease
+Question: meri murgiya bimar hain
+Answer: plz contact to 0581-2300204
+State: UTTAR PRADESH
+District: SANT RAVIDAS NAGAR BHADOHI
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 59 ===
+Query Type: Disease
+Question: murgiyo ko loose motion ho rahe hain
+Answer: kisi vet doctor se salah le ya 10 am-5pm par call karen
+State: UTTAR PRADESH
+District: MAU
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 60 ===
+Query Type: Disease
+Question: murgi geeli laitrin kar rahi hai
+Answer: najdeeki krisi vigyan kendra  me samparak kare
+State: UTTAR PRADESH
+District: MAU
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 61 ===
+Query Type: Disease
+Question: MURGI PALAN KI SAMASYA HAI
+Answer: IVRI SE JANKAREE LAYIEN
+State: UTTAR PRADESH
+District: KUSHI NAGAR
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 62 ===
+Query Type: Disease
+Question: diseas control in hen 
+Answer: apply to ph no 0581 2300204
+State: UTTAR PRADESH
+District: AMBEDKAR NAGAR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 63 ===
+Query Type: Disease
+Question: LIME STOOL IN CHICKEN ASSUME  RANIKHET DISEASE
+Answer: IMMEDIATELY CONTACT TO LOCAL VET OFFICE
+State: WEST BENGAL
+District: MALDAH
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 64 ===
+Query Type: Disease
+Question: RANIKHET DISEASE OF POULTRY
+Answer: ASKED TO APPLY VACCINES F-STRAIN FOR 5-6 WEEKS OLD AND R2B FOR 10-12 WEEK OLD ONE
+State: WEST BENGAL
+District: MURSHIDABAD
+Crop Code: 1266
+
+=== CHUNK 65 ===
+Query Type: Disease
+Question: CHICKENS ARE DIE DUE TO FEVER AND POX
+Answer: CONTACT NEAREST VETERINARY DOCTOR
+State: WEST BENGAL
+District: BARDDHAMAN
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 66 ===
+Query Type: Disease
+Question: CONTROL OF RANIKHET DISEASE IN POULTRY
+Answer: APPLY F-STRAIN VACCINES FOR 3-4 WEEK OLD CHICKENS AND R2B VACCINES FOR 10-12 WEEKS OLD ONES
+State: WEST BENGAL
+District: EAST MEDINIPUR
+Crop Code: 1266
+
+=== CHUNK 67 ===
+Query Type: Disease
+Question: Precautions when Bird Flu Exposed
+Answer: Use appropriate personal protective equipment PPE:Disposable gloves or gloves that can be disinfected Protective clothing long-sleeved coveralls with a water-proof apron Disposable shoe covers or those that can be disinfected Safety goggles and For further you can contact your nearest health DepartmentDimapur
+State: SIKKIM
+District: SOUTH DISTRICT
+Crop Code: 1266
+
+=== CHUNK 68 ===
+Query Type: Disease
+Question: to know about the cause of automatically death of chicken
+Answer: please contact your nearest veternary hospital
+State: CHHATTISGARH
+District: UTTAR BASTAR KANKER
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 69 ===
+Query Type: Disease
+Question: CONTROL OF CANKER IN ALMOND
+Answer: CLEAN THE AREA WITH SHARP KNIFE AND APPLY BORDEAUX PASTE ON THE AFFECTED AREA 
+State: UTTARAKHAND
+District: BAGESHWAR
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 70 ===
+Query Type: Disease
+Question: MURGI DIED HO RAHI HAIN
+Answer: SHOULD BE SEPARAT OF HEALTHY HEN FROM EFFECTED BIRDS AND TREATED  OF PHENYL 005SOL
+State: UTTARAKHAND
+District: CHAMOLI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 71 ===
+Query Type: Disease
+Question: MURGI DIED HO RAHI HAIN
+Answer: SHOULD BE SEPARATE OF EACH OTHER HELTHY BIRDS
+State: UTTARAKHAND
+District: CHAMOLI
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 72 ===
+Query Type: Disease
+Question: bhains ko patli latrien ho rahi hai
+Answer: give up one tablet albendazole after 6houres 250ml linseed oil and next day give up same mixture 1 part kattha  5 part khariam 100grmday till normal canditions
+State: UTTARAKHAND
+District: CHAMOLI
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 73 ===
+Query Type: Disease
+Question: INFORMATION REGARDING CONTROL LEAF EATING BEETLES IN ALMONDS
+Answer:  SPRAY ENDOSULFAN 35 EC  2 ML IN 1 LITER OF WATER
+State: UTTARAKHAND
+District: CHAMOLI
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 74 ===
+Query Type: Disease
+Question: MURGI DIED HO RAHI HAIN
+Answer: SHOULD BE BIRD SEPARATE EACH OTHER EFECTED BIRDSSPRAY INSECTICIDES
+State: UTTARAKHAND
+District: CHAMPAWAT
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 75 ===
+Query Type: Disease
+Question: MURGI PALAN KI JANKARI BATAO
+Answer: PLS CONTACT TO IARI-IZZAT NAGAR BAREILLY
+State: UTTARAKHAND
+District: NAINITAL
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 76 ===
+Query Type: Disease
+Question: ASKING ABOUT TREATMENT OF BABESIOSIS OF COW
+Answer: SUGGESTED TO ADMINISTER BERENIL INJ 16GRAM PER 100KG BODY WEIGHT IN 5ML DISTILLED WATER PER 08GRAM OF GRANULEBY DEEP INTRAMUSCULAR ROUTEREPEAT THE DOSE AFTER 1WEEK
+State: UTTARAKHAND
+District: PITHORAGARH
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 77 ===
+Query Type: Disease
+Question: control of jhulsa
+Answer: apply 500gm copper oxi chloride15gm straptocyclineha
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 78 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF WHITE DIARRHOEA OF CHICKEN
+Answer: SUGGESTED TO ADMINISTER TETRACYCLINE POW 5 GM 5 LIT OF WATER FOR THREE CONSECUTIVE DAYS
+State: ASSAM
+District: GOALPARA
+Crop Code: 1266
+
+=== CHUNK 79 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF WHITE DIARRHOEA IN POULTRY
+Answer: SUGGESTED TO ADMINISTER TETRACYCLINE POW  5gm 5LITRE OF WATER FOR FIVE DAYS
+State: ASSAM
+District: DHUBRI
+Crop Code: 1266
+
+=== CHUNK 80 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF WHITE DIARRHOEA OF POULTRY
+Answer: SUGGESTED TO ADMINISTER TETRACYCLINE POWDER  5gm 5 Lit OF WATER FOR THREE DAYS
+State: ASSAM
+District: DHUBRI
+Crop Code: 1266
+
+=== CHUNK 81 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF GREENISH DIARRHOEA OF BOILLER
+Answer: SUGGESTED TO ADMINISTER CEPHALEXIN POW5 GM5LIT OF WATER FOR THREE DAYS
+State: ASSAM
+District: DHUBRI
+Crop Code: 1266
+
+=== CHUNK 82 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF WHITE DIARRHOEA OF POULTRY
+Answer: SUGGESTED TO ADMINISTER TETRACYCLINE POW 5GM 5LIT OF WATER FOR THREE CONSECUTIVE DAYS
+State: ASSAM
+District: DHUBRI
+Crop Code: 1266
+
+=== CHUNK 83 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF COCCIDIOSIS OF BROILLER
+Answer: SUGGESTED TO ADMINISTER COCCIMAR POW7-10 GM100BIRDSKG BODY WTDAILY 
+State: ASSAM
+District: DHUBRI
+Crop Code: 1266
+
+=== CHUNK 84 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF WHITE DIARRHOEA 
+Answer: SUGGESTED TO ADMINISTER TETRACYCLINE POW5gm5 LIT OF WATER FOR FIVE DAYS
+State: ASSAM
+District: KAMRUP
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 85 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF WHITE DIARRHOEA
+Answer: SUGGESTED TO ADMINISTER TETRACYCLINE POW 5GM 5LIT OF WATER FOR FIVE DAYS
+State: ASSAM
+District: DIBRUGARH
+Crop Code: 1266
+
+=== CHUNK 86 ===
+Query Type: Disease
+Question: POULTRY CALL
+Answer: CONTACT NEAREST VET DOCTOR
+State: JAMMU AND KASHMIR
+District: UDHAMPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 87 ===
+Query Type: Disease
+Question: disease of poultry
+Answer: contact with block horticulture office
+State: ODISHA
+District: MAYURBHANJ
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 88 ===
+Query Type: Disease
+Question: disease of poultry
+Answer: consult with block VS
+State: ODISHA
+District: JAJAPUR
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 89 ===
+Query Type: Disease
+Question: disease of ducks
+Answer: contact with block vs
+State: ODISHA
+District: JAJAPUR
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 90 ===
+Query Type: Disease
+Question: DISEASE OF POULTRY
+Answer: CONTACT WITH BLOCK VETERINERY SURGEON
+State: ODISHA
+District: BAUDH
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 91 ===
+Query Type: Disease
+Question: disease of poultry
+Answer: contact with block veterinery surgeon
+State: ODISHA
+District: KHORDHA
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 92 ===
+Query Type: Disease
+Question:   FARMER ASKS ABOUT THE LEAF CURL IN PAPAYA
+Answer: I TOLD HIM TO SPRAY THE MALATHION  250ML IN 250LT OF WATERACRE
+State: PUNJAB
+District: AMRITSAR
+Season: RABI
+Crop Code: 1324
+
+=== CHUNK 93 ===
+Query Type: Disease
+Question: coccidal disease
+Answer: Coxinil liq  30ml100ml of water for 2-3 days
+State: TRIPURA
+District: SOUTH TRIPURA
+Crop Code: 1266
+
+=== CHUNK 94 ===
+Query Type: Disease
+Question: murgiyan lungdi ho rahi hain
+Answer: please you call between 10:00 AM to 5:00 PM
+State: UTTAR PRADESH
+District: BULANDSHAHAR
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 95 ===
+Query Type: Disease
+Question: chiks ko pneumonia ho gaya hai
+Answer: pl contact to CARI bareilly 0581-2310206
+State: UTTAR PRADESH
+District: ALLAHABAD
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 96 ===
+Query Type: Disease
+Question: murgiyon ko khuni penchis aa rahi hai
+Answer: aap najdeeki docter ko dikhayen
+State: UTTAR PRADESH
+District: MIRZAPUR
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 97 ===
+Query Type: Disease
+Question: MURGIYA BIMAR HAIN
+Answer: PLZ CONTACT TO 0581- 2300204
+State: UTTAR PRADESH
+District: GHAZIPUR
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 98 ===
+Query Type: Disease
+Question: MURGI BEEMAR HAIN
+Answer: PLS CONTACT TO NEAR A VETERINARY SURGEON
+State: UTTAR PRADESH
+District: GORAKHPUR
+Crop Code: 1266
+
+=== CHUNK 99 ===
+Query Type: Disease
+Question: MURGI BEEMAR HAIN
+Answer: SHOULD BE TREATED POULTY FORMPHENYL SOLUTION  WITH ANTIBIOTICSCONSULT ALSO A POULTRY SURGEON
+State: UTTAR PRADESH
+District: GORAKHPUR
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 100 ===
+Query Type: Disease
+Question: murgi ki samsya hai
+Answer: contect to this no 0581-2310206
+State: UTTAR PRADESH
+District: BASTI
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 101 ===
+Query Type: Disease
+Question: murgi ke bache ke bimari ho rahi hai 
+Answer: cont no -0581-2300204 par jankari le 
+State: UTTAR PRADESH
+District: AZAMGARH
+Crop Code: 1266
+
+=== CHUNK 102 ===
+Query Type: Disease
+Question: SOME PROBLEMS IN CHICKEN
+Answer: CALL AFTER HALF AN HOURITS LUNCH TIME OF IVRI BAREILLY
+State: UTTAR PRADESH
+District: UNNAO
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 103 ===
+Query Type: Disease
+Question: poultry farm me chichs langara rahi hai
+Answer: pl contact to vetdr or CARI bareilly0581-2310206
+State: UTTAR PRADESH
+District: GONDA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 104 ===
+Query Type: Disease
+Question: murgiya bimar hai
+Answer: plz contact to 0581-2300204
+State: UTTAR PRADESH
+District: SULTANPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 105 ===
+Query Type: Disease
+Question: MURGI KO DAST ATE HAIN
+Answer: PLS CONTACT TO NEAR A VETERINARY SURGEONCONTACT TOMMORROW WITH 0581-2300204
+State: UTTAR PRADESH
+District: MAU
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 106 ===
+Query Type: Disease
+Question: murgiyna maar rahi hai
+Answer: contect to 0581-2310206
+State: UTTAR PRADESH
+District: MAHARAHGANJ
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 107 ===
+Query Type: Disease
+Question: murgi ki samasya
+Answer: apply to no 0581 2300204
+State: UTTAR PRADESH
+District: KUSHI NAGAR
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 108 ===
+Query Type: Disease
+Question: POULTRY-DISEASE
+Answer: SHOULD BE SEPARATE OF EFFECTED  EACH BERDS FROM HEALTHY BIRDSTREATED HOUSECONSULT ALSO A VETERINARY SURGEON
+State: UTTAR PRADESH
+District: KUSHI NAGAR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 109 ===
+Query Type: Disease
+Question: murgiyan bimar hain
+Answer: please you call between 10:00 AM to 5:00 PM
+State: UTTAR PRADESH
+District: BALRAMPUR
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 110 ===
+Query Type: Disease
+Question: Paratyphoid   infection of birds
+Answer: Furazlidone injectable gentamicin spectinomycin and sodium nalidixate are the drugs of choice Bacterin and attenuated live vaccines are used
+State: WEST BENGAL
+District: BIRBHUM
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 111 ===
+Query Type: Disease
+Question: how to control wilt in brinjal
+Answer: plzspray mancozeb 30-35gmsprayer
+State: CHHATTISGARH
+District: DURG
+Season: KHARIF
+Crop Code: 1279
+
+=== CHUNK 112 ===
+Query Type: Disease
+Question: how to control of ranikhet disease in chicken 
+Answer: plsapply lasota vaksin 
+State: CHHATTISGARH
+District: UTTAR BASTAR KANKER
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 113 ===
+Query Type: Disease
+Question: CASTLE PROBLEM IN CHICKEN
+Answer: APPLY PTASSIUM PERMAGNATESUGAR SOLUTION
+State: UTTARAKHAND
+District: CHAMPAWAT
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 114 ===
+Query Type: Disease
+Question: asked about hen diseases
+Answer: given him relted phone number
+State: ANDHRA PRADESH
+District: KRISHNA
+Crop Code: 2825
+
+=== CHUNK 115 ===
+Query Type: Disease
+Question: asked about veternairy information
+Answer: given phone number 040 23311720
+State: ANDHRA PRADESH
+District: KRISHNA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 116 ===
+Query Type: Disease
+Question: asked aboutaphids in poultry birds
+Answer: given him animal husbandary contact number
+State: ANDHRA PRADESH
+District: NELLORE
+Crop Code: 2825
+
+=== CHUNK 117 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF WHITE DIARRHOEA
+Answer: SUGGESTED TO ADMINISTER TETRACYCLINE POW1GM1LIT OF WATER FOR THREE CONSECUTIVE DAYS
+State: ASSAM
+District: NAGAON
+Crop Code: 1266
+
+=== CHUNK 118 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF BACILLERY WHITE DIARRHOEA
+Answer: SUGGESTED TO ADMINISTER SULCOPRIM BOLUS 1GM LIT OF WATER DAILY FOR THREE CONSECUTIVE DAYS
+State: ASSAM
+District: JORHAT
+Crop Code: 1266
+
+=== CHUNK 119 ===
+Query Type: Disease
+Question: ASKING ABOUT THE SOURCE OF INFORMATION OF LAYER CHICKEN
+Answer: SUGGESTED TO CONTACT THE FARM MANAGER SIRD
+State: ASSAM
+District: LAKHIMPUR
+Crop Code: 1266
+
+=== CHUNK 120 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF BLINDNESS OF BROILLER
+Answer: SUGGESTED TO ADMINISTER VITAMINE AD3 E SYRUP 2ML1LIT OF WATER DAILY FOR THREE CONSECUTIVE DAYS
+State: ASSAM
+District: DIBRUGARH
+Crop Code: 1266
+
+=== CHUNK 121 ===
+Query Type: Disease
+Question: ASKING  ABOUT THE TREATMENT OF DUCK VIRUS HEPATITIS
+Answer: SUGGESTED TO APPLY THE LEXIN POW1GMLIT OF WATER
+State: ASSAM
+District: GOLAGHAT
+Crop Code: 1266
+
+=== CHUNK 122 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF BACILLERY WHITE DIARRHOEA OF BROILLER
+Answer: SUGGESTED TO ADMINISTER ENRODAC SULCOPRIM POW1GMLIT OF WATER DAILY FOR THREE CONSECUTIVE DAYS
+State: ASSAM
+District: GOLAGHAT
+Crop Code: 1266
+
+=== CHUNK 123 ===
+Query Type: Disease
+Question: VETY QWERRY ABOUT BROILER
+Answer: CALL FORWARDED TO EXPERT
+State: ASSAM
+District: GOLAGHAT
+Crop Code: 1266
+
+=== CHUNK 124 ===
+Query Type: Disease
+Question: ASKING ABOUT THE TREATMENT OF WHITE DIARRHOEA OF A BROILLER FARM
+Answer: SUGGESTED TO ADMINISTER SULPHUR DRUGS 1 GM LIT OF WATER
+State: ASSAM
+District: GOLAGHAT
+Crop Code: 1266
+
+=== CHUNK 125 ===
+Query Type: Disease
+Question: VETY QWERRY
+Answer: FORWARDED TO VETY EXPERT
+State: ASSAM
+District: DHEMAJI
+Crop Code: 2825
+
+=== CHUNK 126 ===
+Query Type: Disease
+Question: ASKING ABOUT  POULTRY TREATMENT
+Answer: rX Amprolium powder 10GMLIt  Of waterX7 days Tetracyclin pOwdEr 10GmLit oF waTErX7 days
+State: ASSAM
+District: TINSUKIA
+Crop Code: 1266
+
+=== CHUNK 127 ===
+Query Type: Disease
+Question: DISESE IN CHIKEN
+Answer: CONTACT TO NEAR ANIMAL DOCTOR
+State: BIHAR
+District: DARBHANGA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 128 ===
+Query Type: Disease
+Question: egg
+Answer: give proper information
+State: GUJARAT
+District: BANAS KANTHA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 129 ===
+Query Type: Disease
+Question: POULTRY PROBLEM 
+Answer: FARMER REFFERED TO LEVEL 2 EXPERT 
+State: JAMMU AND KASHMIR
+District: BARAMULLA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 130 ===
+Query Type: Disease
+Question: DISEASE IN POULTRY 
+Answer: FOR MOER INFORMATION CONTACT NEAREST POULTRY DEVELOPMENT OFFICER OF YOUR BLOCK 
+State: JAMMU AND KASHMIR
+District: BARAMULLA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 131 ===
+Query Type: Disease
+Question: CONTROL AND TREATMENT OF GASTROINTESTINAL NEMATODES IN CHICKEN 
+Answer: FOR DEWORMING OF CHICKENS GIVE 300GM ALBOMAR POWDER PER 1000 BIRDS 
+State: JAMMU AND KASHMIR
+District: JAMMU
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 132 ===
+Query Type: Disease
+Question: drying of beak of chicken
+Answer: use vitadane oinment
+State: KERALA
+District: ERNAKULAM
+Crop Code: 2825
+
+=== CHUNK 133 ===
+Query Type: Disease
+Question: disease of chicken
+Answer: conatct veteinary hospital-0484 2351264
+State: KERALA
+District: ERNAKULAM
+Crop Code: 1266
+
+=== CHUNK 134 ===
+Query Type: Disease
+Question: vaccination against raniket disease
+Answer: contact vetinery  hospitalfree vaccination availble
+State: KERALA
+District: THRISSUR
+Crop Code: 2825
+
+=== CHUNK 135 ===
+Query Type: Disease
+Question: chicken -disease
+Answer: contact nearest veterinary doctor
+State: KERALA
+District: KOZHIKODE
+Crop Code: 1266
+
+=== CHUNK 136 ===
+Query Type: Disease
+Question: duck leg problem
+Answer: consult vetinary docter
+State: KERALA
+District: KOZHIKODE
+Crop Code: 2825
+
+=== CHUNK 137 ===
+Query Type: Disease
+Question: ibi vaccine in chicks
+Answer: contact your veterinary docter
+State: KERALA
+District: KASARGOD
+Crop Code: 1266
+
+=== CHUNK 138 ===
+Query Type: Disease
+Question: disease in poultry
+Answer: consult a veterinary doctor
+State: KERALA
+District: KOLLAM
+Crop Code: 1266
+
+=== CHUNK 139 ===
+Query Type: Disease
+Question: diseasein chicken
+Answer: contact nearest vetinery doctor
+State: KERALA
+District: KOLLAM
+Crop Code: 1266
+
+=== CHUNK 140 ===
+Query Type: Disease
+Question: information about rani khet vaccine
+Answer: contact nearest veterinary hospital
+State: MADHYA PRADESH
+District: BALAGHAT
+Crop Code: 1266
+
+=== CHUNK 141 ===
+Query Type: Disease
+Question: farmer want to know the information regarding the chicken related disease
+Answer: suggest him to contact following no :- 1800 180 1199
+State: MADHYA PRADESH
+District: SEONI
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 142 ===
+Query Type: Disease
+Question: Tell me about disease in birds
+Answer: Please contact to nearest veternary hospital
+State: MADHYA PRADESH
+District: CHHATARPUR
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 143 ===
+Query Type: Disease
+Question: virul infection on chicken
+Answer: contact to livestock devlopment officer
+State: MAHARASHTRA
+District: BHANDARA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 144 ===
+Query Type: Disease
+Question: ASKING QUESTIONS FROM VETERINARY SECTION
+Answer: ADVICE DIRECTED BY VETERINARIAN
+State: MEGHALAYA
+District: EAST JAINTA HILLS
+Crop Code: 1266
+
+=== CHUNK 145 ===
+Query Type: Disease
+Question: SYMPTOMS OF RANIKHET DISEASE
+Answer: CONSULT THE LOCAL VAS OR LIVESTOCK INSPECTOR IMMEDIATLY
+State: ODISHA
+District: BALANGIR
+Crop Code: 1266
+
+=== CHUNK 146 ===
+Query Type: Disease
+Question: VACCINATION
+Answer: CONTACT LEVEL 2 EXPERT
+State: ODISHA
+District: BALANGIR
+Crop Code: 1266
+
+=== CHUNK 147 ===
+Query Type: Disease
+Question: DISEASE
+Answer: CONTACT LEVEL 1 EXPERT
+State: ODISHA
+District: BALANGIR
+Crop Code: 1266
+
+=== CHUNK 148 ===
+Query Type: Disease
+Question: VACCINATION
+Answer: CONTACT BLOCK OFFICE
+State: ODISHA
+District: BALANGIR
+Crop Code: 1266
+
+=== CHUNK 149 ===
+Query Type: Disease
+Question: DISEASE IN CHICKEN
+Answer: REFFERED TO VATERINARY SURGEON
+State: ODISHA
+District: BALANGIR
+Crop Code: 1266
+
+=== CHUNK 150 ===
+Query Type: Disease
+Question: DISEASE
+Answer: CONTACT LEVEL 1 EXPERT
+State: ODISHA
+District: BALANGIR
+Crop Code: 1266
+
+=== CHUNK 151 ===
+Query Type: Disease
+Question: VACCINATION
+Answer: CONTACT LEVEL 1 EXPERT
+State: ODISHA
+District: DHENKANAL
+Crop Code: 1266
+
+=== CHUNK 152 ===
+Query Type: Disease
+Question: DISEASE TO CHICKS
+Answer: DIRECTED TO LOCAL VAS DUE TO LACK OF VETERINARY EXPERT
+State: ODISHA
+District: BARGARH
+Crop Code: 1266
+
+=== CHUNK 153 ===
+Query Type: Disease
+Question: information regarding to beekeeeping
+Answer: plz contact this no-98888-85556
+State: PUNJAB
+District: LUDHIANA
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 154 ===
+Query Type: Disease
+Question: asking about chicken diseases
+Answer: cuddalore veterinary dept contact no 04142  220049
+State: TAMILNADU
+District: CUDDALORE
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 155 ===
+Query Type: Disease
+Question: detail for chicken disease
+Answer: contact to namakkal KVK 04286-266345
+State: TAMILNADU
+District: VELLORE
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 156 ===
+Query Type: Disease
+Question: vellore veterinary dept contact no
+Answer: vellore veterinary dept contact no 0416  2253022
+State: TAMILNADU
+District: VELLORE
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 157 ===
+Query Type: Disease
+Question: detail for chicks-disease management
+Answer: Explain  contact to selam birds pathology lab-04282-231645
+State: TAMILNADU
+District: SALEM
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 158 ===
+Query Type: Disease
+Question: Ranikhet disease
+Answer: inject to periodic vaccination
+State: TAMILNADU
+District: COIMBATORE
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 159 ===
+Query Type: Disease
+Question: disease for chiken
+Answer: contact to 0422-6611212
+State: TAMILNADU
+District: ERODE
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 160 ===
+Query Type: Disease
+Question: details for poultry disease
+Answer: contact to MDU 04522-483903
+State: TAMILNADU
+District: MADURAI
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 161 ===
+Query Type: Disease
+Question: detail for chicks-disease management
+Answer: Explain  contact to selam birds pathology lab-04282-231645
+State: TAMILNADU
+District: MADURAI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 162 ===
+Query Type: Disease
+Question: Veterinary University and training center
+Answer: contact to Veterinary University and training center:0452 2483903
+State: TAMILNADU
+District: MADURAI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 163 ===
+Query Type: Disease
+Question: asking about poultry diseases details
+Answer: contact to tirunelveli veterinary dept no 0462  2337309
+State: TAMILNADU
+District: TIRUNELVELI
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 164 ===
+Query Type: Disease
+Question: asking about chiken  disease
+Answer: contact vetnary doctors
+State: TAMILNADU
+District: NAMAKKAL
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 165 ===
+Query Type: Disease
+Question: ASKING ABOUT POULTRY DISEASES DETAILS
+Answer: CONTACT TO VETERINARY OFFICE
+State: TAMILNADU
+District: NAMAKKAL
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 166 ===
+Query Type: Disease
+Question: chicken ranicut disease
+Answer: first isolatrd the birds  contact veterinary doctor
+State: TAMILNADU
+District: ARIYALUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 167 ===
+Query Type: Disease
+Question: pigeon died
+Answer: advise him to contact local Asistant Veterianary Surgeon
+State: TRIPURA
+District: WEST TRIPURA
+Crop Code: 2825
+
+=== CHUNK 168 ===
+Query Type: Disease
+Question: asking about medication in desi birds age about 30 days
+Answer: advised 1ostocalcium  vimeral mix together 20-30ml for 100birds for 15 days in a month 2minamil add 10kg in 100kglocal feed 3 internal parasiteAlbomar 20-30ml in water for 3days
+State: TRIPURA
+District: WEST TRIPURA
+Crop Code: 1266
+
+=== CHUNK 169 ===
+Query Type: Disease
+Question: ASKING ABOUT THE CHIENKEN PROBLEM
+Answer: TRANSFER THE CALL TO VETENARY SPECILIST
+State: TRIPURA
+District: NORTH TRIPURA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 170 ===
+Query Type: Disease
+Question: emu farming ke bare me bataye
+Answer: all detail given by kcc
+State: UTTAR PRADESH
+District: ALLAHABAD
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 171 ===
+Query Type: Disease
+Question: battakh palan ke baare me bataye
+Answer: proper jaankari de gayi
+State: UTTAR PRADESH
+District: JHANSI
+Crop Code: 2825
+
+=== CHUNK 172 ===
+Query Type: Disease
+Question: die
+Answer: contact of vat officer
+State: UTTAR PRADESH
+District: VARANASI
+Crop Code: 1266
+
+=== CHUNK 173 ===
+Query Type: Disease
+Question: murgiyo ke chuje mar rhe hai kya kare
+Answer: apne najdeeki pashu chiktsak mile
+State: UTTAR PRADESH
+District: MIRZAPUR
+Crop Code: 1266
+
+=== CHUNK 174 ===
+Query Type: Disease
+Question: chunje mar rahe hain
+Answer: conference with doctor
+State: UTTAR PRADESH
+District: MIRZAPUR
+Crop Code: 1266
+
+=== CHUNK 175 ===
+Query Type: Disease
+Question: murgi bimar hai
+Answer: 1800-180-5141 par sampark kare
+State: UTTAR PRADESH
+District: GHAZIPUR
+Crop Code: 1266
+
+=== CHUNK 176 ===
+Query Type: Disease
+Question: bee kiping
+Answer: apis indica pragat best kiping
+State: UTTAR PRADESH
+District: AZAMGARH
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 177 ===
+Query Type: Disease
+Question: murgi ki beet me  kide nikal rahe he
+Answer: to consult nearst VO
+State: UTTAR PRADESH
+District: FAIZABAD
+Crop Code: 1266
+
+=== CHUNK 178 ===
+Query Type: Disease
+Question: poultry ke bARE ME JANKKARE
+Answer: EXPERT SE CONTACT KARAYAE
+State: UTTAR PRADESH
+District: FAIZABAD
+Crop Code: 1266
+
+=== CHUNK 179 ===
+Query Type: Disease
+Question: battakh ke panje mur rahe he
+Answer: plz contact to no - 1800-180-5141
+State: UTTAR PRADESH
+District: GONDA
+Crop Code: 2825
+
+=== CHUNK 180 ===
+Query Type: Disease
+Question: MURGI ME ROG HAI
+Answer: DOCTER SE BAAT NAHI HO PAYI
+State: UTTAR PRADESH
+District: SANT RAVIDAS NAGAR BHADOHI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 181 ===
+Query Type: Disease
+Question: coxi diseases
+Answer: contact block officer
+State: WEST BENGAL
+District: HOOGHLY
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 182 ===
+Query Type: Disease
+Question: CONTROL OF FEVER IN CHICKEN
+Answer: CONTRACT TO VATERINARY SURGEANT
+State: WEST BENGAL
+District: BARDDHAMAN
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 183 ===
+Query Type: Disease
+Question: disease of chicks
+Answer: To contact the veterinery doctor
+State: CHHATTISGARH
+District: SURGUJA
+Crop Code: 1266
+
+=== CHUNK 184 ===
+Query Type: Disease
+Question: murgi ke chuje bimar pad ja rahe hai
+Answer: Proper jankari di gai
+State: UTTARAKHAND
+District: ALMORA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 185 ===
+Query Type: Disease
+Question: murgi bimar hai
+Answer: plz contact to 581- 2311111
+State: UTTARAKHAND
+District: ALMORA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 186 ===
+Query Type: Disease
+Question: adrak sad rahi hain
+Answer: Adrak sadan ko rokne ke liye METALAXYL 8  MANCOZEB 64 WP  2 gmliter of water ka spray kare
+State: UTTARAKHAND
+District: CHAMOLI
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 187 ===
+Query Type: Disease
+Question: nursery ka kavak rog kaun sa hota hai
+Answer: nursery ka kavak rog adragalan hota hai
+State: UTTARAKHAND
+District: DEHRADUN
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 188 ===
+Query Type: Disease
+Question: paraukt rasayan kaun sa hota hai
+Answer: paraukt rasayan agrosan ariton sereson hota hai
+State: UTTARAKHAND
+District: HARIDWAR
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 189 ===
+Query Type: Disease
+Question: murgimar rahi hai
+Answer: ranikhet bimari kai teeka lagai
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 1266
+
+=== CHUNK 190 ===
+Query Type: Disease
+Question: murgi ki ankho me pani niklta raha
+Answer: pas ke vetnery DR se sarperk kare
+State: UTTARAKHAND
+District: NAINITAL
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 191 ===
+Query Type: Disease
+Question: malta ke pedper malta sad ja rahe hai pathiya pili ho rahi hai
+Answer: spray copperoxychloride 3 gram liter of water aur ped ki jud mai nirai -gudai karne ke bad 10 kg gober ki sadi khad 100 gram  nitrozen60 phosporaS60 gram potash mila de 
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 192 ===
+Query Type: Disease
+Question: murgi kai bachha mar rahai hai
+Answer: ranikhet bimari kai teeka lagai
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 193 ===
+Query Type: Disease
+Question: asking about chicken having loose diarrhoea
+Answer: advised to give 1lixen powder  2gmlitre water for 5 days  2massage the cropthroat thoroughly
+State: ASSAM
+District: DIBRUGARH
+Crop Code: 1266
+
+=== CHUNK 194 ===
+Query Type: Disease
+Question: asking about twisting of neck no appetide
+Answer: advised 1Lixen powder  2gm1 litre water for 5 days 2 Ambiplex  5ml in water for 15 days continuosly
+State: ASSAM
+District: KARBI-ANGLONG
+Crop Code: 1266
+
+=== CHUNK 195 ===
+Query Type: Disease
+Question: white diarrhoea in poultry
+Answer: advised1Duaprim powder 5gmltr water for 5 days
+State: ASSAM
+District: TINSUKIA
+Crop Code: 1266
+
+=== CHUNK 196 ===
+Query Type: Disease
+Question: diseases
+Answer: give proepr information
+State: GUJARAT
+District: SURAT
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 197 ===
+Query Type: Disease
+Question: how to control  bird flu
+Answer: contact you nearest veterinary doctor
+State: MADHYA PRADESH
+District: REWA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 198 ===
+Query Type: Disease
+Question: DYSENTRY OF CHICKEN
+Answer: PLZ MEET TO VATERNARY DOCTOR
+State: MAHARASHTRA
+District: DHULE
+Crop Code: 1266
+
+=== CHUNK 199 ===
+Query Type: Disease
+Question: ATTACK RANI KHET
+Answer: VISIT NNEAR TO DOCTAR
+State: MAHARASHTRA
+District: PUNE
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 200 ===
+Query Type: Disease
+Question: DISEASE  CONTROL
+Answer: RANIKHET  GAMBORA  DO VACCINATION 
+State: MAHARASHTRA
+District: LATUR
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 201 ===
+Query Type: Disease
+Question: CONTINUOUS TEARING IN EYES AND THE BIRDS ARE UNABLE TO SEE EVEN
+Answer: REFERED TO VETERENARY DOCTOR IN THAT AREA
+State: ODISHA
+District: JAJAPUR
+Crop Code: 1266
+
+=== CHUNK 202 ===
+Query Type: Disease
+Question: DISEASE
+Answer: CONTACT LEVEL 1 EXPERT
+State: ODISHA
+District: KENDRAPARA
+Crop Code: 1266
+
+=== CHUNK 203 ===
+Query Type: Disease
+Question: chicken ranikat disease
+Answer: explain  contact veterinary doctor
+State: TAMILNADU
+District: KANCHEEPURAM
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 204 ===
+Query Type: Disease
+Question: ranikhet fever for chicks
+Answer: contact to saravanampatti animal husbandary centre-0422-2669965
+State: TAMILNADU
+District: VELLORE
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 205 ===
+Query Type: Disease
+Question: ranicut disease
+Answer: contact veterinary doctor
+State: TAMILNADU
+District: SALEM
+Crop Code: 1266
+
+=== CHUNK 206 ===
+Query Type: Disease
+Question: chicken ranicut disease
+Answer: contact veterinary doctor
+State: TAMILNADU
+District: DHARMAPURI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 207 ===
+Query Type: Disease
+Question: ranicut disease
+Answer: contact veterinary doctor
+State: TAMILNADU
+District: ERODE
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 208 ===
+Query Type: Disease
+Question: ranicut disease
+Answer: contact veterinary doctor
+State: TAMILNADU
+District: THANJAVUR
+Crop Code: 1266
+
+=== CHUNK 209 ===
+Query Type: Disease
+Question: ranicut disease
+Answer: contact veterinary doctor
+State: TAMILNADU
+District: MADURAI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 210 ===
+Query Type: Disease
+Question: ranicut disease
+Answer: contact veterinary doctor
+State: TAMILNADU
+District: TIRUNELVELI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 211 ===
+Query Type: Disease
+Question: disease management for broiler chicks
+Answer: explain the detail  contact to saravanampatti-0422-2669965
+State: TAMILNADU
+District: THIRUVALLUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 212 ===
+Query Type: Disease
+Question: ranicut disease
+Answer: contact veterinary doctor
+State: TAMILNADU
+District: THENI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 213 ===
+Query Type: Disease
+Question: ranicut disease
+Answer: contact veterinary doctor
+State: TAMILNADU
+District: ARIYALUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 214 ===
+Query Type: Disease
+Question: murgi bimar hai
+Answer: najdeeki doctor se sampark kare
+State: UTTAR PRADESH
+District: VARANASI
+Crop Code: 1266
+
+=== CHUNK 215 ===
+Query Type: Disease
+Question: Murgi mar rhi hai
+Answer: IVRI baat kra di jaygi
+State: UTTAR PRADESH
+District: SANT KABIR NAGAR
+Crop Code: 1266
+
+=== CHUNK 216 ===
+Query Type: Disease
+Question: diseases of chicken
+Answer: go to nearest poultry farm office
+State: WEST BENGAL
+District: EAST MEDINIPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 217 ===
+Query Type: Disease
+Question: how to control disease in poultry
+Answer: contect us nearest poultry doctor
+State: CHHATTISGARH
+District: RAIPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 218 ===
+Query Type: Disease
+Question: Ploutary disease 
+Answer: contact vetnairy  Doctar
+State: CHHATTISGARH
+District: SURGUJA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 219 ===
+Query Type: Disease
+Question: death of poultry
+Answer: call tomorrow 10  t0  4 pm
+State: JHARKAND
+District: LOHARDAGA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 220 ===
+Query Type: Disease
+Question: maurgi mar rahi hai kiya kare
+Answer: beemar murgiyo ko alag baade me band kar rakhe aur apne najdeeki pashu chikitshak ko dikhaye
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 1266
+
+=== CHUNK 221 ===
+Query Type: Disease
+Question: murgi bimar hai kya kare
+Answer: aap apne najdeek pashu chikthsa keandra par jakar DR SE SAMPARK KARE
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 1266
+

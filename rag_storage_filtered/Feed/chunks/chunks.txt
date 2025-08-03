@@ -1,0 +1,332 @@
+=== CHUNK 1 ===
+Query Type: Feed
+Question: avablity
+Answer: sugana address given
+State: KARNATAKA
+District: KOPPAL
+Crop Code: 1266
+
+=== CHUNK 2 ===
+Query Type: Feed
+Question: to know about the making information of brailar feed
+Answer: plscall me after some time i am collecting about that information
+State: MADHYA PRADESH
+District: UMARIA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 3 ===
+Query Type: Feed
+Question: to know about the making process of braylar feed
+Answer: i given that information with dose of various Ingredient
+State: MADHYA PRADESH
+District: UMARIA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 4 ===
+Query Type: Feed
+Question: preparation of chick mash
+Answer: preparation of chick mash-  maize bran  35   rice bran 15-20 wheat bran 10-12  groundnut cake 30  fish meal 7  2 mineral mixture
+State: MAHARASHTRA
+District: PUNE
+Crop Code: 1266
+
+=== CHUNK 5 ===
+Query Type: Feed
+Question: poultry feed manufacturing company
+Answer: VenkysLtd Venkateshwara House S No 114A2 Pune Sinhagad Rd Pune  411 030
+State: MAHARASHTRA
+District: PUNE
+Crop Code: 1266
+
+=== CHUNK 6 ===
+Query Type: Feed
+Question: imu farm contact number
+Answer: 985009870 imu farm association pune
+State: MAHARASHTRA
+District: KOLHAPUR
+Crop Code: 2825
+
+=== CHUNK 7 ===
+Query Type: Feed
+Question: feed mangement of chiken 8 weeks
+Answer: give 1-15 kg chick mash bird
+State: MAHARASHTRA
+District: JALNA
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 8 ===
+Query Type: Feed
+Question: Asking about ration to be given to birds
+Answer: The feeds should be given accordingly to their ages viz starter ration and finisher ration Example: Ration to be given to broiler in quantity a for broiler starter: 14kg Maize:10kg Rice Polish:14kg Ground nut cake: 14kg sun flower cake: 10 kg Fish meal: 35 kg Blood meal: 112 kg Mineral mixture: 112 kg Vit mixture and 12kg Salt For Broiler Finisher: 45Kg:20Kg:95kg:95Kg:9Kg:35Kg:112Kg:112Kg:12kg of the above ingredients
+State: MEGHALAYA
+District: EAST JAINTA HILLS
+Crop Code: 1266
+
+=== CHUNK 9 ===
+Query Type: Feed
+Question: I WANT TO PREPEAR POULTRY FEED
+Answer: CONTACT GOVTPOULTRY FARM 0141-2350929
+State: RAJASTHAN
+District: HANUMANGARH
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 10 ===
+Query Type: Feed
+Question: asking about poultry feeding details
+Answer: given veterinary college number namakkal 04286-266345
+State: TAMILNADU
+District: DHARMAPURI
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 11 ===
+Query Type: Feed
+Question: murgiyon ko kya khilayen
+Answer: murgi dana  ca mixture khilayen
+State: UTTAR PRADESH
+District: JAUNPUR
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 12 ===
+Query Type: Feed
+Question: machhaliyon ko kya khilayen
+Answer: chawal ka kana  sarson ki khali ka mixture khilayen
+State: UTTAR PRADESH
+District: MAU
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 13 ===
+Query Type: Feed
+Question: where is available the cheaper feed for poultry farm
+Answer: you can contact your district animal husbandary department
+State: CHHATTISGARH
+District: SURGUJA
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 14 ===
+Query Type: Feed
+Question: asking about poultry loan
+Answer: plzcontact yr neareast bank
+State: JHARKAND
+District: RANCHI
+Crop Code: 1266
+
+=== CHUNK 15 ===
+Query Type: Feed
+Question: ghar me gay ka poushtik ahar kaise taair kare
+Answer: dana-40kggehun ka chokar -30kgkhali -27kgnamak-1kgkaria-1kgkhaniz lawan-1kg
+State: UTTARAKHAND
+District: BAGESHWAR
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 16 ===
+Query Type: Feed
+Question: gaay ka dudh kam ho raha hai
+Answer: apply glyco powder  poushtik ahar
+State: UTTARAKHAND
+District: NAINITAL
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 17 ===
+Query Type: Feed
+Question: poultry feed
+Answer: contact number given
+State: KARNATAKA
+District: MYSORE
+Crop Code: 1266
+
+=== CHUNK 18 ===
+Query Type: Feed
+Question: poultry information given
+Answer: hesarghatta poultry farm contact number given to get information
+State: KARNATAKA
+District: HAVERI
+Crop Code: 1266
+
+=== CHUNK 19 ===
+Query Type: Feed
+Question: where from get poultry feed 
+Answer: contact to food grains retailer  veterinary officer ddv  dav 
+State: MADHYA PRADESH
+District: JHABUA
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 20 ===
+Query Type: Feed
+Question: Feed management
+Answer: Given all required information
+State: MAHARASHTRA
+District: BEED
+Crop Code: 1266
+
+=== CHUNK 21 ===
+Query Type: Feed
+Question: Asking about ration to be given to birds
+Answer: The feeds should be given accordingly to their ages viz starter ration and finisher ration Example: Ration to be given to broiler in quantity a for broiler starter: 14kg Maize:10kg Rice Polish:14kg Ground nut cake: 14kg sun flower cake: 10 kg Fish meal: 35 kg Blood meal: 112 kg Mineral mixture: 112 kg Vit mixture and 12kg Salt For Broiler Finisher: 45Kg:20Kg:95kg:95Kg:9Kg:35Kg:112Kg:112Kg:12kg of the above ingredients
+State: MEGHALAYA
+District: EAST KHASI HILLS
+Crop Code: 1266
+
+=== CHUNK 22 ===
+Query Type: Feed
+Question: murgiyon ko kya khilayen
+Answer: startar ration till 4 week and after than finisher ration till marketing
+State: UTTAR PRADESH
+District: AGRA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 23 ===
+Query Type: Feed
+Question: murgiyon ko kya khilayen 
+Answer: bajar se murgi dana le leejiye
+State: UTTAR PRADESH
+District: SANT KABIR NAGAR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 24 ===
+Query Type: Feed
+Question: How long chicks should be kept in a brooder
+Answer: can vary depending on season wise but average is one month
+State: MIZORAM
+District: AIZAWL
+Crop Code: 1266
+
+=== CHUNK 25 ===
+Query Type: Feed
+Question: VET RELATED QUERY
+Answer: TRANSFERED TO VET EXPART
+State: ASSAM
+District: SIVASAGAR
+Crop Code: 1266
+
+=== CHUNK 26 ===
+Query Type: Feed
+Question: ASKING HOW TO MAKE CHICKEN FEED
+Answer: CALL TRANSFER TO VETENARY SPECILIST
+State: ASSAM
+District: TINSUKIA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 27 ===
+Query Type: Feed
+Question: chiken feed suppliment
+Answer: apply feed 1to 20week
+State: MAHARASHTRA
+District: AKOLA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 28 ===
+Query Type: Feed
+Question: FEEDING SYSTEM IN  POULTARY
+Answer: REFER TO   POULTARY  DEPT IN OUAT
+State: ODISHA
+District: SAMBALPUR
+Crop Code: 1266
+
+=== CHUNK 29 ===
+Query Type: Feed
+Question: POULTRY RELATED PROBLEMS
+Answer: TRANSFERD TO VETERINARIAN
+State: TRIPURA
+District: WEST TRIPURA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 30 ===
+Query Type: Feed
+Question: FEED
+Answer: MAIZE BAZRA GROUNDNUT KHALI ETC
+State: UTTAR PRADESH
+District: SANT KABIR NAGAR
+Crop Code: 1266
+
+=== CHUNK 31 ===
+Query Type: Feed
+Question: murgi feed ki jankari
+Answer: pili makka rice police mungfali ki khali etc bana hua bhi aata he
+State: UTTARAKHAND
+District: DEHRADUN
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 32 ===
+Query Type: Feed
+Question: HE ASKED ABOUT COMPARISON OF THREE FORMS OF POULTRY FEEDS SUCH AS MASHPELLET AND CRUMBLES
+Answer: SUGGESTED HIM TO GIVE STARTER CRUMBLES UPTO 6 WEEKS AND FOLLOW UP WITH FINISHER PELLETS TILL MARKET WEIGHT
+State: MIZORAM
+District: AIZAWL
+Crop Code: 1266
+
+=== CHUNK 33 ===
+Query Type: Feed
+Question: cuddalore veterinary dept contact no
+Answer: cuddalore veterinary dept contact no 04142  220049
+State: PUDUCHERRY
+District: PUDUCHERRY
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 34 ===
+Query Type: Feed
+Question: food for turky birds
+Answer: given him information as per data
+State: ANDHRA PRADESH
+District: EAST GODAVARI
+Crop Code: 2825
+
+=== CHUNK 35 ===
+Query Type: Feed
+Question: asked aBOUT POULTRY FOOD
+Answer: GIVEN HIM INFORMATION AS PER DATA
+State: ANDHRA PRADESH
+District: ANANTPUR
+Crop Code: 2825
+
+=== CHUNK 36 ===
+Query Type: Feed
+Question: FOOD COMPOSITION OF POULTRY
+Answer: TAKE SUGGESTION FROM EXPERT
+State: ODISHA
+District: KEONJHAR
+Crop Code: 1266
+
+=== CHUNK 37 ===
+Query Type: Feed
+Question: detail for chicks feeding
+Answer: contact to namakkal KVK-04286-266345
+State: TAMILNADU
+District: CUDDALORE
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 38 ===
+Query Type: Feed
+Question: bird feed details
+Answer: explain the bird feed details
+State: TAMILNADU
+District: PUDUKKOTTAI
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 39 ===
+Query Type: Feed
+Question: murgi ko kaun sa chara dete hai
+Answer: pahle 15 dno tak starter uske baad 15 dino tak grower aur uske 15 dino baad finisher dete hai
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 1266
+

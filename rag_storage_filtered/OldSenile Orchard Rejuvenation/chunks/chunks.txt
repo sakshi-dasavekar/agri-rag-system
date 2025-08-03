@@ -1,0 +1,6158 @@
+=== CHUNK 1 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: INFORMATION REGARDING AVAILABILITY OF GUAVA PLANT
+Answer: CONTACT YOUR HDO OR DHO
+State: HARYANA
+District: HISSAR
+Season: KHARIF
+
+=== CHUNK 2 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding drip irrigation system in orchard
+Answer: contact your DHO for drip irrigation system
+State: HARYANA
+District: HISSAR
+Season: JAYAD
+Crop Code: Mosambi
+
+=== CHUNK 3 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding orchard plantation
+Answer: contact DHO Hisar 01662-233250
+State: HARYANA
+District: HISSAR
+Season: JAYAD
+Crop Code: Banana
+
+=== CHUNK 4 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding orchard plantation
+Answer: contact your DHO for orchard plantation
+State: HARYANA
+District: HISSAR
+Season: JAYAD
+
+=== CHUNK 5 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding availability of fruit plant 
+Answer: contact centre of excellence village Mangiyana Distt Sirsa
+State: HARYANA
+District: HISSAR
+Season: JAYAD
+Crop Code: Mosambi
+
+=== CHUNK 6 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: how to control aphids in TOMATO crop
+Answer: spray 400 ml malathion in 200 lt of water per acre
+State: HARYANA
+District: BHIWANI
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 7 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding plantation of orchard
+Answer: contact your Distt Horticulture Office for orchard plantation
+State: HARYANA
+District: BHIWANI
+Season: JAYAD
+Crop Code: Mosambi
+
+=== CHUNK 8 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding orchard plantation
+Answer: contact your DHO Dr Azad Singh 0130-2240814
+State: HARYANA
+District: SONEPAT
+Season: JAYAD
+Crop Code: Mosambi
+
+=== CHUNK 9 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding orchard plantation
+Answer: pls contact your DHO 01282-260235
+State: HARYANA
+District: MAHENDRA GARH
+Season: KHARIF
+
+=== CHUNK 10 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding seed rate of tomato
+Answer: For winter season 400-500 gm and for spring season 200 gm seed per acre
+State: HARYANA
+District: YAMUNA NAGAR
+Season: KHARIF
+Crop Code: Tomato
+
+=== CHUNK 11 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding lemon orchard plantation
+Answer: contact your DHO or HDO for orchard plantation
+State: HARYANA
+District: REWARI
+Season: JAYAD
+Crop Code: Lemon
+
+=== CHUNK 12 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding orchard plantation
+Answer: Contact 01274- 220289
+State: HARYANA
+District: REWARI
+Season: JAYAD
+Crop Code: Papaya
+
+=== CHUNK 13 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How to control fruit fly in bottle gourd  
+Answer: spray with melethion  30 ml  gur  100 gm 15 litre of water 
+State: HIMACHAL PRADESH
+District: HAMIRPUR
+Season: JAYAD
+Crop Code: Bottle Gourd
+
+=== CHUNK 14 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How much flower droping in apple 
+Answer: Spray with planofix  1 ml in 45 litre of water 
+State: HIMACHAL PRADESH
+District: KANGRA
+Season: KHARIF
+Crop Code: Apple
+
+=== CHUNK 15 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How much pink bud spray in apple plant 
+Answer: Spray with mancozeb  600 gm  tonic  500 ml 200 litre of water 
+State: HIMACHAL PRADESH
+District: KULLU
+Season: KHARIF
+Crop Code: Apple
+
+=== CHUNK 16 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How much pink bud spray in apple plant 
+Answer: Spray with mancozeb  600 gm  Biozyme  500 ml and 1 day after time chloropyripos  400 m  boron  200 gm 200 litre of water 
+State: HIMACHAL PRADESH
+District: KULLU
+Season: KHARIF
+Crop Code: Apple
+
+=== CHUNK 17 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How much pink bud spray in apple plant 
+Answer: Spray with mancozeb  600 gm  Tonic  500 ml 200 litre of water 
+State: HIMACHAL PRADESH
+District: SHIMLA
+Season: KHARIF
+Crop Code: Apple
+
+=== CHUNK 18 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How much pink bud spray in apple plant 
+Answer: Spray with mancozeb  600 gm  biozyme  500 ml 200 litre of water 
+State: HIMACHAL PRADESH
+District: SHIMLA
+Season: KHARIF
+Crop Code: Apple
+
+=== CHUNK 19 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How much petal fall spray in apple planyt 
+Answer: Spray with hexaconozol  100 ml  summer oil  2 litre 200 litre of water 
+State: HIMACHAL PRADESH
+District: SHIMLA
+Season: KHARIF
+Crop Code: Apple
+
+=== CHUNK 20 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: how to control cutwrorm in fresh bean
+Answer: drench chlorpyriphos  2mlliters of water
+State: HIMACHAL PRADESH
+District: SHIMLA
+Season: RABI
+Crop Code: French Bean
+
+=== CHUNK 21 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: varities
+Answer: arkamanik red arkaniketan
+State: KARNATAKA
+District: CHITRADURGA
+Crop Code: Onion
+
+=== CHUNK 22 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Forest Department no080-23341481
+Answer: Forest Department no080-23341481
+State: KARNATAKA
+District: KOLAR
+Crop Code: Teak
+
+=== CHUNK 23 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Horticulture Helpline080-22742103
+Answer: Horticulture Helpline080-22742103
+State: KARNATAKA
+District: BAGALKOT
+Crop Code: Ber
+
+=== CHUNK 24 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Mites in Bhindi 
+Answer: Watable sulfar 80 WP  30 gmsprayer or Dicofol 185 EC  35-40 MLsprayer
+State: MADHYA PRADESH
+District: SEHORE
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 25 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: how to control of flower and fruit drop in jack fruit tree
+Answer: spray planofix 5mlpump
+State: MADHYA PRADESH
+District: BHOPAL
+Season: KHARIF
+Crop Code: Jack Fruit
+
+=== CHUNK 26 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: WHEN LEMON FRUIT PRODUCE AFTER PLANTING
+Answer: AFTER 3 YEARS IN HYBRIB 5 YEARS AFTER PLANTING IN LOCAL VARIETY
+State: MAHARASHTRA
+District: JALNA
+Crop Code: Lemon
+
+=== CHUNK 27 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Mango Grafating
+Answer: Deatails are provided
+State: ODISHA
+District: BALASORE
+Crop Code: Mango
+
+=== CHUNK 28 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Where to source the vanilla planting material
+Answer: Vanilla could not grow subtropical climate if artificial atomspere created then it could be  needs more technical expertise
+State: ODISHA
+District: BALASORE
+Season: RABI
+Crop Code: Vanilla
+
+=== CHUNK 29 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Grafting of mango
+Answer: Details step by step procedure givven to farmer as per requirement
+State: ODISHA
+District: BHADRAK
+Crop Code: Mango
+
+=== CHUNK 30 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Avaliabilty of Seeds at Horti office
+Answer: Detail address is told to farmer
+State: ODISHA
+District: NAWAPARA
+Season: JAYAD
+Crop Code: Cowpea Vegetable
+
+=== CHUNK 31 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: MANGO ORCHARD NEW
+Answer: FOR MANGO ORCHARD : CONTACT HORTICULTURE MISSION AT BLOCK LEVEL
+State: ODISHA
+District: BARGARH
+Crop Code: Mango
+
+=== CHUNK 32 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: dimak control for bitter gourd
+Answer: cloropairypos 20ec 1 liter  bhiga
+State: RAJASTHAN
+District: BANSWARA
+Crop Code: Bitter Gourd
+
+=== CHUNK 33 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME SUBSIDY IN LEMON ORCHARD
+Answer: 75 SUBSIDY IN LEMON ORCHARD
+State: RAJASTHAN
+District: BHILWARA
+Season: KHARIF
+Crop Code: Lemon
+
+=== CHUNK 34 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME VARIETY FOR PAPAYA
+Answer: PUSA DESELIYAS PUSA MAJESTIK VARIETY FOR PAPAYA
+State: RAJASTHAN
+District: BHILWARA
+Crop Code: Papaya
+
+=== CHUNK 35 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME FLOWER DROP FOR PUMPKIN
+Answer: spray for planopix 1 ml  4 liter water
+State: RAJASTHAN
+District: CHITTAURGARH
+Crop Code: Pumpkin
+
+=== CHUNK 36 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FLOWER DROP FOR TINDA
+Answer: PLANOPIX 1 ML  4 LITER WATER
+State: RAJASTHAN
+District: GANGANAGAR
+Crop Code: Indian Squash TindaRound Melon
+
+=== CHUNK 37 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: tell me plower drop for masambi
+Answer: planopix 1 ml  4 liter water
+State: RAJASTHAN
+District: GANGANAGAR
+Crop Code: Mosambi
+
+=== CHUNK 38 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME FANGUS CONTROL FOR TOMATO
+Answer: MENCOZEB 2 GRAM  LITER WATER
+State: RAJASTHAN
+District: JAIPUR
+Crop Code: Tomato
+
+=== CHUNK 39 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME DIMAK CONTROL OF BRINJAL
+Answer: termite control in groundnut choloropyrifos 20 ec 1 litre prati bigha with irrigation
+State: RAJASTHAN
+District: JHALAWAR
+Crop Code: Brinjal
+
+=== CHUNK 40 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME REAT OF JIRA
+Answer: JODHPUR GRAIN  JEERA CUMIN 12115QT
+State: RAJASTHAN
+District: JODHPUR
+Crop Code: Cumin
+
+=== CHUNK 41 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: tell me insect control for bhindi
+Answer: SPRAY IMIDACLOPRID 178 SL 05 MLLTR WATER
+State: RAJASTHAN
+District: KOTA
+
+=== CHUNK 42 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: sowing time for tomato
+Answer: jun  to july  sowing time for tomato
+State: RAJASTHAN
+District: NAGAUR
+Crop Code: Tomato
+
+=== CHUNK 43 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME VARIETY OF ONION
+Answer: N-53 VARIETY OF ONION
+State: RAJASTHAN
+District: NAGAUR
+Crop Code: Onion
+
+=== CHUNK 44 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: GROWTH  IN BOGANVALIA
+Answer: 15-20 KG FYM 1 KG SSP 100 GRAM MOP
+State: RAJASTHAN
+District: PALI
+Crop Code: Sal Wood
+
+=== CHUNK 45 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: fangus control for tinda
+Answer: SPRAY MANCOZEB  2 GM   LITTER WATER
+State: RAJASTHAN
+District: SIKAR
+Crop Code: Indian Squash TindaRound Melon
+
+=== CHUNK 46 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: tell me not growth for lamon
+Answer: npk 1818185 gram  liter water
+State: RAJASTHAN
+District: SIKAR
+Crop Code: Lemon
+
+=== CHUNK 47 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME INSECT CONTROL FOR BAIL
+Answer: IMEDACLORPID 05 ML  LITER WATER
+State: RAJASTHAN
+District: SIKAR
+Crop Code: Bail
+
+=== CHUNK 48 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: tell me not growth of guava
+Answer: spray for maltiprx 60gram  16 liter water
+State: RAJASTHAN
+District: SIKAR
+Crop Code: Guava
+
+=== CHUNK 49 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME FLOWER DROP FOR CHILLIES
+Answer: SPARY FOR PLANOPIX 4 ML  MENCOZEB 30 GRAM  16 LITER WATER
+State: RAJASTHAN
+District: TONK
+Crop Code: Chillies
+
+=== CHUNK 50 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FLOWER FALLEN PROBLEM
+Answer: PLANOFIX 1 ML4 LITER WATER
+State: RAJASTHAN
+District: HANUMANGARH
+Crop Code: Pomegranate
+
+=== CHUNK 51 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: tell me dimak control for
+Answer: cloropayariphos 30-40 ml  plant
+State: RAJASTHAN
+District: HANUMANGARH
+Crop Code: Neem
+
+=== CHUNK 52 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME NOT GROWTH  FLOWER DROP OF LEMON
+Answer: SPRAY OF PLANOFIX 1 ML PER 4 LITER WATER FOR CONTROL OF FLOWER DROPING
+State: RAJASTHAN
+District: HANUMANGARH
+Crop Code: Lemon
+
+=== CHUNK 53 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: insect control for tinda
+Answer: imedaclorpid 178 sl 05 ml  liter water
+State: RAJASTHAN
+District: DAUSA
+Crop Code: Indian Squash TindaRound Melon
+
+=== CHUNK 54 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: tell me fangus control for cucumber
+Answer: mencozeb 2 gram  liter water
+State: RAJASTHAN
+District: KARAULI
+Crop Code: Cucumber
+
+=== CHUNK 55 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: tell me flower drop for bottle gourd
+Answer: SPARY FOR PLANOPIX 4 ML  MENCOZEB 30 GRAM  16 LITER WATER
+State: RAJASTHAN
+District: KARAULI
+Crop Code: Bottle Gourd
+
+=== CHUNK 56 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME FRUIT DROP FOR JAMUN
+Answer: PLANOPIX 1 ML  4 LITER WATER
+State: RAJASTHAN
+District: BARAN
+Crop Code: Jamun
+
+=== CHUNK 57 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: dithen m-45 ka spray karen
+Answer: dithen m-45 ka spray karen
+State: UTTAR PRADESH
+District: ETAH
+Season: KHARIF
+Crop Code: Capsicum
+
+=== CHUNK 58 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: abaj nahi aa rahi hai
+Answer: abaj nahi aa rahi hai
+State: UTTAR PRADESH
+District: BAREILLY
+Season: JAYAD
+Crop Code: Chillies
+
+=== CHUNK 59 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: awaj ki problem hein
+Answer: awaj ki problem hein
+State: UTTAR PRADESH
+District: SHAHJAHANPUR
+Season: JAYAD
+Crop Code: Capsicum
+
+=== CHUNK 60 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: MAUSAM KI JANKARI CHAHIY
+Answer: AWAZ NAHI AA RAHI HAI
+State: UTTAR PRADESH
+District: GHAZIPUR
+Season: JAYAD
+Crop Code: Coriander
+
+=== CHUNK 61 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: flower drop in bottle gourd
+Answer: spray planofix  05mllit of water
+State: UTTAR PRADESH
+District: GORAKHPUR
+Season: RABI
+Crop Code: Others
+
+=== CHUNK 62 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mausam ki jaankari de
+Answer: 10 june tak baarish ho sakti hai
+State: UTTAR PRADESH
+District: RAEBARELI
+Season: RABI
+Crop Code: Mentha
+
+=== CHUNK 63 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: apki abaj nahi aa rahi hai
+Answer: apki  abaj nahi aa rahi hai
+State: UTTAR PRADESH
+District: SITAPUR
+Season: KHARIF
+Crop Code: Potato
+
+=== CHUNK 64 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: insect control in okra
+Answer: apply carbofuran 3g  10kg acre
+State: UTTAR PRADESH
+District: GONDA
+Season: RABI
+
+=== CHUNK 65 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: flower drop problem in mango
+Answer: spray planofix 1ml5 litre of water
+State: JHARKAND
+District: GARHWA
+Season: KHARIF
+Crop Code: Mango
+
+=== CHUNK 66 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: APPLICATION OF MICRONUTRIENT
+Answer: GIVE 1 POTATO SPECIAL  2G PER LT WATER
+State: ASSAM
+District: SONITPUR
+Crop Code: Tomato
+
+=== CHUNK 67 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKING ABOUT KING CHILLI
+Answer: YOUR CALL HAS BEEN TRANSFERED TO AGRI EXOERT
+State: ASSAM
+District: DHEMAJI
+Crop Code: Chillies
+
+=== CHUNK 68 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: variety
+Answer: Good variety of okra- prabhani kranti arka abhay arka anamika bersa upharPunjab-7 okra-4
+State: BIHAR
+District: PATNA
+Season: JAYAD
+Crop Code: Dill Seed
+
+=== CHUNK 69 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Variety of ginger
+Answer: Variety of ginger- maran suruchi suprabha surabhi
+State: BIHAR
+District: PATNA
+Season: KHARIF
+Crop Code: Cabbage
+
+=== CHUNK 70 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about subsidy for orchard
+Answer: contact district agriculture officer
+State: GUJARAT
+District: BHAVNAGAR
+Crop Code: Onion
+
+=== CHUNK 71 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How to control thirips in mustard 
+Answer: Spray of melathion  400 ml200 liter wateracre  or ROGOR 350 ml200 litre of water
+State: HARYANA
+District: HISSAR
+Crop Code: Barseem
+
+=== CHUNK 72 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How to control thirips in mustard 
+Answer: Spray of melathion  400 ml200 liter wateracre  or ROGOR 350 ml200 litre of water
+State: HARYANA
+District: HISSAR
+Crop Code: Barseem
+
+=== CHUNK 73 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: how to control flower droping in pomegranate 
+Answer: how to control flower droping in pomegranate Spray 1 ml Planofix in 45 lt of wateracre 
+State: HARYANA
+District: YAMUNA NAGAR
+Season: KHARIF
+Crop Code: Carrot
+
+=== CHUNK 74 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How Much fruit harvest before spray in apple plant 
+Answer: Spray with Copperoxichloride  600 gm 200 liter of water 
+State: HIMACHAL PRADESH
+District: KULLU
+Season: JAYAD
+Crop Code: Apple
+
+=== CHUNK 75 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: improved varities in onion 
+Answer: patna red  n-53 palm lohit 
+State: HIMACHAL PRADESH
+District: SIRMAUR
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 76 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: coconut salt application
+Answer: you can apply salt in coconut field
+State: KERALA
+District: PALAKKAD
+Crop Code: Coconut
+
+=== CHUNK 77 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: I want number activate in sms facility 
+Answer: your number is resisterd in sms facility
+State: MADHYA PRADESH
+District: SHAJAPUR
+Season: KHARIF
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 78 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: I want number activate in sms facility 
+Answer: your number is resisterd in sms facility
+State: MADHYA PRADESH
+District: UJJAIN
+Season: KHARIF
+Crop Code: Beans
+
+=== CHUNK 79 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Varieties of orange 
+Answer: Planting materialBudded plants are the best planting materials Root Stock - Rangpur lime and rough lemon is mostly preferred
+State: MADHYA PRADESH
+District: UJJAIN
+Crop Code: Orange
+
+=== CHUNK 80 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: I want number activate in sms facility 
+Answer: your number is resisterd in sms facility
+State: MADHYA PRADESH
+District: DEWAS
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 81 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: farmer want to know information about Which fertilizer and nutrient give for better growth in soyabean crop
+Answer: Spray N: P: K 19:19:19 100 grams 15 liter of water
+State: MADHYA PRADESH
+District: INDORE
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 82 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information  sms registration
+Answer: sms registration complete
+State: MADHYA PRADESH
+District: TIKAMGARH
+Crop Code: China Astor
+
+=== CHUNK 83 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: variety of potato
+Answer: Kufri Jyoti Kufri Muthu Kufri Swarna Kufri Thangam Kufri Malar Kufri Soga
+State: MADHYA PRADESH
+District: CHHATARPUR
+Season: KHARIF
+Crop Code: Potato
+
+=== CHUNK 84 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: pest
+Answer: actra 5  gram   proclem 8  gram pamp
+State: MAHARASHTRA
+District: JALGAON
+Season: JAYAD
+Crop Code: Capsicum
+
+=== CHUNK 85 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: pest
+Answer: actra 5  gram   proclem 8  gram pamp
+State: MAHARASHTRA
+District: JALGAON
+Season: JAYAD
+Crop Code: Capsicum
+
+=== CHUNK 86 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: pest
+Answer: actra 5  gram   proclem 8  gram pamp
+State: MAHARASHTRA
+District: JALGAON
+Season: JAYAD
+Crop Code: Capsicum
+
+=== CHUNK 87 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: pest
+Answer: actra 5  gram   proclem 8  gram pamp
+State: MAHARASHTRA
+District: JALGAON
+Season: JAYAD
+Crop Code: Capsicum
+
+=== CHUNK 88 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weather
+Answer: climate info- partly cloudy and not  possibility of rain9  june 2014 to  16    june 2014
+State: MAHARASHTRA
+District: JALGAON
+Season: JAYAD
+Crop Code: Pomegranate
+
+=== CHUNK 89 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weather
+Answer: climate info- partly cloudy and not  possibility of rain9  june 2014 to  16    june 2014
+State: MAHARASHTRA
+District: JALGAON
+Season: JAYAD
+Crop Code: Pomegranate
+
+=== CHUNK 90 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weather
+Answer: climate info- partly cloudy and not  possibility of rain9  june 2014 to  16    june 2014
+State: MAHARASHTRA
+District: JALGAON
+Season: JAYAD
+Crop Code: Pomegranate
+
+=== CHUNK 91 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: pest
+Answer: actra 5  gram   karate15  mili pamp
+State: MAHARASHTRA
+District: SOLAPUR
+Season: JAYAD
+Crop Code: Capsicum
+
+=== CHUNK 92 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weather in solapur
+Answer: Cloudy weather   possibility of rain
+State: MAHARASHTRA
+District: SOLAPUR
+Season: JAYAD
+Crop Code: Chillies
+
+=== CHUNK 93 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: varities
+Answer: sonali  nirmal seeds
+State: MAHARASHTRA
+District: NANDED
+Season: JAYAD
+Crop Code: Bush Squash
+
+=== CHUNK 94 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: varities
+Answer: sonali  nirmal seeds
+State: MAHARASHTRA
+District: NANDED
+Season: JAYAD
+Crop Code: Bush Squash
+
+=== CHUNK 95 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: varities
+Answer: sonali  nirmal seeds
+State: MAHARASHTRA
+District: NANDED
+Season: JAYAD
+Crop Code: Bush Squash
+
+=== CHUNK 96 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: varities
+Answer: sonali  nirmal seeds
+State: MAHARASHTRA
+District: NANDED
+Season: JAYAD
+Crop Code: Bush Squash
+
+=== CHUNK 97 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: growth spray
+Answer: spray 00:52:34  microla
+State: MAHARASHTRA
+District: YEVATMAL
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 98 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: pest
+Answer: metadoer  15 gram pamp
+State: MAHARASHTRA
+District: NAGPUR
+Season: JAYAD
+Crop Code: Brinjal
+
+=== CHUNK 99 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: pest
+Answer: metadoer  15 gram pamp
+State: MAHARASHTRA
+District: NAGPUR
+Season: JAYAD
+Crop Code: Brinjal
+
+=== CHUNK 100 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: pest
+Answer: metadoer  15 gram pamp
+State: MAHARASHTRA
+District: NAGPUR
+Season: JAYAD
+Crop Code: Brinjal
+
+=== CHUNK 101 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: sms activation
+Answer: sms service active your mobile no
+State: MAHARASHTRA
+District: GONDIYA
+Season: JAYAD
+Crop Code: Brinjal
+
+=== CHUNK 102 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: REJUVENATION OF BANANA ORCHARD
+Answer: CONTACT AHO OF YOUR BLOCK
+State: ODISHA
+District: KHORDHA
+Crop Code: Banana
+
+=== CHUNK 103 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: BETTER FRUIT SETTING
+Answer: BETTER FRUIT SETTING : SPRAY NAA PLANOFIX 1ML IN 5LITRES OF WATER
+State: ODISHA
+District: BARGARH
+Crop Code: Tomato
+
+=== CHUNK 104 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: INFORMATION REGARDING REHABILITATION OF GUAVA ORCHARD
+Answer: PLEASE CONTACT YOUR KVK
+State: PUNJAB
+District: FARIDKOT
+Season: RABI
+Crop Code: Guava
+
+=== CHUNK 105 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: INFORMATION REGARDING CONTROL OF FRUIT DROPING IN KINNOW
+Answer: SPRAY 20PPM GIBRALLIC ACID OR 20GM AUREOFUNGIN IN 500LT WATERACRE
+State: PUNJAB
+District: MOGA
+Season: RABI
+Crop Code: Citrus
+
+=== CHUNK 106 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ONION VARIETY
+Answer: ONION VARIETY-  nasik red pusa red agri found red
+State: RAJASTHAN
+District: GANGANAGAR
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 107 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ABOUT TARMITE CONTROL IN PAPAYA
+Answer: USE CHLOROPYRIFOS 20 EC 40 ML PER PALNT WITH IRRIGATION
+State: RAJASTHAN
+District: JHUNJHUNU
+Crop Code: Citrus
+
+=== CHUNK 108 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: tell
+Answer: THANKYOU FOR CALLING KISSAN CALL CENTER
+State: RAJASTHAN
+District: JODHPUR
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 109 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME NO GROWTH IN ONION
+Answer: USED UREA 4KG  ZINC SULPHATE 1KG  BIGHA WITH IRRIGATION
+State: RAJASTHAN
+District: SIKAR
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 110 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: green house net subsidy availability details
+Answer: contact to block level horticulture office
+State: TAMILNADU
+District: SALEM
+Season: RABI
+Crop Code: Brinjal
+
+=== CHUNK 111 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: kitchen garden cultivation practices details
+Answer: explain the kitchen garden cultivation practices details
+State: TAMILNADU
+District: MADURAI
+Season: RABI
+Crop Code: Brinjal
+
+=== CHUNK 112 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mango prunning details
+Answer: explain the mango prunning details
+State: TAMILNADU
+District: THIRUVALLUR
+Season: RABI
+Crop Code: Mango
+
+=== CHUNK 113 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: manure
+Answer: npk-19 19 19 2kgacr 200liter pani me 5kg sulfer micronutrients 10kgacr
+State: UTTAR PRADESH
+District: ALIGARH
+Season: RABI
+Crop Code: Chillies
+
+=== CHUNK 114 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mausam
+Answer: 18 baris ki sambhavna hai
+State: UTTAR PRADESH
+District: BAREILLY
+Season: JAYAD
+Crop Code: Cabbage
+
+=== CHUNK 115 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mausam ki jankari
+Answer: 12 tak mausam  saf rahega
+State: UTTAR PRADESH
+District: BAREILLY
+Season: RABI
+Crop Code: Jamun
+
+=== CHUNK 116 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: kisan mela csa
+Answer: 29 30 31 oct ko mela hai csa kanpur
+State: UTTAR PRADESH
+District: SHAHJAHANPUR
+Season: RABI
+Crop Code: Chinese Cabbage
+
+=== CHUNK 117 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: manure in sugarcane
+Answer: npk-19 19 19 2jkgacr micronutrients 10kgacr
+State: UTTAR PRADESH
+District: PILIBHIT
+Season: RABI
+Crop Code: Brussils Sprouts
+
+=== CHUNK 118 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: insect
+Answer: Dichlorvos 76 EC350 mlacre 200liter pani me ya corajin 150mlacr 200liter pani me
+State: UTTAR PRADESH
+District: BIJNOR
+Season: RABI
+Crop Code: Carnation
+
+=== CHUNK 119 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: MAUSAM KI JANKARI CHAHIYE
+Answer: AAJ KAL ME BAAARISH NAHI HAI
+State: UTTAR PRADESH
+District: BIJNOR
+Season: KHARIF
+Crop Code: Carrot
+
+=== CHUNK 120 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: menthe  ki jankari ke liye
+Answer: carbandazim ka 2ml li ka sparey  kare
+State: UTTAR PRADESH
+District: RAMPUR
+Season: KHARIF
+Crop Code: Mentha
+
+=== CHUNK 121 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: fungas
+Answer: Carbendazim 12  Mancozeb 63 WP300-400 gmacre  200litwer pani me
+State: UTTAR PRADESH
+District: KANPUR CITY
+Season: RABI
+Crop Code: Carrot
+
+=== CHUNK 122 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: HALDI KE BARE BATAYE
+Answer: JILA PER SAM PAR KARE
+State: UTTAR PRADESH
+District: ALLAHABAD
+Season: KHARIF
+Crop Code: Tomato
+
+=== CHUNK 123 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: aam ki samsya hi
+Answer: jankari de gyi spast hi
+State: UTTAR PRADESH
+District: JHANSI
+Season: JAYAD
+Crop Code: Mango
+
+=== CHUNK 124 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mosam ki jankari
+Answer: halki baris kisabhana hai
+State: UTTAR PRADESH
+District: JALAUN
+Season: JAYAD
+Crop Code: Cabbage
+
+=== CHUNK 125 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: aam ke paudhe kaha se len
+Answer: kisaan bhae aap aam ke paudhe sarkari bbibhag se le sakate hai
+State: UTTAR PRADESH
+District: JALAUN
+Season: JAYAD
+Crop Code: Mango
+
+=== CHUNK 126 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: MAUSAM KI JANKARI CHAHIY
+Answer: MAUSAM SAPH RAHEGA VARISH NAHI HOGI
+State: UTTAR PRADESH
+District: JALAUN
+Season: RABI
+Crop Code: Ginger
+
+=== CHUNK 127 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: pea ki cultivation
+Answer: carbendazem 2 gram acre
+State: UTTAR PRADESH
+District: HAMIRPUR
+Season: RABI
+Crop Code: Peas field peas garden peasmatar
+
+=== CHUNK 128 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weather ki jankri
+Answer: abhi mausam saf nahi hein
+State: UTTAR PRADESH
+District: BANDA
+Season: JAYAD
+Crop Code: Butter Pea Vegetable
+
+=== CHUNK 129 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: perval me kidda hai
+Answer: cypermatharin 25 Ec 20 mllitre ka spray
+State: UTTAR PRADESH
+District: BANDA
+Crop Code: Pointed Gourd
+
+=== CHUNK 130 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: khira me kida laga hai
+Answer: Imidachloprid 178 SL
+State: UTTAR PRADESH
+District: VARANASI
+Season: KHARIF
+Crop Code: Cucumber
+
+=== CHUNK 131 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: jamun ki fruit nahi
+Answer: abhi mausam saf hein
+State: UTTAR PRADESH
+District: BALLIA
+Season: RABI
+Crop Code: Jamun
+
+=== CHUNK 132 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: water harveshting lagana hein
+Answer: abhi mausam saf nahi hein
+State: UTTAR PRADESH
+District: BALLIA
+Season: RABI
+Crop Code: Broccoli
+
+=== CHUNK 133 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mausham ke bare me
+Answer: aaj halki baresh ki sambhwna hi
+State: UTTAR PRADESH
+District: DEORIA
+Season: JAYAD
+Crop Code: Chinese Cabbage
+
+=== CHUNK 134 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mausham ke bare me
+Answer: aaj halki baresh ki sambhwna hi
+State: UTTAR PRADESH
+District: DEORIA
+Season: JAYAD
+Crop Code: Chinese Cabbage
+
+=== CHUNK 135 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: sagaon ka  poda lana hai
+Answer: van bhibhag me sampark kare
+State: UTTAR PRADESH
+District: DEORIA
+Crop Code: Chinar Tree
+
+=== CHUNK 136 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: aam me dimac hai
+Answer: chloropiriphas 20 mllitre sichi jal ka sath prayog kare
+State: UTTAR PRADESH
+District: BASTI
+Season: KHARIF
+Crop Code: Mango
+
+=== CHUNK 137 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: lawki ki samsy hi
+Answer: sulfer se dhulai karke carbendazem 2mlliter spray karein
+State: UTTAR PRADESH
+District: SITAPUR
+Season: KHARIF
+Crop Code: Bottle Gourd
+
+=== CHUNK 138 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: GANEE ME SURI KI SAMASYA HAI
+Answer: KORAZEEN 160 ML DAVA 200 LITER PANI ME SPRAY KARE
+State: UTTAR PRADESH
+District: SITAPUR
+Season: RABI
+Crop Code: Cowpea Vegetable
+
+=== CHUNK 139 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: genda  me kitana khad daale
+Answer: n-120  kg  p-80kg k-80 kg  hectear daale
+State: UTTAR PRADESH
+District: SITAPUR
+Season: RABI
+Crop Code: Marigold
+
+=== CHUNK 140 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: SAGOAN
+Answer: KISAAN BHAAEE AAP SAGOAN LAGA SAKATE HAI
+State: UTTAR PRADESH
+District: KHERI
+Season: JAYAD
+Crop Code: Sagoan
+
+=== CHUNK 141 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: bagan me kira lagahai
+Answer: trizophos 2 ml liter of water
+State: UTTAR PRADESH
+District: FAIZABAD
+Season: KHARIF
+Crop Code: Jatropha Ratanjot
+
+=== CHUNK 142 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: varity
+Answer: Varieties CO 1 Pusa Summer Prolific long Pusa Summer Prolific Round Pusa Manjari Pusa Megdoot and Arka Bahar
+State: UTTAR PRADESH
+District: GONDA
+Crop Code: Carrot
+
+=== CHUNK 143 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: fungas in mentha
+Answer: Carbendazim 12  Mancozeb 63 WP400 gmacre 200liter pani m e
+State: UTTAR PRADESH
+District: BAHRAICH
+Season: JAYAD
+Crop Code: Mentha
+
+=== CHUNK 144 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weather jki jankri
+Answer: abhi mausam saf hein
+State: UTTAR PRADESH
+District: SULTANPUR
+Season: RABI
+Crop Code: Bush Squash
+
+=== CHUNK 145 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: MENTHA KI MASHIN
+Answer: 0522-2359623 PE SAMPARK KARE
+State: UTTAR PRADESH
+District: BARABANKI
+Season: RABI
+Crop Code: Mentha
+
+=== CHUNK 146 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: bagan me pila
+Answer: NPK 19:19:19  1 KG 200 Lt Water AC
+State: UTTAR PRADESH
+District: AURAIYA
+Season: KHARIF
+Crop Code: Broccoli
+
+=== CHUNK 147 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: manure in mango
+Answer: 10kg gobar ki khad 100gm dap potas uriya  micronutrients 300gm
+State: UTTAR PRADESH
+District: CHANDAULI
+Season: JAYAD
+Crop Code: Mango
+
+=== CHUNK 148 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: insect in paddy
+Answer: Dichlorvos 76 EC350 mlacre 200liter pani me
+State: UTTAR PRADESH
+District: SONBHADRA
+Season: RABI
+Crop Code: Brinjal
+
+=== CHUNK 149 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: payaj me kalan hai
+Answer: carbandazim 1 gramlite of water
+State: UTTAR PRADESH
+District: AMBEDKAR NAGAR
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 150 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weather ki jankri
+Answer: abhi mausam saf hein
+State: UTTAR PRADESH
+District: AMBEDKAR NAGAR
+Season: KHARIF
+Crop Code: Potato
+
+=== CHUNK 151 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: apki abaj nahi aa rahi hai
+Answer: apki abaj nahi aa rahi hai
+State: UTTAR PRADESH
+District: KANPUR DEHAT
+Season: JAYAD
+Crop Code: Carrot
+
+=== CHUNK 152 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT REJUVENATION OF MANGO
+Answer: EXPLAIN IN ALL ABOUT REJUVENATION OF MANGO
+State: WEST BENGAL
+District: MALDAH
+Season: RABI
+Crop Code: Mango
+
+=== CHUNK 153 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: DEFFICIENCY OF MICRONUTRIENT IN CUCUMBER
+Answer: SPRAY N TRIA CONTANOL  1ML3LIT OF WATER
+State: WEST BENGAL
+District: BIRBHUM
+Season: RABI
+Crop Code: Cucumber
+
+=== CHUNK 154 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: YELLOWING TIP
+Answer: SPRAY IMIDACHLOROPID 1ML3LI OF WATER WITH MULTIMICRONUTRIENT3MLLIT OF WATER
+State: JHARKAND
+District: GARHWA
+Crop Code: Onion
+
+=== CHUNK 155 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: gulab lagane ke liye kya subsidy hai
+Answer: aap apne block office mein sampark kare
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: Rose
+
+=== CHUNK 156 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FLOWERING IN MANGO 3 YEARS CROP 
+Answer: RECOMENDED FOR ATER 4-5 YEARS FLOWERING IS SUGGESTED
+State: ANDHRA PRADESH
+District: ANANTPUR
+Crop Code: Mango
+
+=== CHUNK 157 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: tomato blight
+Answer: recommended to m45 600gmacre
+State: ANDHRA PRADESH
+District: ANANTPUR
+Crop Code: Tomato
+
+=== CHUNK 158 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: WEATHER REPORT
+Answer: Sri gandham neem sandle wood9550447323kmm  9848661193knr
+State: ANDHRA PRADESH
+District: Y S R 
+Season: JAYAD
+Crop Code: Sandal Wood
+
+=== CHUNK 159 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FERTILIZER DOSE OF ORANGE
+Answer: SUGGESTED FERTILIZER DOSE AS UREA-500GMSSP-1200GMMOP-300GMCOMPOST-20KGAPPLY AS SUGGESTED
+State: ASSAM
+District: KAMRUP
+Season: RABI
+Crop Code: Orange
+
+=== CHUNK 160 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Verities of lemon
+Answer: Vikram Gola kagji PKM-1
+State: BIHAR
+District: GAYA
+Season: KHARIF
+Crop Code: Brinjal
+
+=== CHUNK 161 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Season of planting
+Answer: Planting spreads from July to December
+State: BIHAR
+District: PASHCHIM CHAMPARAN
+Crop Code: Mango
+
+=== CHUNK 162 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: variety of chilli
+Answer: reaserch variety of chilli-pant chilli-3 krishna arka lohit pusa jwala pusa sadabhar punjab lal hybrid variety of chilli-agni rekha kalyuanpur chaman kalyanpur chamatkar 
+State: BIHAR
+District: BHAGALPUR
+Crop Code: Chillies
+
+=== CHUNK 163 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Best variety of papaya-
+Answer: pusa nanha pusa dwarf pusa delicious pusa majesti
+State: BIHAR
+District: KAIMUR
+Season: JAYAD
+Crop Code: Brussils Sprouts
+
+=== CHUNK 164 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: BEST VARIETY OF BANANA
+Answer: GRAND9 ROBUSTA CAVENDISH
+State: KARNATAKA
+District: BELLARY
+Crop Code: Banana
+
+=== CHUNK 165 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: varieties of watermelon
+Answer: arka akash arka manik arka aishwarya
+State: KARNATAKA
+District: BIJAPUR
+Crop Code: Melon
+
+=== CHUNK 166 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: package of practices
+Answer: old chick coorg kent emba taligaly sookta
+State: KARNATAKA
+District: CHIKMAGALUR
+Crop Code: Coffee
+
+=== CHUNK 167 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: PACKAGE OF PRACTICES
+Answer: ARKA KALYAN ARKA NIKETHAN TALIGALANNU BALASI
+State: KARNATAKA
+District: HASSAN
+Crop Code: Onion
+
+=== CHUNK 168 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: package of practices
+Answer: g9 cavendish thaligalannu upayogisi
+State: KARNATAKA
+District: SHIMOGA
+Crop Code: Banana
+
+=== CHUNK 169 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: complete package of practice of banana
+Answer: grand 9 athava cavendish annu balasi
+State: KARNATAKA
+District: BAGALKOT
+Crop Code: Banana
+
+=== CHUNK 170 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ORCHARD MANAGEMENT
+Answer: NAA MATTHU 19 ALL SIMPADANE KODI
+State: KARNATAKA
+District: BAGALKOT
+Crop Code: Pomegranate
+
+=== CHUNK 171 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: District Agricultural Farm Mavelikkara
+Answer: District Agricultural Farm Mavelikkara 0479 2357690
+State: KERALA
+District: ALAPPUZHA
+Crop Code: Bitter Gourd
+
+=== CHUNK 172 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: schemes details
+Answer: contact agri department 0471-2303990
+State: KERALA
+District: MALAPPURAM
+Crop Code: Arecanut
+
+=== CHUNK 173 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: rose poor yield
+Answer: apply potassium or apply rose mix
+State: KERALA
+District: KANNUR
+Crop Code: Rose
+
+=== CHUNK 174 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer wants to know  about variety of onion crop variety of onion crop
+Answer: Arka Niketan Arka Kalyan Arka Lalima  Arka Kirthiman Arka Pitamber Arka Kalyan
+State: MADHYA PRADESH
+District: CHHINDWARA
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 175 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Want to know about Onion Varieties
+Answer: Onion varieties  Agri found Dark red Agri found Light red Pusa kalyan Nasik red Pusa red N-53 Prashant Panch Ganga
+State: MADHYA PRADESH
+District: GUNA
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 176 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: farmer want to about flowering of orange
+Answer: no any spray in this stage
+State: MADHYA PRADESH
+District: SHAJAPUR
+Crop Code: Orange
+
+=== CHUNK 177 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer needs information regarding How to control of fungal attack in  onion  crop
+Answer: oRecommended for control of fungal attack spray carbandazim  mancozeb 40gmpump and streptocyclin 2 gram at 15 liter of water
+State: MADHYA PRADESH
+District: RATLAM
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 178 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer wants to know information abou thorticulture 
+Answer: Recommended for to know information about contact to your RHEO
+State: MADHYA PRADESH
+District: KATNI
+Season: KHARIF
+Crop Code: Mango
+
+=== CHUNK 179 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: VARITY OF WATERMILON
+Answer: VARITY OF WATERMILON  - AUGSTA SUGARBABY SUGARQUIN
+State: MAHARASHTRA
+District: AHMADNAGAR
+Season: KHARIF
+Crop Code: Banana
+
+=== CHUNK 180 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: VARITIES OF ONION
+Answer: VARITIES OF ONION  n 53 BASWANT 780 DARK RED BHIMA SUPER
+State: MAHARASHTRA
+District: PUNE
+Season: JAYAD
+Crop Code: Onion
+
+=== CHUNK 181 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: WEATHER REPORT 
+Answer: today climate - no  partly cloudy and no possibility of  rain
+State: MAHARASHTRA
+District: SANGLI
+Season: KHARIF
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 182 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: temop high in grape 
+Answer: spray water in grape plot
+State: MAHARASHTRA
+District: SANGLI
+Season: RABI
+Crop Code: Grape
+
+=== CHUNK 183 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKING ABOUT FERTILIZER DOSE FOR ONION
+Answer: APPLICATION OF 10:26:26 1 BAG  UREA 20 KG  MICRO NUTRIENTS 10 KGACRE
+State: MAHARASHTRA
+District: SOLAPUR
+Crop Code: Onion
+
+=== CHUNK 184 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: watermelon variety
+Answer: sugar pack ya jatichi lagavd karavi
+State: MAHARASHTRA
+District: BEED
+Season: RABI
+Crop Code: Watermelon
+
+=== CHUNK 185 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: onion storage
+Answer: onion storage--apply boric powder
+State: MAHARASHTRA
+District: BULDANA
+Season: JAYAD
+Crop Code: Onion
+
+=== CHUNK 186 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: PEST   DISEASE
+Answer: Spray Karate10ml15 Lit of Water
+State: MAHARASHTRA
+District: AKOLA
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 187 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about rainfed crops
+Answer: rainfed crops- Tamrind Sag
+State: MAHARASHTRA
+District: WARDHA
+Crop Code: Ber
+
+=== CHUNK 188 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: old senile orchard rejuvenation of mango trees
+Answer: advised to contact assistant horticultural officer of block level
+State: ODISHA
+District: BARGARH
+Crop Code: Mango
+
+=== CHUNK 189 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: INFORMATION REGARDING TRAINING AND PRUNING OF CITRUS PLANTS
+Answer: BASIC INFORMATION PROVIDE TO FARMER
+State: PUNJAB
+District: GURDASPUR
+Season: RABI
+Crop Code: Citrus
+
+=== CHUNK 190 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding Kinnow Orchard Plantation in Mansa Distt
+Answer: Kinnow orchard should be planted in Arid irrigated zone of Mansa Distt
+State: PUNJAB
+District: MANSA
+Crop Code: Citrus
+
+=== CHUNK 191 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME SPACING OF LASODA
+Answer: SPACING OF LASODA 6X6 M
+State: RAJASTHAN
+District: AJMER
+Crop Code: Lahsoda
+
+=== CHUNK 192 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME WEATHER INFORMATION 
+Answer: LIGHT RAIN MAY BE NEXT 2-3 DAYS
+State: RAJASTHAN
+District: TONK
+Crop Code: Tomato
+
+=== CHUNK 193 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME VERIYY OF MOONG
+Answer: VARIETY OF MOONG SML 668 RMG 492 RMG 268 RMG 344
+State: RAJASTHAN
+District: CHURU
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 194 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME VARIETY OF ONION
+Answer: VARIETY OF ONION  PUSA RED PUSA MADHAWAI NASIK RED AGRIFOUND RED
+State: RAJASTHAN
+District: CHURU
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 195 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: planting season for small onion
+Answer: recommended for Sow the medium sized bulbs during April  May and October  November
+State: TAMILNADU
+District: DHARMAPURI
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 196 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Mango foliar spray
+Answer: Recommended for Spray pottasium nitrate 10 g litre
+State: TAMILNADU
+District: PUDUKKOTTAI
+Season: RABI
+Crop Code: Mango
+
+=== CHUNK 197 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: market rate for onion
+Answer: recommended for at Trichy - Gandhi Market Retail 2000Kg Wholesale 9000050Kg
+State: TAMILNADU
+District: KARUR
+Crop Code: Onion
+
+=== CHUNK 198 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Aonla ke ped me fal nahi aa rahe hai
+Answer: kuch duri par ek aur anowle ka paudha lagaye
+State: UTTAR PRADESH
+District: SAHARANPUR
+Season: KHARIF
+Crop Code: Aonla
+
+=== CHUNK 199 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: kinno ka bag lgana hai
+Answer: zila udhan sdhikari se sampark kre
+State: UTTAR PRADESH
+District: ALIGARH
+Season: KHARIF
+Crop Code: Lemon
+
+=== CHUNK 200 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: KET KE CHARO TARAF KOUN SE PUADE LAGAYE COMMERCIAL KE
+Answer: saguan ke pede lagaye
+State: UTTAR PRADESH
+District: ETAH
+Season: RABI
+Crop Code: Sagoan
+
+=== CHUNK 201 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: GULAB KI CUTING KAB KARE
+Answer: GULAB KI CUTING KA UCHIT SAMAY OCTOBER KA DUSRA SAPTAAH HAI
+State: UTTAR PRADESH
+District: LUCKNOW
+Season: KHARIF
+Crop Code: Rose
+
+=== CHUNK 202 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: chanden  ka  paudha  kaha  milega
+Answer: 0135-2755491 0135-2756414   par samperk  kare
+State: UTTAR PRADESH
+District: SITAPUR
+Crop Code: Chinar Tree
+
+=== CHUNK 203 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mimbo me fal nhi lag rha hai  
+Answer: jivasm khad 2 kg urea 100g dap 50g ssp 50g prti plant ki dar se pryog kre
+State: UTTAR PRADESH
+District: KHERI
+Crop Code: Citrus
+
+=== CHUNK 204 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: lobiya ki verietyjanni hai
+Answer: co 5 aur co 8 ki buvai kar sakte hai
+State: UTTAR PRADESH
+District: SULTANPUR
+Season: JAYAD
+Crop Code: Cucumber
+
+=== CHUNK 205 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mango ke gaddhe me kaon si dawa dale
+Answer: regent 100 per plant
+State: UTTAR PRADESH
+District: SULTANPUR
+Season: KHARIF
+Crop Code: Mango
+
+=== CHUNK 206 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: GAINDE KI PRAJATI KE BARE ME
+Answer: GAINDE KI PRAJATI-Pusa Narangi Gainda Pusa Basanthi GaindaMDU-1
+State: UTTAR PRADESH
+District: BARABANKI
+Season: KHARIF
+Crop Code: Marigold
+
+=== CHUNK 207 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ripening of mango
+Answer: ethylene ka prayog kare ya karbite ka
+State: UTTAR PRADESH
+District: AMETHI  Shahu Ji Maharaj
+Season: KHARIF
+Crop Code: Mango
+
+=== CHUNK 208 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FRUIT DROPING IN POMEGRANT
+Answer: SPRAY PLANTOFIX 1ML4LIT OF WATER
+State: JHARKAND
+District: PALAMU
+Season: KHARIF
+Crop Code: Pomegranate
+
+=== CHUNK 209 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME MICRO NUTRIENT MANAGEMENT
+Answer: SPRAY OF MULTIPLAX MICRONUTRIENT 2 ML PER LITER WATER
+State: DELHI
+District: CENTRAL DELHI Daryaganj
+Season: KHARIF
+Crop Code: Pumpkin
+
+=== CHUNK 210 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: plantation of mango plant
+Answer: consult the horticulture department
+State: BIHAR
+District: PATNA
+Crop Code: Mango
+
+=== CHUNK 211 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: variety of okra -
+Answer: - prabhani kranti arka abhay arka anamika bersa uphar
+State: BIHAR
+District: PATNA
+Season: RABI
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 212 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Varieties of bhindi
+Answer: Varieties of bhindi - arka anamica arka abhay  prabhat kranti and okra-4
+State: BIHAR
+District: NALANDA
+Crop Code: Bell Pepper
+
+=== CHUNK 213 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: for plantation
+Answer: avi aap plant lga sakte hai
+State: BIHAR
+District: ROHTAS
+Crop Code: Sagoan
+
+=== CHUNK 214 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Good variety of okra
+Answer: Good variety of okra - prabhani kranti arka abhay arka anamika bersa upharPunjab-7 okra-4
+State: BIHAR
+District: GAYA
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 215 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: best variety of brinjal
+Answer: best variety of brinjal-rajendra baigan-2 pant baigan punjab sadabahar sonali pusa purple long pusa anmol arka navneet
+State: BIHAR
+District: MADHEPURA
+Crop Code: Brinjal
+
+=== CHUNK 216 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: plant protection
+Answer: spray of planofix 1ml per 5litof watercopper oxy chloride 3gm per lit of water
+State: BIHAR
+District: MADHUBANI
+Season: JAYAD
+Crop Code: Bitter Gourd
+
+=== CHUNK 217 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: lemon variety
+Answer: banarsigolavikramsie sarbati
+State: BIHAR
+District: MUNGER
+Crop Code: Lemon
+
+=== CHUNK 218 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: plant protection inmango
+Answer: spray of planofix 1ml per lit of water
+State: BIHAR
+District: ARARIA
+Season: JAYAD
+Crop Code: Mango
+
+=== CHUNK 219 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding control of affids and thrips in tomato
+Answer: spray 400ml malathion or 350 ml rogor or 400 gm karboril in 200Ltr of water acre 
+State: HARYANA
+District: BHIWANI
+Season: JAYAD
+Crop Code: Tomato
+
+=== CHUNK 220 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How to Improved growth in watermelon 
+Answer: How to Improved growth in watermelon  broadcast - 10 kg bayobeeta mixed in 20 kg urea  ecd
+State: HARYANA
+District: BHIWANI
+Season: RABI
+Crop Code: Watermelon
+
+=== CHUNK 221 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: fertilizer dose in Garlic 
+Answer: 10-15 ton compost  80 kg urea  125 kg singal supar phosphate  35 kg murate of potash  10 kg zinc 
+State: HARYANA
+District: BHIWANI
+Season: KHARIF
+Crop Code: Garlic
+
+=== CHUNK 222 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: varieties of tomato 
+Answer: hisar arun  hisar lalit  hisar lalima
+State: HARYANA
+District: KARNAL
+Season: KHARIF
+Crop Code: Tomato
+
+=== CHUNK 223 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: INFORMATION REGARDING MANDI RATE OF DIFFERENT CROPS 
+Answer: Information regarding Contact no of mandi bhav :- 1800 180 2060
+State: HARYANA
+District: KURKSHETRA
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 224 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: INSECT PEST CONTROL IN cucumber 
+Answer: SPRAY 400 ML MELATHION 50 EC OR 300 ML METASYSTOX 25 EC IN 250 LITER WATERACRE
+State: HARYANA
+District: AMBALA
+Season: RABI
+Crop Code: Cucumber
+
+=== CHUNK 225 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: seed treatment of pea 
+Answer: seed treatment of gram with rizobium injection 
+State: HARYANA
+District: JIND
+Season: RABI
+Crop Code: Pea Vegetable
+
+=== CHUNK 226 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Varieties of Pea 
+Answer: Arkal  PH-1  Bonveele Punjab - 89
+State: HARYANA
+District: MAHENDRA GARH
+Season: RABI
+Crop Code: Pea Vegetable
+
+=== CHUNK 227 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding contact no of horticulture officer panipat 
+Answer: soil testing lab contact no:- 0180-2001625 distt horticulture officer :- 0180-2660808
+State: HARYANA
+District: PANIPAT
+Season: KHARIF
+Crop Code: Lemon
+
+=== CHUNK 228 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: INFORMATION REGARDING OF SOIL AND WATER TESTING 
+Answer: INFORMATION REGARDING OF SOIL AND WATER TESTING :: CONTECT TO KVK IN DISTRICT  AGRICULTURE DEVELOPMENT OFFICER  ADO 
+State: HARYANA
+District: YAMUNA NAGAR
+Season: KHARIF
+Crop Code: Greater Yam
+
+=== CHUNK 229 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Weed control in Pea 
+Answer: Weed control in Pea Spray 12 liter alachlor laso 50  2 liter  pendimethlin 050 kg  stomp 30  15 liter   Basaline 40   800-900 ML in 200-250 liter water acre with in 10 days 
+State: HARYANA
+District: REWARI
+Season: RABI
+Crop Code: Butter Pea Vegetable
+
+=== CHUNK 230 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: HOW TO CONTROL FUNJAL DISEASE IN bhindi 
+Answer: SPRAY OF CARVENDAJIM BABASTIN500 GM IN 200 LITER WATERACRE 
+State: HARYANA
+District: JHAJJAR
+Season: KHARIF
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 231 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: solan univerastiy number 
+Answer: solan univerastiy number 01792-252328
+State: HIMACHAL PRADESH
+District: SOLAN
+Crop Code: Apple
+
+=== CHUNK 232 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FERTILIZER  DOSES WALNUT
+Answer: UREA 3915gmDAP 1085gmMOP 2400gm
+State: JAMMU AND KASHMIR
+District: ANANTNAG
+Season: RABI
+Crop Code: Walnut
+
+=== CHUNK 233 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: planting time of apple 
+Answer: april is suitable for planting of apple and for proper establishment of orchard visit near by of your horticulture department 
+State: JAMMU AND KASHMIR
+District: BADGAM
+Crop Code: Apple
+
+=== CHUNK 234 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: BANANA NUTRIENT MANAGEMENT
+Answer: VarietiesNPKSuckers g plant175105220RobustaDwarf Cavendish g plant216130270Other Varieties g Plant16096200Tissue culture banana g Plant200100300
+State: KARNATAKA
+District: MYSORE
+Crop Code: Banana
+
+=== CHUNK 235 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: WEATHER REPORTCHANCE OF RAIN 
+Answer: WEATHER REPORTCHANCE OF RAIN 55
+State: KARNATAKA
+District: BAGALKOT
+Crop Code: Onion
+
+=== CHUNK 236 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Contact number of IISR
+Answer: IISR Farm Peruvannamoozhi 0496 2249371 IISR-Chelavoor 0495 2730294
+State: KERALA
+District: KOTTAYAM
+Crop Code: Nutmeg
+
+=== CHUNK 237 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: farmer want to know propagation of jack fruit
+Answer: meet to your RHEO or visit horticulture department nursery in district
+State: MADHYA PRADESH
+District: BETUL
+Season: JAYAD
+Crop Code: Jack Fruit
+
+=== CHUNK 238 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How to control flower drop problem in papaya  crop
+Answer: Recommended for Spray Plano fix 4 to 5 Ml at 15 liter of water
+State: MADHYA PRADESH
+District: CHHINDWARA
+Crop Code: Papaya
+
+=== CHUNK 239 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: fertilizer spray for onion 
+Answer: spray 00:00:50  5 graamliter
+State: MAHARASHTRA
+District: NASIK
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 240 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about weather forecast
+Answer: Cloudy Weather no Possibility of Rain
+State: MAHARASHTRA
+District: NASIK
+Season: KHARIF
+Crop Code: Almond
+
+=== CHUNK 241 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about Weather information
+Answer: Partly cloudy no Possibility with light  rain
+State: MAHARASHTRA
+District: NASIK
+Season: KHARIF
+Crop Code: Bitter Gourd
+
+=== CHUNK 242 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: market rate
+Answer: DateVarietyAPMCUnitQuantityLrateHrateModal22-9-2016----CHANDRAPUR-GANJWADQUINTAL630500700600----MUMBAI-ONION AND POTATO MKTQUINTAL14000450650550
+State: MAHARASHTRA
+District: DHULE
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 243 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ATTACK OF THRIPS
+Answer: SPRAY CONFIDOR   ASTRA 5 GRAM 19:19:19  00:52:34   60 GRAMS  MICROLA  40 ML  BAVISTIN  30 GRAMS IN 15 LITER OF WATER
+State: MAHARASHTRA
+District: JALGAON
+Season: JAYAD
+Crop Code: Onion
+
+=== CHUNK 244 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FERTILIZER
+Answer: MICROLLA   30  GRAM PAMP  PSRAY ON CROP 
+State: MAHARASHTRA
+District: JALGAON
+Season: KHARIF
+Crop Code: Bitter Gourd
+
+=== CHUNK 245 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about weather forecast  
+Answer: Partly cloudyPossibility of light  Rain
+State: MAHARASHTRA
+District: JALGAON
+Season: KHARIF
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 246 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about herbicide use in lime
+Answer: weed control can be done manually do not use herbicide on plant
+State: MAHARASHTRA
+District: AHMADNAGAR
+Crop Code: Lemon
+
+=== CHUNK 247 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about weather forecast 
+Answer: Partly cloudyNo Possibility of Rain
+State: MAHARASHTRA
+District: SOLAPUR
+Season: KHARIF
+Crop Code: Bitter Gourd
+
+=== CHUNK 248 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about Weather information
+Answer: Partly cloudy no Possibility of rain
+State: MAHARASHTRA
+District: SOLAPUR
+Season: KHARIF
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 249 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about weather forecast 
+Answer: cloudy weather Possibility of medium to  light rainfall  temperature 25c humidity 80  Feels Like: 35   Precip chance: 71Humidity: 96
+State: MAHARASHTRA
+District: PARBHANI
+Crop Code: Drum Stick
+
+=== CHUNK 250 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weed control in onion
+Answer: weed control in onion--Goal 20 ml oxyfluorfen15 liter of water-Dow Agro-Onion
+State: MAHARASHTRA
+District: BULDANA
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 251 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT FERTILIZERS FOR SAPOTA 
+Answer: APPLY UREA - 15 KG  SSP - 2 KG MOP- 2 KG  PLANT
+State: MAHARASHTRA
+District: AMRAVATI
+Season: KHARIF
+Crop Code: Sapota
+
+=== CHUNK 252 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Mealy Bug Attack 
+Answer: Asifate 20 Gram  Trizophos 30 Ml per 15 liter of Water
+State: MAHARASHTRA
+District: NAGPUR
+Season: KHARIF
+Crop Code: Banana
+
+=== CHUNK 253 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FUSSARIUM WILTING IN TOMATO
+Answer: RECOMMENDED TO SAFFCARBENDAZIMMANCOZEB 2GM IN 1 LITRE WATER TO CONTROL FUSSARIUM WILTING IN TOMATO
+State: ODISHA
+District: BALANGIR
+Crop Code: Tomato
+
+=== CHUNK 254 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ONION CULTIVATION
+Answer: DETAIL PACKAGE OF PRACTICE EXPLAINED IN ONION CULTIVATION
+State: ODISHA
+District: BALANGIR
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 255 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: REJUVENATION OF CITRUS
+Answer: SPRAY PLANOFIX HORMONE  1ML  LITER OF WATER FOR REJUVENATION OF CITRUS
+State: ODISHA
+District: CUTTACK
+Season: KHARIF
+Crop Code: Citrus
+
+=== CHUNK 256 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: QUERY ABOUT ROSE HYBRIDS VARIETIES
+Answer: QUERY ABOUT ROSE HYBRIDS VARIETIES:HYBRIDTIPOLYENTHAFLORIBUNDAMINIATURE
+State: ODISHA
+District: KALAHANDI
+Crop Code: Rose
+
+=== CHUNK 257 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: VARIETIES OF CASSAVA
+Answer: PALLABIRASHMISATAMUKHIMUKTAKESHI-VARIETIES OF CASSAVA
+State: ODISHA
+District: PURI
+Season: RABI
+Crop Code: Colocasia Arvi Arbi
+
+=== CHUNK 258 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: VARIETIES OF TOMATO
+Answer: F1 Hybrid VNR-63VNR RED PEARLVNR 3335-VARIETIES OF TOMATO
+State: ODISHA
+District: SAMBALPUR
+Crop Code: Tomato
+
+=== CHUNK 259 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: SUCKING PEST IN POINTEDGOURD
+Answer: SPRAY IMIDACHLOROPRID  1ML3LIT WATER FOR SUCKING PEST IN POINTEDGOURD
+State: ODISHA
+District: BHADRAK
+Season: KHARIF
+Crop Code: Pointed Gourd
+
+=== CHUNK 260 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ONION CULTIVATION
+Answer: EXPLAINED THE DETAILS ONION CULTIVATION LIKE VARIETY N-53 SEED TREATMENT SEEDLINDS PREPARATION PLANTING METHOD FERTILIZER APPLICATION ETC
+State: ODISHA
+District: KENDRAPARA
+Crop Code: Onion
+
+=== CHUNK 261 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: AVAILABILITY OF COCONUT PALMS
+Answer: CONTACT WITH COCONUT DEVELOPMENT BOARD
+State: ODISHA
+District: NAWORANGPUR
+Crop Code: Coconut
+
+=== CHUNK 262 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: For quality fruiting in Coconut
+Answer: Recommended to apply 25kg compost  350gm urea  400gm DAP  1kg MoP  250gm Micronutrient  1kg salt per plant for quality fruiting in Coconut
+State: ODISHA
+District: NAYAGARH
+Crop Code: Coconut
+
+=== CHUNK 263 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: DOSE OF FAME
+Answer: DOSE OF FAME-5ML IN 15LIT WATER
+State: ODISHA
+District: BARGARH
+Crop Code: Brinjal
+
+=== CHUNK 264 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding weather
+Answer: weather is cloudy but no chances of rainfall today              
+State: PUNJAB
+District: GURDASPUR
+Season: JAYAD
+Crop Code: Jamun
+
+=== CHUNK 265 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: INFORMATION REGARDING THE CONTROL OF SEMILOOPER ATTACK IN PEA CROPINFORMATION REGARDING THE CONTROL OF SEMILOOPER ATTACK IN PEA CROP
+Answer: FOR THE CONTROL OF SEMILOOPER ATTACK IN PEA  SPRAY 500 ML EKALUX IN 100 LITRE WATER PER ACRE
+State: PUNJAB
+District: PATIALA
+Season: RABI
+Crop Code: Pea Vegetable
+
+=== CHUNK 266 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding for Bitter Gourd 
+Answer: Seed rate - 2 kg Per acre Soving time Feb march
+State: PUNJAB
+District: TARN TARAN
+Season: RABI
+Crop Code: Bitter Gourd
+
+=== CHUNK 267 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME NUTRIENT MANAGEMENT  
+Answer: SPRAY SOLUBLE NPK  18:18:18 GRADE 10 GMLTR WATER
+State: RAJASTHAN
+District: BARMER
+Season: JAYAD
+Crop Code: Lemon
+
+=== CHUNK 268 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME MICRO NUTRIENT MANAGEMENT
+Answer: SPRAY OF MULTIPLAX MICRONUTRIENT 4 ML PER LITER WATER
+State: RAJASTHAN
+District: BHILWARA
+Season: KHARIF
+Crop Code: Tomato
+
+=== CHUNK 269 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME FERTILIZER IN LEMON
+Answer: FERTILIZER IN LEMON OF 5 YRS FYM 20 KG UREA 100 GM DAP 100 GM MOP 100 GM PER PLANT
+State: RAJASTHAN
+District: JAIPUR
+Season: KHARIF
+Crop Code: Lemon
+
+=== CHUNK 270 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT MAKE THA NEW GARDEN OF CITRUS 
+Answer: JULLY-AUGUST IN MAKE THA NEW GARDEN OF CITRUS
+State: RAJASTHAN
+District: JHUNJHUNU
+Season: RABI
+Crop Code: Citrus
+
+=== CHUNK 271 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME NUTRIENT MANAGEMENT IN ONON  
+Answer: SPRAY OF POTASSIUM SULPHATE 0:0:50 10 GM PER LITER WATER
+State: RAJASTHAN
+District: SIKAR
+Season: JAYAD
+Crop Code: Onion
+
+=== CHUNK 272 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME CONTROL OF ROOT ROT IN ONION
+Answer: DRENCHING OF CARBENDAZIM 1 KG PER HA IN ROOT ZONE WITH IRRIGATION
+State: RAJASTHAN
+District: SIKAR
+Season: JAYAD
+Crop Code: Onion
+
+=== CHUNK 273 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME MICRO NUTRIENT MANAGEMENT IN CUCUMBER
+Answer: SPRAY OF MULTIPLAX MICRONUTRIENT 4 ML PER LITER WATER
+State: RAJASTHAN
+District: SIKAR
+Season: JAYAD
+Crop Code: Cucumber
+
+=== CHUNK 274 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME NUTRIENT MANAGEMENT IN CITREUS 
+Answer: MICRONUTRIENT 100 GRAM  PLANT IN ROOT  ZONE
+State: RAJASTHAN
+District: SIKAR
+Season: JAYAD
+Crop Code: Citrus
+
+=== CHUNK 275 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME CONTROL OF FLOWER DROPPING IN BRINJAL
+Answer: SPRAY OF PLANOFIX 1 ML PER 4 LITER WATER
+State: RAJASTHAN
+District: DAUSA
+Season: KHARIF
+Crop Code: Brinjal
+
+=== CHUNK 276 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: transplanting of three year old tree
+Answer: recommended for transplanting it
+State: TAMILNADU
+District: KANCHEEPURAM
+Season: RABI
+Crop Code: Mango
+
+=== CHUNK 277 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Foliar application in Mango
+Answer: Recommended for spray Potassium nitrate 10 gram  litre of water
+State: TAMILNADU
+District: VELLORE
+Season: RABI
+Crop Code: Mango
+
+=== CHUNK 278 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Planting of Casuarina
+Answer: recommended for Light requirement: Light demander speciesSpacing: 18 x 18 m for clonal plantationNo of Plants: 625 plants per acreAfter two years trees can attain 32 mSilvicultural operations: Pruning weeding and thinning
+State: TAMILNADU
+District: SALEM
+Season: RABI
+Crop Code: Coconut
+
+=== CHUNK 279 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Onion top  dressing fertilizer management
+Answer: recommended for the fertilizers  : urea 25 kg potash  20 kg MN mixture  5 kg acre
+State: TAMILNADU
+District: TIRUNELVELI
+Season: JAYAD
+Crop Code: Onion
+
+=== CHUNK 280 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: pine apple cultivation in thiruvannamalai district
+Answer: recommended for contacting 0422-6611269
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: RABI
+Crop Code: Pineapple
+
+=== CHUNK 281 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking about tuberose growth regulator use
+Answer: recommended for gibrellic acid 5 gram 100 litre of water
+State: TAMILNADU
+District: KRISHNAGIRI
+Season: RABI
+Crop Code: Tuberose
+
+=== CHUNK 282 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: onion me yello
+Answer: NPK 191919 1kg acre 120 litre pani me  Mancozeb 63 WP 500 gram acre spre kare
+State: UTTAR PRADESH
+District: ALIGARH
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 283 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weed management in onion
+Answer: Aap nirayi-gurayi kare kharpatwar nikale Aab kharpatwarnasi ke prayog se phasal ka nuksan ho jayega
+State: UTTAR PRADESH
+District: MATHURA
+Season: JAYAD
+Crop Code: Onion
+
+=== CHUNK 284 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: MATAR KI SICHAI KA SAMAY
+Answer: KISAN BHAI MATAR KI SICHAI PHOOL ANE KE BAD KARE
+State: UTTAR PRADESH
+District: ETAH
+Season: RABI
+Crop Code: Pea Vegetable
+
+=== CHUNK 285 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: lahsun me patti sukh rahi
+Answer: blitox-25 gram dawa  liter pani milakr sprey kare
+State: UTTAR PRADESH
+District: BADAUN
+Season: JAYAD
+Crop Code: Garlic
+
+=== CHUNK 286 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ONION LEAF PEELI PAD RAHI HAIN
+Answer: SPRAY CARBENDAZIM50WP2GMLITWATER SOL
+State: UTTAR PRADESH
+District: ALLAHABAD
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 287 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: onion crop ki  jankari leni hai
+Answer: cold store se samprak kare
+State: UTTAR PRADESH
+District: ALLAHABAD
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 288 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: to information about subsuidy 
+Answer: please log on wwwagricultureupnicin
+State: UTTAR PRADESH
+District: ALLAHABAD
+Season: RABI
+Crop Code: Cauliflower
+
+=== CHUNK 289 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: vegetabels growth regulater
+Answer: Dear Farmer use of NPK 19:19:19  4gram liter of water to splash  in th field
+State: UTTAR PRADESH
+District: JHANSI
+Season: RABI
+Crop Code: Kiwi Fruit
+
+=== CHUNK 290 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: About weather information  
+Answer: aaj se 1 august tak bareish tatha 3 se halki bundaa baandi ke sath mausam saaf hone ki sambhawana hai
+State: UTTAR PRADESH
+District: JALAUN
+Season: JAYAD
+Crop Code: Jamun
+
+=== CHUNK 291 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: insect problom in tomato 
+Answer: foret 10 g 10 kilogram acre burcav kare
+State: UTTAR PRADESH
+District: JAUNPUR
+Season: RABI
+Crop Code: Tomato
+
+=== CHUNK 292 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: seed information 
+Answer: varaity-versa upharpusa sawniarka abhayarka anamika
+State: UTTAR PRADESH
+District: BASTI
+Season: JAYAD
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 293 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: growth problem 
+Answer: spray planophix  1ml  3 liter of water
+State: UTTAR PRADESH
+District: AZAMGARH
+Season: JAYAD
+Crop Code: Watermelon
+
+=== CHUNK 294 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mentha oil rate raybarely mandi
+Answer: kisaan bhai aap ke yaha 940 rupee  liter oil hai
+State: UTTAR PRADESH
+District: RAEBARELI
+Season: JAYAD
+Crop Code: Mentha
+
+=== CHUNK 295 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: bottle gourd ki buvai kar sakte hai kya 
+Answer: bottle gourd ki buvai kar de
+State: UTTAR PRADESH
+District: FAIZABAD
+Season: JAYAD
+Crop Code: Bottle Gourd
+
+=== CHUNK 296 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: kala ka phal sukh raha hai
+Answer: coppar oxichloride 20 gram litre ka spraymicronutrients 20 mllitre ka spray
+State: UTTAR PRADESH
+District: BAHRAICH
+Season: KHARIF
+Crop Code: Banana
+
+=== CHUNK 297 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: flowering in chillies
+Answer: planofix ka spray krein
+State: UTTAR PRADESH
+District: SULTANPUR
+Crop Code: Carrot
+
+=== CHUNK 298 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: want to know about weather report information
+Answer: possibility of no clouds in the date of 8 february to 13 february
+State: UTTAR PRADESH
+District: CHANDAULI
+Season: KHARIF
+Crop Code: Brinjal
+
+=== CHUNK 299 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: onion me disease problem 
+Answer: Carbendazim 12  Mancozeb 63 WP 300-400 gmacre 150-200 liter pani ke sprey kre
+State: UTTAR PRADESH
+District: SONBHADRA
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 300 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Please give information of bottelgard 
+Answer: joon tk buaai kar sakte hai toraai ki buaai
+State: UTTAR PRADESH
+District: SANT KABIR NAGAR
+Season: JAYAD
+Crop Code: Cabbage
+
+=== CHUNK 301 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: cultivation of potato 
+Answer: aalu kee prajaati- kufaree laalimaa kufree pukhraajkufree satlajkufree asokaa
+State: UTTAR PRADESH
+District: AMBEDKAR NAGAR
+Season: RABI
+Crop Code: Potato
+
+=== CHUNK 302 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKING ABOUT BUD CUTTING OF MANGO
+Answer: CONTACT WITH HORTICULTURIST OFFICER
+State: WEST BENGAL
+District: HOOGHLY
+Season: KHARIF
+Crop Code: Mango
+
+=== CHUNK 303 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: farmer want to know about fertilizer dose in citrus crop
+Answer: Manures and fertilizers per plantN is applied in two doses during March and October  FYM P2O5 and K2O are to be applied in OctoberManures and Fertilizers Ist  year Annual increase From 6th yearFYM 10 kg 5 kg    30 kgN 200 g 100 g 600 gP 100 g 25 g 200 gK 100 g 40 g 300 g
+State: CHHATTISGARH
+District: JANJGIR-CHAMPA
+Crop Code: Citrus
+
+=== CHUNK 304 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Seed treatment
+Answer: Seed treatment  250 g of hybrid cabbage seed is required for the production of seedlings for 1 ha Treat the seeds in hot water  50C for 30 minutes 25g of Azospirillum is required for the seed treatment of 250g cabbage seeds
+State: JHARKAND
+District: DUMKA
+Crop Code: Cabbage
+
+=== CHUNK 305 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Weed management in onion
+Answer: Weed management in onion- spray oxy phlorophenGOAL 15 ml in 1 litre of water
+State: JHARKAND
+District: GUMLA
+Crop Code: Bitter Gourd
+
+=== CHUNK 306 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: no growth in tomato
+Answer: spray multimicronutrient 3mllit of water
+State: JHARKAND
+District: HAZARIBAGH
+Season: KHARIF
+Crop Code: Tomato
+
+=== CHUNK 307 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: tomato micro nutrient deficiency management
+Answer: RECOMMENDED TO SPRAY FORMULA-4  1KGACRE IN 200 LT WATER
+State: TELANGANA
+District: BHADRADRI KOTHAGUDEM
+Season: KHARIF
+Crop Code: Tomato
+
+=== CHUNK 308 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME SOWING TIME AND VARITY OF ROSE
+Answer: OCTOMBER FIRST WEEK SOWING TIME 
+State: DELHI
+District: CENTRAL DELHI Daryaganj
+Season: KHARIF
+Crop Code: Rose
+
+=== CHUNK 309 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Variety of papaya
+Answer: Variety of papaya    5    - 16 x14 
+State: BIHAR
+District: SAMASTIPUR
+Season: KHARIF
+Crop Code: Papaya
+
+=== CHUNK 310 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TOMATO
+Answer: N P V 250LE1ML3LI PANI
+State: BIHAR
+District: BEGUSARAI
+Crop Code: Tomato
+
+=== CHUNK 311 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: WEATHER INFORMATION
+Answer: Cloudy weather but no chance of rain in your area
+State: BIHAR
+District: PURNEA
+Season: KHARIF
+Crop Code: Bottle Gourd
+
+=== CHUNK 312 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Best variety of brinjal
+Answer: Best variety of brinjal Rajendra baigan-2 pant baigan punjab sadabahar sonali pusa purple long pusa anmol arka navneet
+State: BIHAR
+District: KATIHAR
+Season: KHARIF
+Crop Code: Brinjal
+
+=== CHUNK 313 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Ask about sowing time in pomegranate
+Answer: Suggested: June - July
+State: GUJARAT
+District: BANAS KANTHA
+Season: JAYAD
+Crop Code: Pomegranate
+
+=== CHUNK 314 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: About marketing cotton price
+Answer: About marketing cotton price
+State: GUJARAT
+District: SURENDRANAGAR
+Season: RABI
+Crop Code: Beans
+
+=== CHUNK 315 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASK ABOUT OKRA FERTILIZER
+Answer: BASAL DOSE - 12:61:00 200KG  MOP 100KG                                AFTER  20 DAYS UREA 100 KG   AFTER  45 DAYS UREA 100 KG 
+State: GUJARAT
+District: ANAND
+Season: JAYAD
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 316 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding HAU Helpline No
+Answer: HAU Helpline no 1800-180-3001contect :-Monday Wednesdayand Friday 10 am to 12 am
+State: HARYANA
+District: SIRSA
+Crop Code: Aloe Vera
+
+=== CHUNK 317 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: DIRECTORATE OF HORTICULTURE
+Answer: DIRECTORATE OF HORTICULTURE UDHYAN BHAWAN Sector- 21 PANCHKULA-134116 Haryana India   Ph  No :- 0172-2582322
+State: HARYANA
+District: SONEPAT
+Season: KHARIF
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 318 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: SOWING TIME OF BHINDI 
+Answer: FEBUARY - MARCH  JUNE JULY MONTH 
+State: HARYANA
+District: FATEHABAD
+Season: RABI
+Crop Code: Bitter Gourd
+
+=== CHUNK 319 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: SOWING TIME OF CHILLIES 
+Answer: SOWING TIME OF NURSARY MAY TO JUNE  OCTOBER TO NOVEMBER TRANSPLANTING OF NURSARY AFTER 30-35 DAYS 
+State: HARYANA
+District: FATEHABAD
+Season: RABI
+Crop Code: Chillies
+
+=== CHUNK 320 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: INFORMATION REGARDING OF KISAAN STOP
+Answer: MESSAGE FOR NUMBER 51969 AND STOP MESSAGE
+State: HIMACHAL PRADESH
+District: HAMIRPUR
+Season: KHARIF
+Crop Code: Cabbage
+
+=== CHUNK 321 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Varieties of cauliflower 
+Answer: Varieties of cauliflower are palam upahar pusa dipaliEarly kuwanriimproved japanimegha
+State: HIMACHAL PRADESH
+District: SOLAN
+Season: KHARIF
+Crop Code: Cauliflower
+
+=== CHUNK 322 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: spray or almonds
+Answer: spray planofix1ml45 litre of water before 15 days of flowering
+State: JAMMU AND KASHMIR
+District: SRINAGAR
+Crop Code: Almond
+
+=== CHUNK 323 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: PROPOGATION
+Answer: Seedlingssuckers can be used for propagation
+State: KARNATAKA
+District: BAGALKOT
+Crop Code: Cardamom
+
+=== CHUNK 324 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: NUTRIENT MANAGEMENT IN TOMATO
+Answer: NUTRIENT MANAGEMENT IN TOMATOFarm yard manurecompost tonsacre-10Chemical fertilizers kgacre-100:100:100NPKApply 50 N entire P K in furrows and mix it wellTop dress the crop with remaining 50 N 4 weeks after transplantingApplication of 100 kg neem cake and 2 tons green manure in irrigated crop increases the yield
+State: KARNATAKA
+District: CHIKKABALLAPUR
+Season: JAYAD
+Crop Code: Tomato
+
+=== CHUNK 325 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: lime application in banana
+Answer: recommended to apply 250 g at the time of plantingand 20 g after planting
+State: KERALA
+District: MALAPPURAM
+Crop Code: Banana
+
+=== CHUNK 326 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: poor fruit setting in mango
+Answer: Recommended to apply potash fertilizers
+State: KERALA
+District: MALAPPURAM
+Crop Code: Mango
+
+=== CHUNK 327 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer wants to know information about storage of onion 
+Answer: Construction of structure on a raised platform to prevent moisture and dampness due to direct contact of bulbs with the soil Increased centre height and more slope for better air circulation and preventing humid micro climate inside godown  Providing bottom and side ventilations for free and faster air circulation and to avoid formation of hot and humid pockets between the onion layers  Avoid direct sunlight or rain water falling on onion bulbs to reduce sun scald fading of colour and quality deterioration  Maintenance of stacking height to avoid pressure bruising Periodical disinfection of structures and premises to check rottage
+State: MADHYA PRADESH
+District: MANDSAUR
+Crop Code: Onion
+
+=== CHUNK 328 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking About Weather Forecast 
+Answer: This Week Weather Is Cloudy Posibility of Light  Medium  Rainfall Chances
+State: MAHARASHTRA
+District: AHMADNAGAR
+Season: KHARIF
+Crop Code: Pomegranate
+
+=== CHUNK 329 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about weed control
+Answer: Harvest the weeds by 2 to 3 with weeding When weeding soil should be provided with the storks so that the seedlings do not collapse and the growth of the plants is good To prepare the white rose waiting for the flowers of cauliflower cover the inside layers of the intestine for 1 week before harvesting Therefore the harm caused by sunlight is avoided
+State: MAHARASHTRA
+District: SOLAPUR
+Season: KHARIF
+Crop Code: Cabbage
+
+=== CHUNK 330 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT FERTILIZER DOSE FOR ONION 
+Answer: FERTILIZER DOSE FOR ONION  - APPLY  10:26:26 - 75 KILO  ACRE
+State: MAHARASHTRA
+District: AURANGABAD
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 331 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about fertilize spray for carrot 
+Answer: fertilize spray for carrot 00:52:34 75 gram  MICROLLA 30 ML 15 liter of water
+State: MAHARASHTRA
+District: AURANGABAD
+Season: RABI
+Crop Code: Carrot
+
+=== CHUNK 332 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKING ABOUT MARKATE RATE OF MOSAMBI 
+Answer: NAGPUR MARKATE RATE OF MOSAMBI 2500-3000 RSQUINTAL
+State: MAHARASHTRA
+District: JALNA
+Crop Code: Mosambi
+
+=== CHUNK 333 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Growth Sprayer for mango
+Answer: Growth Sprayer for mango: 00 :52 :34    60 gm  microla 30 ml 15 lit water
+State: MAHARASHTRA
+District: BEED
+Crop Code: Mango
+
+=== CHUNK 334 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: WEED MANAGEMENT IN CUCUMBER
+Answer: SPRAY QUIZALOFOP ETHYL TARGA SUPER  2ML1LIT WATER FOR WEED MANAGEMENT IN CUCUMBER
+State: ODISHA
+District: CUTTACK
+Season: RABI
+Crop Code: Cucumber
+
+=== CHUNK 335 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: VARIETIES OF PUMPKIN
+Answer: VNR P-6FLAT ROUNDCREAM TO YELLOW FLESH MATURITY:90-100 DAYS FRUIT WEIGHT:6-8 KGKANCHANVNR-14SURYAN0-111-VARIETIES OF PUMPKIN
+State: ODISHA
+District: CUTTACK
+Season: RABI
+Crop Code: Pumpkin
+
+=== CHUNK 336 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding improved varieties of cotton 
+Answer: varieties of cotton : RCH-650 NCS 855 BG-IIAnkur-3028 BG-IIMRC-7017 BG II    - RCH-650 NCS 855 BG-IIAnkur-3028 BG-IIMRC-7017 BG II
+State: PUNJAB
+District: HOSHIARPUR
+Season: KHARIF
+Crop Code: Aonla
+
+=== CHUNK 337 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: INFORMATION  REGARDING TO PLANTING TIME OF KAGZI LIME
+Answer: PLANTING TIME OF KAGZI LIME IS JULY AUGEST
+State: PUNJAB
+District: HOSHIARPUR
+Season: KHARIF
+Crop Code: Citrus
+
+=== CHUNK 338 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding fruit dropping in sapota fruit
+Answer: spray Planofix 1ml in 45lt water for fruit dropping
+State: PUNJAB
+District: LUDHIANA
+Crop Code: Sapota
+
+=== CHUNK 339 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME SUBSIDY ON CITRUS ORCHARD WITH DRIP SYSTEM 
+Answer: SUBSIDY ON CITRUS  ORCHARD WITH DRIP SYSTEM  40 OF TOTAL COST OR 40000 MAXIMUM PER HECTER
+State: RAJASTHAN
+District: AJMER
+Crop Code: Citrus
+
+=== CHUNK 340 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME SUBSIDY ON VERMICOMPOST UNIT  
+Answer: SUBSIDY ON VERMICOMPOST UNIT  50 OF TOTAL COST OR MAXIMUM 50000-
+State: RAJASTHAN
+District: BARMER
+Crop Code: Spine Gourd
+
+=== CHUNK 341 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME FERTILIZER  DOSE IN BAIL 
+Answer: FERTILIZER IN BAIL OF 5 YRS FYM 20 KG UREA 100 GM DAP 100 GM MOP 100 GM PER PLANT
+State: RAJASTHAN
+District: BARMER
+Season: KHARIF
+Crop Code: Bail
+
+=== CHUNK 342 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME MANDI RATE OF ONION
+Answer: KOTA F  V  ONION 650 RSQT
+State: RAJASTHAN
+District: BHILWARA
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 343 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME WEATHER INFORMATION 
+Answer: RAIN POSSIBILITY IN NEXT 5 DAYS BUT CLOUDY SKY
+State: RAJASTHAN
+District: BHILWARA
+Season: KHARIF
+Crop Code: Brinjal
+
+=== CHUNK 344 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME NUTRIENT MANAGEMENT  
+Answer: MICRONUTRIENT 100 GRAM  PLANT IN ROOT  ZONE
+State: RAJASTHAN
+District: JHUNJHUNU
+Season: RABI
+Crop Code: Grape
+
+=== CHUNK 345 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME NUTRIENT MANAGEMENT  
+Answer: SPRAY SOLUBLE NPK  18:18:18 GRADE 10 GMLTR WATER
+State: RAJASTHAN
+District: SIKAR
+Season: KHARIF
+Crop Code: Chillies
+
+=== CHUNK 346 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking for the lemon planting
+Answer: recommended for Healthy seedlings are planted during June to December at 5 to 6 m spacing in 75 cm x 75 cm x 75 cm pits
+State: TAMILNADU
+District: KANCHEEPURAM
+Season: KHARIF
+Crop Code: Acid Lime
+
+=== CHUNK 347 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about sucking pest management in papaya
+Answer: Recommended for spray  Dimethoate 2ml  litter of water
+State: TAMILNADU
+District: KANCHEEPURAM
+Season: JAYAD
+Crop Code: Papaya
+
+=== CHUNK 348 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about shoot borer management in brinjal
+Answer: Recommended for spray indexocarb 1 ml litter of water
+State: TAMILNADU
+District: KANCHEEPURAM
+Season: RABI
+Crop Code: Brinjal
+
+=== CHUNK 349 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Brinjal basal fertilizer management
+Answer: Recommended for Apply urea 42 kg  super phosphate 125kg  potash 20 kg  ac
+State: TAMILNADU
+District: VELLORE
+Season: JAYAD
+Crop Code: Brinjal
+
+=== CHUNK 350 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Cercospora Leaf Spots in bhendi
+Answer: Recommended for spray  carbendazim 2gm  litter of water
+State: TAMILNADU
+District: VELLORE
+Season: RABI
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 351 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Department medicinal crops contact
+Answer: Recommended to contact 0422-6611365
+State: TAMILNADU
+District: SALEM
+Season: RABI
+Crop Code: Caleus
+
+=== CHUNK 352 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking about boron deficiency management in jasmine
+Answer: recommended for borox 2 gram 1 litre of water
+State: TAMILNADU
+District: SALEM
+Season: JAYAD
+Crop Code: Jasmine
+
+=== CHUNK 353 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: groundnut basal fertilizer management
+Answer: Recommended for apply DAP 50kg  gypsum 75 kg  zinc sulphate 10 kg  ac
+State: TAMILNADU
+District: SALEM
+Season: KHARIF
+Crop Code: Chillies
+
+=== CHUNK 354 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: onion seeds availability information
+Answer: Recommended TNAU Vegetable Dept contact no 0422 - 6611283
+State: TAMILNADU
+District: SALEM
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 355 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about banana intercrop information
+Answer: Recommended for banana intercrop onion Leguminous turmeric and lab lab
+State: TAMILNADU
+District: SALEM
+Season: RABI
+Crop Code: Banana
+
+=== CHUNK 356 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Salem today weather Report
+Answer: Recommended for salem today weather Report : very Light Rain fall 01  24 mm
+State: TAMILNADU
+District: SALEM
+Season: RABI
+Crop Code: Tomato
+
+=== CHUNK 357 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: watermelon basal fertilizer management
+Answer: Recommended for apply FYM 8ton  super phosphate 132kg  potash 22kg  urea 44kg  ac
+State: TAMILNADU
+District: DHARMAPURI
+Season: RABI
+Crop Code: Watermelon
+
+=== CHUNK 358 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about mealy bug management in coconut
+Answer: Recommended for spray Dimethoate 2mllitter of water
+State: TAMILNADU
+District: COIMBATORE
+Season: JAYAD
+Crop Code: Coconut
+
+=== CHUNK 359 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about onion sowing season
+Answer: Recommended for onion sowing season : october - november
+State: TAMILNADU
+District: COIMBATORE
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 360 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about button shed in coconut
+Answer: Recommended for Root feeding of the tonic  200 ml  palm twice a year at six months interval
+State: TAMILNADU
+District: COIMBATORE
+Season: RABI
+Crop Code: Hazlenut
+
+=== CHUNK 361 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: onion seeds availability information
+Answer: Recommended TNAU Vegetable Dept contact no 0422 - 6611283
+State: TAMILNADU
+District: COIMBATORE
+Season: RABI
+Crop Code: Broccoli
+
+=== CHUNK 362 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about banana fertilizer management
+Answer: Recommended for apply 150 gm urea  200 gm super phosphate  200 gm potash plant
+State: TAMILNADU
+District: COIMBATORE
+Season: RABI
+Crop Code: Banana
+
+=== CHUNK 363 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: brinjal foliar application
+Answer: Recommended for brinjal foliar spray for 19:19:19 50 gm  tank
+State: TAMILNADU
+District: ERODE
+Season: RABI
+Crop Code: Ginger
+
+=== CHUNK 364 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about basal fertilizer management for onion
+Answer: Recommended for apply FYM 10 ton  25kg urea  super phosphate 145kg  potash 20kg  ac
+State: TAMILNADU
+District: ERODE
+Season: JAYAD
+Crop Code: Onion
+
+=== CHUNK 365 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: bhendi basal fertilizer management
+Answer: Recommended for apply FYM 10 ton  urea 17kg  super phosphate 125kg  potash 20 kg  ac
+State: TAMILNADU
+District: ERODE
+Season: JAYAD
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 366 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about banana fruit size increases
+Answer: Recommended for spray potassium sulphate 10 - 15gm  lit
+State: TAMILNADU
+District: ERODE
+Season: RABI
+Crop Code: Banana
+
+=== CHUNK 367 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Root rot in coconut
+Answer: Recommended for apply Pseudomonas fluorescens 20gm  FYM 10 kg  tree
+State: TAMILNADU
+District: TIRUCHIRAPPALLI
+Season: JAYAD
+Crop Code: Coconut
+
+=== CHUNK 368 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about root rot management in Onion
+Answer: Recommended for soil drench with copper oxychloride 25gm  lit
+State: TAMILNADU
+District: TIRUCHIRAPPALLI
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 369 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Downy mildew in Ribbed gourd
+Answer: Recommended for spray Chlorothalonil 2 gm  litre of water
+State: TAMILNADU
+District: MADURAI
+Season: RABI
+Crop Code: Bitter Gourd
+
+=== CHUNK 370 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking for the micronutrient deficiency in jasmine
+Answer: recommended for Foliar spray ofZnSO4 025  MgSO4 05  FeSO4 05 In case of expression of micronutrient deficiency spraying should be done at fortnightly intervals until the chlorotic symptoms disappear
+State: TAMILNADU
+District: MADURAI
+Season: KHARIF
+Crop Code: Jasmine
+
+=== CHUNK 371 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking for the availability of papaya seeds
+Answer: recommended for contacting the Periyakulam horticultural research station 04546-231726 04546-233225
+State: TAMILNADU
+District: RAMANATHAPURAM
+Season: RABI
+Crop Code: Papaya
+
+=== CHUNK 372 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking about jasmine foliar spray
+Answer: recommended for potassium nitrate 5 gram 1 litre of water
+State: TAMILNADU
+District: TIRUNELVELI
+Season: RABI
+Crop Code: Jasmine
+
+=== CHUNK 373 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Rhinoceros beetle coconut
+Answer: Recommended for Apply mixture of either neem seed powder 50gm  sand 100gm 1:2 150 gm  palm
+State: TAMILNADU
+District: TIRUNELVELI
+Season: JAYAD
+Crop Code: Coconut
+
+=== CHUNK 374 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: button shedding in coconut
+Answer: recommended for root feeding coconut tonic 200mltreetime
+State: TAMILNADU
+District: TIRUNELVELI
+Season: JAYAD
+Crop Code: Coconut
+
+=== CHUNK 375 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: basal fertilizer management for onion
+Answer: Recommended for apply FYM 10 ton  25kg urea  super phosphate 145kg  potash 20kg  ac
+State: TAMILNADU
+District: TIRUNELVELI
+Season: JAYAD
+Crop Code: Onion
+
+=== CHUNK 376 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about leaf spot in tomato
+Answer: Recommended for spray mancozeb 2gm  litter of water
+State: TAMILNADU
+District: TIRUNELVELI
+Season: RABI
+Crop Code: Tomato
+
+=== CHUNK 377 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking for the water melon trader number of Koyambedu market
+Answer: recommended for contacting SMOHD NAZEER 044-42550517
+State: TAMILNADU
+District: THIRUVALLUR
+Season: RABI
+Crop Code: Watermelon
+
+=== CHUNK 378 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: shoot and fruit borer in brinjal
+Answer: Recommended for spray chlorpyrifos 2ml  neem oil  teepol 1mllit of water
+State: TAMILNADU
+District: KARUR
+Season: RABI
+Crop Code: Brinjal
+
+=== CHUNK 379 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about bitter gourd foliar application information
+Answer: Recommended for bitter gourd foliar spray for 19:19:19 5 gm lit of water
+State: TAMILNADU
+District: PERAMBALUR
+Season: JAYAD
+Crop Code: Bottle Gourd
+
+=== CHUNK 380 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about Elephant Foot yam top dressing fertilizer management
+Answer: Recommended for Apply urea 32 kg  potash 20 kg  ac
+State: TAMILNADU
+District: DINDIGUL
+Season: JAYAD
+Crop Code: White Yam
+
+=== CHUNK 381 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about Elephant Foot yam top dressing fertilizer management
+Answer: Recommended for Apply urea 32 kg  potash 20 kg  ac
+State: TAMILNADU
+District: DINDIGUL
+Season: JAYAD
+Crop Code: White Yam
+
+=== CHUNK 382 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about banana fruit size increases
+Answer: Recommended for spray potassium sulphate 10 - 15gm  lit
+State: TAMILNADU
+District: THIRUVARUR
+Crop Code: Banana
+
+=== CHUNK 383 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about nursery damping off in chilli
+Answer: recommended for Drench the nursery with Copper oxychloride  25 gl of water at 15 days interval against damping off disease
+State: TAMILNADU
+District: NAGAPATTINAM
+Season: RABI
+Crop Code: Chillies
+
+=== CHUNK 384 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Tobacco mosaic virus in brinjal
+Answer: Recommended for spray Dimethoate 2ml  litter of water
+State: TAMILNADU
+District: SIVAGANGA
+Crop Code: Brinjal
+
+=== CHUNK 385 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: bhendi foliar application information
+Answer: Recommended for spray potassium nitrate 5 glitre of water
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: JAYAD
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 386 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking about top fertilizer management in tuberose
+Answer: Recommended for apply urea 57kgac 60 and 90th days after planting
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: KHARIF
+Crop Code: Tuberose
+
+=== CHUNK 387 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Leaf spot in turmeric
+Answer: Recommended for spray Carbendazim 2gm  liter of water
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: KHARIF
+Crop Code: Turmeric
+
+=== CHUNK 388 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked abot Ginger Seed rate
+Answer: Recommended for Ginger Seed rate : 600 - 720 kg of rhizome  ac
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: RABI
+Crop Code: Ginger
+
+=== CHUNK 389 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: moringa intercropping information
+Answer: Recommended for moringa intercropping : Short duration vegetables like Cowpea Bhendi and Tomato
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: RABI
+Crop Code: Drum Stick
+
+=== CHUNK 390 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about banana fruit size increases
+Answer: Recommended for spray potassium sulphate 10 - 15gm  lit
+State: TAMILNADU
+District: THOOTHUKUDI
+Season: JAYAD
+Crop Code: Banana
+
+=== CHUNK 391 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about brinjal sowing season and variety
+Answer: Recommended for brinjal sowing season : December - January and Varieties : CO 1 CO 2 MDU 1 PKM 1 PLR 1PLR B 2 KKM 1 PPI 1 VRM1 Hybrid : COBH 1 and COBH 2
+State: TAMILNADU
+District: THOOTHUKUDI
+Season: JAYAD
+Crop Code: Brinjal
+
+=== CHUNK 392 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about sucking pest management in mango
+Answer: Recommended for spray Imidacloprid 4 ml10 litter of water
+State: TAMILNADU
+District: THOOTHUKUDI
+Season: RABI
+Crop Code: Mango
+
+=== CHUNK 393 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about coconut fertilizer management
+Answer: Recommended for apply urea 1300kg  super phosphate 2kg  potash 2 kg  neem cake 5kg  farm yard manure 50kg  micro mixture 1kg  tree  year
+State: TAMILNADU
+District: THOOTHUKUDI
+Season: RABI
+Crop Code: Coconut
+
+=== CHUNK 394 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: bail me phal gir raha hai
+Answer: planofix 1ml4-5 litre ka spray
+State: UTTAR PRADESH
+District: MUZAFFARNAGAR
+Season: RABI
+Crop Code: Bail
+
+=== CHUNK 395 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: bail me phal gir raha hai
+Answer: planofix 1ml4-5 litre ka spray
+State: UTTAR PRADESH
+District: MUZAFFARNAGAR
+Season: RABI
+Crop Code: Bail
+
+=== CHUNK 396 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT YELLOWING CONTROLE IN ONION
+Answer: SPRAY OF ACEPHATE 75 SP 2 GM PER LITER WATER  MENCOJEB 2GM PAR LITAR WATER
+State: UTTAR PRADESH
+District: GHAZIABAD
+Crop Code: Broccoli
+
+=== CHUNK 397 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmers pay to attention when buying seeds
+Answer: Dear farmers Get a receipt when purchasing seed and seed must Catch bag tagging
+State: UTTAR PRADESH
+District: MATHURA
+Season: KHARIF
+Crop Code: Cauliflower
+
+=== CHUNK 398 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mirch me vikas nahi ho raha hai
+Answer: npk 19:19:19  ka 1 kgacre ke hisab se spray kare
+State: UTTAR PRADESH
+District: BAREILLY
+Crop Code: Chillies
+
+=== CHUNK 399 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: want to know about seed subsidy regestration 
+Answer: wwwagricultureupnicin par registration kare
+State: UTTAR PRADESH
+District: BADAUN
+Season: RABI
+Crop Code: Jack Fruit
+
+=== CHUNK 400 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: plant protection in pappya
+Answer: Dear former use to  Dimethoate 30 EC 2ml liter water splash in the field
+State: UTTAR PRADESH
+District: SHAHJAHANPUR
+Season: KHARIF
+Crop Code: Cabbage
+
+=== CHUNK 401 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: khira me kida laga hai
+Answer: micronutrients 20 gram litre ka spray
+State: UTTAR PRADESH
+District: VARANASI
+Season: JAYAD
+Crop Code: Cabbage
+
+=== CHUNK 402 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: toria ki prajat batiye
+Answer: pusa nasdar pusa chikni
+State: UTTAR PRADESH
+District: MIRZAPUR
+Season: KHARIF
+Crop Code: Cowpea Vegetable
+
+=== CHUNK 403 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: nutrient management in garlic
+Answer: kisan bhai aap 180 kg nitrogen60kg phosphorus100 kg potashhactere daliye
+State: UTTAR PRADESH
+District: KHERI
+Season: RABI
+Crop Code: Garlic
+
+=== CHUNK 404 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: mirch me growth ka liye
+Answer: tricontanal  100 mlacre ka spray
+State: UTTAR PRADESH
+District: BAHRAICH
+Season: RABI
+Crop Code: Chillies
+
+=== CHUNK 405 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Weed management in paotato
+Answer: Manual weeding should be done
+State: UTTAR PRADESH
+District: SULTANPUR
+Season: RABI
+Crop Code: Potato
+
+=== CHUNK 406 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Gamosis control in mango 
+Answer: aam mein 250 gram copper sulphate 250 gram zinc sulphate125 gram borex 100 gram bujhe chune ka misran mila kar 10 vars ke poudhe ke liye prayog kare
+State: UTTAR PRADESH
+District: SULTANPUR
+Season: KHARIF
+Crop Code: Bell Pepper
+
+=== CHUNK 407 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weather information
+Answer: kisan bhai aape yha es saptah 7 agust se 8 agast tak bhari barish ki sambhawana hai
+State: UTTAR PRADESH
+District: HATHRAS
+Season: KHARIF
+Crop Code: Bottle Gourd
+
+=== CHUNK 408 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking to weather information  
+Answer: weather are almost clear and possibility of no rain till 31 January
+State: UTTAR PRADESH
+District: AURAIYA
+Season: RABI
+Crop Code: Bitter Gourd
+
+=== CHUNK 409 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: About soil health card information 
+Answer: Farmers are advised to contact the nearest soil testing center or block the investigation of soil 
+State: UTTAR PRADESH
+District: SONBHADRA
+Season: KHARIF
+Crop Code: Brinjal
+
+=== CHUNK 410 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: late blight in potato crop
+Answer: potasiyam sulphet 1 kilogram  acre 90 litar pani se sath sprey kare
+State: UTTAR PRADESH
+District: MAHARAHGANJ
+Season: RABI
+Crop Code: Potato
+
+=== CHUNK 411 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: contact number of IIVR
+Answer: kisan bhai aap es number per samprk kare- 0542 263 5247
+State: UTTAR PRADESH
+District: MAHARAHGANJ
+Season: RABI
+Crop Code: Brinjal
+
+=== CHUNK 412 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: allu me palay se bachav ka liye
+Answer: copper oxichloride 10 gram litre ka spray
+State: UTTAR PRADESH
+District: AMBEDKAR NAGAR
+Season: KHARIF
+Crop Code: Potato
+
+=== CHUNK 413 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: weather information
+Answer: kisan bhai aapke yha es saptah badal bane rahege lekin barish ki koi bhi sambhawana nahi hai
+State: UTTAR PRADESH
+District: KANPUR DEHAT
+Season: KHARIF
+Crop Code: Cabbage
+
+=== CHUNK 414 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CONTROL OF FLOWER DROPPING IN CHILLIES
+Answer: RECOMMENDED FOR SPRAY  COPPER OXYCHLORIDE 50 WP   4 GM  LIT OF WATERClient ID : WB14478507
+State: WEST BENGAL
+District: South DINAJPUR
+Season: KHARIF
+Crop Code: Chillies
+
+=== CHUNK 415 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Growth regulator in wheat
+Answer: Growth regulator in wheatSpray cow urine  1liter in 10 liter of water
+State: JHARKAND
+District: GIRIDIH
+Crop Code: Broad Bean
+
+=== CHUNK 416 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: insect problem in onion plant
+Answer: Spray imidachloprid  1ml3lit of water
+State: JHARKAND
+District: GUMLA
+Crop Code: Onion
+
+=== CHUNK 417 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: NO  RAIN POSSIBILITY IN NEXT 3-4 DAYS  CLOUDY SKY
+State: DELHI
+District: EAST DELHI Preet Vihar
+Season: KHARIF
+Crop Code: Brussils Sprouts
+
+=== CHUNK 418 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: NO RAIN POSSIBILITY IN NEXT 3-4 DAYS BUT CLOUDY SKY
+State: DELHI
+District: EAST DELHI Preet Vihar
+Season: KHARIF
+Crop Code: Broad Bean
+
+=== CHUNK 419 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT SOWING TIME OF TUSLI 
+Answer: SOWING TIME OF TUSLI JUNE- JULY MONTHS
+State: DELHI
+District: EAST DELHI Preet Vihar
+Season: KHARIF
+Crop Code: Tulsi
+
+=== CHUNK 420 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: NO RAIN POSSIBILITY IN NEXT 3-4 DAYS BUT CLOUDY SKY
+State: DELHI
+District: New Delhi Connaught Place
+Season: KHARIF
+Crop Code: Cabbage
+
+=== CHUNK 421 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME WEATHER INFORMATION 
+Answer: NO RAIN POSSIBILITY IN NEXT 3-4 DAYS BUT CLOUDY SKY
+State: DELHI
+District: New Delhi Connaught Place
+Season: KHARIF
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 422 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME PLANT PROCTION IN BRINJAL
+Answer: USE IMIDACHLOPRID 178 SL 05 ML PER LITER WATER IN ROOT ZONE
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: Brinjal
+
+=== CHUNK 423 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME PLANT PROCTIONNIN
+Answer: SPRAY OF RIDOMIL MZMETALEXYLMENCOZEB 2 GM PER LITER WATER
+State: DELHI
+District: West Delhi Rajouri Garden
+Season: KHARIF
+Crop Code: Guava
+
+=== CHUNK 424 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME NUTERINT MANGEMANT IN CITRUS
+Answer: SPRAY OF BOREX 4 GM PER LITER WATER
+State: DELHI
+District: South West Delhi Dwarka
+Season: KHARIF
+Crop Code: Bush Squash
+
+=== CHUNK 425 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: hhh
+Answer: dap 70 kghqpotas 30 kgacre
+State: BIHAR
+District: ROHTAS
+Crop Code: Radish
+
+=== CHUNK 426 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Good variety of maize
+Answer: Good variety of maize - saktiman 1-4 ganga-11 suan devki-
+State: BIHAR
+District: SAHARSA
+Crop Code: Brussils Sprouts
+
+=== CHUNK 427 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Ask about PGR AND  Information
+Answer: Suggested: Alpha Naphthyl Acetic Acid 45 SL  5 ml  pump spray
+State: GUJARAT
+District: SURENDRANAGAR
+Season: 0
+Crop Code: Ber
+
+=== CHUNK 428 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How to control aphids in chapan kaddu 
+Answer: Spray 400 ml malathion in 200 lt of water per acre
+State: HARYANA
+District: BHIWANI
+Season: RABI
+Crop Code: Bottle Gourd
+
+=== CHUNK 429 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Control of disease in fruit plant 
+Answer: Spray 2 gm M-45 or Bavastin or Copper Oxy Chloride or Sulfex or Ridomil Gold or Captan  liter water 
+State: HARYANA
+District: BHIWANI
+Season: 0
+Crop Code: Marigold
+
+=== CHUNK 430 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: VARIETIES OF JAMUN 
+Answer: VARIETIES OF JAMUN ::: RAI JAMUN
+State: HARYANA
+District: SONEPAT
+Season: RABI
+Crop Code: Jamun
+
+=== CHUNK 431 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer: DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL
+State: HARYANA
+District: FARIDABAD
+Crop Code: Hibiscus Gurhal
+
+=== CHUNK 432 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: NO RAIN POSSIBILITY IN NEXT 5 DAYS BUT CLOUDY SKY
+State: HARYANA
+District: FARIDABAD
+Season: 0
+
+=== CHUNK 433 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: HOW TO CONTROL FUNJAL DISEASE IN CHILLI
+Answer: HOW TO CONTROL FUNJAL DISEASE IN PADDY  SPRAY OF CARVENDAJIM BABASTIN500 GM IN 200 LITER WATERACRE 
+State: HARYANA
+District: KURKSHETRA
+Season: RABI
+Crop Code: Capsicum
+
+=== CHUNK 434 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding contact no of solan university 
+Answer: contact no of solan university is 01792-252326
+State: HIMACHAL PRADESH
+District: HAMIRPUR
+Season: RABI
+Crop Code: Carnation
+
+=== CHUNK 435 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding website for Strawberry Farming 
+Answer: website for Strawberry Farming is https:wwwagrifarminginstrawberry-farming
+State: HIMACHAL PRADESH
+District: SHIMLA
+Season: 0
+Crop Code: Strawberry
+
+=== CHUNK 436 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: NUTRIENT MANAGEMENT
+Answer: APPLY 500 GM OF UREA AND 100 GM MOP
+State: JAMMU AND KASHMIR
+District: KUPWARA
+Season: KHARIF
+Crop Code: Apple
+
+=== CHUNK 437 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about mixed cropping in arecanut plantion
+Answer: Recommended to grow drumstic
+State: KARNATAKA
+District: CHIKMAGALUR
+Crop Code: Arecanut
+
+=== CHUNK 438 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Plant Protection
+Answer: Spray 20 ml Malathion 50 EC in a lit water250 to 300 lit spray solution requiredacre
+State: KARNATAKA
+District: GULBARGA
+Season: 0
+Crop Code: Chapan Kaddu
+
+=== CHUNK 439 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: PLENTY OF SUNSHINE VERY WARM  NO CHANCES OF RAINFALL PRECIPITATION 0
+Answer: PLENTY OF SUNSHINE VERY WARM  NO CHANCES OF RAINFALL PRECIPITATION 0
+State: KARNATAKA
+District: CHIKKABALLAPUR
+Crop Code: Gerbera
+
+=== CHUNK 440 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking weather report
+Answer: cloudy moderate chances of rain
+State: KARNATAKA
+District: CHIKKABALLAPUR
+Crop Code: Other
+
+=== CHUNK 441 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: nutmeg- fertilization
+Answer: urea- 1kg rajphos  15kg muriate potash- 2gplantyear3 year onwards 5kg magnesium sulphate for an adult plant during april-may Put borax- 50gpalm
+State: KERALA
+District: ALAPPUZHA
+Crop Code: Nutmeg
+
+=== CHUNK 442 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: fertilizer for banana
+Answer: recommended to apply65 g urea100 g potash per banana
+State: KERALA
+District: PATHANAMTHITTA
+Crop Code: Banana
+
+=== CHUNK 443 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: farmer want to know information about fungal attack in leaf blight of Colocasia crop 
+Answer: Recommended for Mancozeb 63  Carbendazim 12 WP 40 gram and steptrocyclin 2 gram at 15 liter of water
+State: MADHYA PRADESH
+District: EAST NIMAR
+Season: RABI
+Crop Code: Colocasia Arvi Arbi
+
+=== CHUNK 444 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: farmer want to know information aboutVarieties of  turmeric crop
+Answer: CO 1 BSR 1 Roma Swarna Sudarshana Suguna Sugandham BSR 2 Ranga RashmiRajendra Sonia Krishna Suroma Allepy finger turmeric AFT IISR Prabha IISR Prathiba
+State: MADHYA PRADESH
+District: REWA
+Season: RABI
+Crop Code: Turmeric
+
+=== CHUNK 445 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: NRC GRAPES CONTACT NO ---
+Answer: NRC GRAPES CONTACT NO ---020 2695 6000
+State: MAHARASHTRA
+District: NASIK
+Season: JAYAD
+Crop Code: Grape
+
+=== CHUNK 446 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: RUST ATTACK 
+Answer: SPRAY RIDOMIL GOLD 30 GM  15 LITERS OF WATER SYNGENTA
+State: MAHARASHTRA
+District: NASIK
+Crop Code: Onion
+
+=== CHUNK 447 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: RUST ATTACK 
+Answer: SPRAY RIDOMIL GOLD 30 GM  15 LITERS OF WATER SYNGENTA
+State: MAHARASHTRA
+District: NASIK
+Season: 0
+Crop Code: Onion
+
+=== CHUNK 448 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: DRENCHING
+Answer: DRAINCHING OF BLUE COPPER 30 GM  HUMIC ACID 30 ML15 LITER WATER
+State: MAHARASHTRA
+District: JALGAON
+Season: 0
+Crop Code: Brinjal
+
+=== CHUNK 449 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Plant protectionPestsThrips and onion fly
+Answer: Plant protectionPestsThrips and onion fly Thrips and onion fly can be controlled by spraying Methyl demeton 25 EC 1 mllit or Dimethoate 30 EC 1 mllit with Teepol 05 mllit
+State: MAHARASHTRA
+District: AHMADNAGAR
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 450 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Varietie of water melon
+Answer: s: Pusa Summer Prolific long Pusa Summer Prolific Round Pusa Manjari Pusa Megdoot and Arka Bahar samrat pusa navin
+State: MAHARASHTRA
+District: SATARA
+Season: 0
+Crop Code: Watermelon
+
+=== CHUNK 451 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT NRC GRAPE CONTACT NUMBER
+Answer: National Research Center For GrapeNRCG-Pune02026956000
+State: MAHARASHTRA
+District: SANGLI
+Crop Code: Grape
+
+=== CHUNK 452 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKING ABOUT FERTILIZER DOSE FOR ONION 
+Answer: FERTILIZER DOSE FOR ONION  - UREA 1 BAG  SINGLE SUPER PHOSPHATE 75 KG  MICRO NUTRIENTS 10 KGACRE
+State: MAHARASHTRA
+District: SOLAPUR
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 453 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Attack of Thrips on Onion 
+Answer: Spray Regent 15 ml 15 liter waterFipronil 5 SC-Bayer
+State: MAHARASHTRA
+District: AURANGABAD
+Crop Code: Onion
+
+=== CHUNK 454 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Attack of JassidsLeaf hoppers
+Answer: Actra 5 gm1Spray 5 Liter of WaterThiomithoxom 25-Syngenta
+State: MAHARASHTRA
+District: AURANGABAD
+Crop Code: Guava
+
+=== CHUNK 455 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FUNGAL ATTACK  MOSAMBI
+Answer: Spray Bavistine 30gm15lit of Water
+State: MAHARASHTRA
+District: JALNA
+Season: 0
+Crop Code: Mosambi
+
+=== CHUNK 456 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about fertilizer dose for watermelon 
+Answer: By Drip 12:61:00-  3 kg  microlla  300 ml  calcibor - 2 kilo   acre through drip
+State: MAHARASHTRA
+District: PARBHANI
+Season: RABI
+Crop Code: Watermelon
+
+=== CHUNK 457 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: RUST ATTACK 
+Answer: Spray Blue copper -30 gm15 lit waterCOPPER OXYCHLORIDE 50 WP  SYNGENTA
+State: MAHARASHTRA
+District: PARBHANI
+Season: 0
+Crop Code: Onion
+
+=== CHUNK 458 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about fertilizer dose for onion
+Answer: APPLICATION OF 18:46:00--50 KG ACRE
+State: MAHARASHTRA
+District: BEED
+Season: 0
+Crop Code: Onion
+
+=== CHUNK 459 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: GROWTH IN BITTER GOURD
+Answer: SPRAY POLYFEED N-P-K : 19-19-19  100 GM  15 LITER OF WATER FOR GROWTH IN BITTER GOURD
+State: ODISHA
+District: JAJAPUR
+Crop Code: Bitter Gourd
+
+=== CHUNK 460 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TRAINING IN MANGO
+Answer: TRAINING IN MANGO-CUT THE DISEASEDCRISSCROSS BRANCHES OF OLD SHOOTS
+State: ODISHA
+District: RAYAGADA
+Crop Code: Mango
+
+=== CHUNK 461 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information  regarding for control of fruit droping in kinnow 
+Answer: for control of fruit droping in kinnow  spray planofix 1 ml in 45 litres of water per acre
+State: PUNJAB
+District: AMRITSAR
+Season: RABI
+Crop Code: Citrus
+
+=== CHUNK 462 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding weather forecasting
+Answer: weather is cloudy but no chances of rainfall today                
+State: PUNJAB
+District: MANSA
+Crop Code: Jamun
+
+=== CHUNK 463 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME CONTROL OF FLOWER DROPPING
+Answer: SPRAY OF PLANOFIX 1 ML PER 4 LITER WATER
+State: RAJASTHAN
+District: JAIPUR
+Season: JAYAD
+Crop Code: Citrus
+
+=== CHUNK 464 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME CONTROL OF FLOWER DROPING
+Answer: SPRAY OF PLANOFIX 1 ML PER 4 LITER WATER
+State: RAJASTHAN
+District: JAIPUR
+Season: KHARIF
+Crop Code: Pomegranate
+
+=== CHUNK 465 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME CONTROL OF FLOWER DROPPING
+Answer: SPRAY OF PLANOFIX 1 ML PER 4 LITER WATER
+State: RAJASTHAN
+District: JHALAWAR
+Season: RABI
+Crop Code: Pomegranate
+
+=== CHUNK 466 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked for SMS activation 
+Answer: SMS activation Process Is Successfully Completed on your number
+State: RAJASTHAN
+District: JODHPUR
+Crop Code: Brinjal
+
+=== CHUNK 467 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CONTACT NO OF Soil Testing Lab 
+Answer: GROWTH SPRAY --- SPRAY 19:19:19 - 60 GRAM  MICROLA - 40 ML BAVISTIN - 30 GRAM 15 LIT OF WATER
+State: RAJASTHAN
+District: SIROHI
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 468 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: NO RAIN POSSIBILITY IN NEXT 2-3 DAYS BUT CLOUDY SKY
+State: RAJASTHAN
+District: TONK
+Season: 0
+Crop Code: Cardamom
+
+=== CHUNK 469 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME NUTRIENT MANAGEMENT  
+Answer: SPRAY SOLUBLE NPK  18:18:18 GRADE 10 GMLTR WATER
+State: RAJASTHAN
+District: CHURU
+Season: KHARIF
+Crop Code: Grape
+
+=== CHUNK 470 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Brinjal  seeds availability information
+Answer: Recommended TNAU Vegetable Dept contact no 0422 - 6611283
+State: TAMILNADU
+District: KANCHEEPURAM
+Season: RABI
+Crop Code: Brinjal
+
+=== CHUNK 471 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about pomegranate fertilizer management
+Answer: recommended for apply urea 800 gm  1500 gm superphosphate  potash 1280 gm  acre
+State: TAMILNADU
+District: KANCHEEPURAM
+Season: JAYAD
+Crop Code: Pomegranate
+
+=== CHUNK 472 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about banana fertilizer management
+Answer: Recommended for apply 150 gm urea  200 gm super phosphate  200 gm potash plant
+State: TAMILNADU
+District: VELLORE
+Season: RABI
+Crop Code: Banana
+
+=== CHUNK 473 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking about cow farming information
+Answer: Recommended Veterinary University Training and Research Centre salem contact no 0427 - 2410408
+State: TAMILNADU
+District: SALEM
+Season: JAYAD
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 474 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Red spider mite in Jasmine
+Answer: Recommended for spray dicofol 2ml  lit
+State: TAMILNADU
+District: SALEM
+Season: RABI
+Crop Code: Jasmine
+
+=== CHUNK 475 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about leaf spot in onion
+Answer: Recommended for spray mancozeb 2gm  lit
+State: TAMILNADU
+District: SALEM
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 476 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about jasmine basal fertilizer management
+Answer: Recommended for apply FYM 10 kg  pit
+State: TAMILNADU
+District: DHARMAPURI
+Season: KHARIF
+Crop Code: Jasmine
+
+=== CHUNK 477 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about Foliar spray in Mango
+Answer: Recommended for potassium nitrate 20 gram 1 litre of water
+State: TAMILNADU
+District: COIMBATORE
+Season: RABI
+Crop Code: Mango
+
+=== CHUNK 478 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about bitter gourd sucking management
+Answer: Recommended for spray 2 mllitter of water
+State: TAMILNADU
+District: COIMBATORE
+Season: RABI
+Crop Code: Bitter Gourd
+
+=== CHUNK 479 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: brinjal basal fertilizer management
+Answer: Recommended for Apply urea 42 kg  super phosphate 125kg  potash 20 kg  ac
+State: TAMILNADU
+District: COIMBATORE
+Season: RABI
+Crop Code: Brinjal
+
+=== CHUNK 480 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: banana fertilizer management
+Answer: Recommended for apply 150 gm urea  200 gm super phosphate  200 gm potash plant
+State: TAMILNADU
+District: TIRUCHIRAPPALLI
+Season: RABI
+Crop Code: Brussils Sprouts
+
+=== CHUNK 481 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Leaf Blight in onion
+Answer: Recommended for spray mancozeb  carbendazim saaf 25gm  lit of water
+State: TAMILNADU
+District: PUDUKKOTTAI
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 482 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Ash Gourd Sowing season and Variety
+Answer: Recommended for Ash Gourd Sowing season : July and Variety : Co1 Co2
+State: TAMILNADU
+District: THANJAVUR
+Season: RABI
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 483 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: banana fertilizer management
+Answer: Recommended for apply 150 gm urea  200 gm super phosphate  200 gm potash plant
+State: TAMILNADU
+District: THANJAVUR
+Season: RABI
+Crop Code: Banana
+
+=== CHUNK 484 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about tomato seeds availability information
+Answer: Recommended TNAU Vegetable Dept contact no 0422 - 6611283
+State: TAMILNADU
+District: THANJAVUR
+Season: RABI
+Crop Code: Tomato
+
+=== CHUNK 485 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about bhendi basal fertilizer management
+Answer: Recommended for apply FYM 10 ton  urea 17kg  super phosphate 125kg  potash 20 kg  ac
+State: TAMILNADU
+District: THANJAVUR
+Season: KHARIF
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 486 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about Coconut tree rejuvenation
+Answer: Recommended to contact Deputy Director of Horticulture Thanjavur Contact number: 04362-271880 04362-232540
+State: TAMILNADU
+District: THANJAVUR
+Season: 0
+Crop Code: Coconut
+
+=== CHUNK 487 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about bud worm in jasmine
+Answer: Recommended for spray Profenophos 2ml  neem oil 3ml teepol 1mllit of water
+State: TAMILNADU
+District: MADURAI
+Season: RABI
+Crop Code: Jasmine
+
+=== CHUNK 488 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: coconut fertilizer management
+Answer: Recommended for apply urea 1300kg  super phosphate 2kg  potash 2 kg  neem cake 5kg  farm yard manure 50kg  micro mixture 1kg  tree  year
+State: TAMILNADU
+District: MADURAI
+Season: RABI
+Crop Code: Coconut
+
+=== CHUNK 489 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Guava  boran deficiency
+Answer: Recommended for foliar spray borax 5gm  litter
+State: TAMILNADU
+District: RAMANATHAPURAM
+Season: KHARIF
+Crop Code: Guava
+
+=== CHUNK 490 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about Manila tamarind Seedlings availability
+Answer: Recommended to contact RVS krishi vigyan Kendra Ayikudi- 627852 Urmelelgan- BPOTenkasi Taluk Tirunelveli Districtph : 04633-240552
+State: TAMILNADU
+District: TIRUNELVELI
+Season: KHARIF
+Crop Code: Jack Fruit
+
+=== CHUNK 491 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about Guava fertilizer management
+Answer: Recommended for apply FYM 25kg  urea 500gm  potash 500gm  super phosphate 500gm  tree
+State: TAMILNADU
+District: KANNIYA KUMARI
+Season: RABI
+Crop Code: Bottle Gourd
+
+=== CHUNK 492 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about  sucking pest management in brinjal
+Answer: Recommended for spray accephate 2 glitter of water
+State: TAMILNADU
+District: THIRUVALLUR
+Season: RABI
+Crop Code: Brinjal
+
+=== CHUNK 493 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about brinjal basal fertilizer management
+Answer: Recommended for Apply urea 42 kg  super phosphate 125kg  potash 20 kg  ac
+State: TAMILNADU
+District: THIRUVALLUR
+Season: RABI
+Crop Code: Brinjal
+
+=== CHUNK 494 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about bunchy top of banana
+Answer: Recommended for spray monocrotophos 2ml  liter of water
+State: TAMILNADU
+District: NAMAKKAL
+Season: RABI
+Crop Code: Banana
+
+=== CHUNK 495 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: onion top dressing fertilizer management
+Answer: Recommended for apply urea 24kg  Potash 15kg  ac
+State: TAMILNADU
+District: PERAMBALUR
+Season: KHARIF
+Crop Code: Onion
+
+=== CHUNK 496 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about onion foliar application information
+Answer: Recommended for spray potassium sulphate 1kg  100lit  ac harvest before 30 days
+State: TAMILNADU
+District: DINDIGUL
+Season: RABI
+Crop Code: Onion
+
+=== CHUNK 497 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about stem borer management in Avocado
+Answer: Recommended for Apply carbofuran 3G 5 g per hole and plug with mud
+State: TAMILNADU
+District: DINDIGUL
+Season: KHARIF
+Crop Code: Avacado
+
+=== CHUNK 498 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking about TNAU fruits dept contact no
+Answer: Recommended TNAU Fruits dept contact no 0422 - 6611269
+State: TAMILNADU
+District: NAGAPATTINAM
+Season: RABI
+Crop Code: Broccoli
+
+=== CHUNK 499 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about watermelon basal fertilizer management
+Answer: Recommended for apply FYM 8ton  super phosphate 132kg  potash 22kg  urea 44kg  ac
+State: TAMILNADU
+District: NAGAPATTINAM
+Season: 0
+Crop Code: Watermelon
+
+=== CHUNK 500 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about sucking pest management in water
+Answer: Recommended for spray NSKE 5 ml  litter of water
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: RABI
+Crop Code: Watermelon
+
+=== CHUNK 501 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Root rot in jasmine
+Answer: Recommended for Soil drenching with Copper oxychloride 25 gm  lit
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: RABI
+Crop Code: Jasmine
+
+=== CHUNK 502 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about stem borer in Mango
+Answer: Recommended for Apply carbofuran 3G 5 g per hole and plug with mud
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: RABI
+Crop Code: Mango
+
+=== CHUNK 503 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Guava variety
+Answer: Recommended for Guava variety : Allahabad Lucknow 46 49 Arka Amulya Arka Mridula Banaras Baptla Arka Kiran Lalit and TRY G-1
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: RABI
+Crop Code: Guava
+
+=== CHUNK 504 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: crossandra foliar application
+Answer: Recommended for spray GA3 50ppm 5gm  100lit of water
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: RABI
+Crop Code: Crossandra
+
+=== CHUNK 505 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about Foliar spray in Marigold
+Answer: Recommended for Humic acid 2 ml 1 litre of water
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Season: KHARIF
+Crop Code: Marigold
+
+=== CHUNK 506 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about Glory lily planting season
+Answer: Recommended for Planting is distributed from June  July
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Crop Code: Saffron
+
+=== CHUNK 507 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about watermelon basal fertilizer management
+Answer: Recommended for apply FYM 8ton  super phosphate 132kg  potash 22kg  urea 44kg  ac
+State: TAMILNADU
+District: THOOTHUKUDI
+Season: KHARIF
+Crop Code: Watermelon
+
+=== CHUNK 508 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Mango mustard size fruit shedding
+Answer: Recommended for spray potassium nitrate 20gm  lit
+State: TAMILNADU
+District: THOOTHUKUDI
+Season: RABI
+Crop Code: Loquat
+
+=== CHUNK 509 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about coconut fertilizer management
+Answer: Recommended for apply urea 1300kg  super phosphate 2kg  potash 2 kg  neem cake 5kg  farm yard manure 50kg  micro mixture half kg  tree  year
+State: TAMILNADU
+District: THOOTHUKUDI
+Season: RABI
+Crop Code: Coconut
+
+=== CHUNK 510 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about leaf curl in chilli
+Answer: Recommended for spray Imidacloprid 4 ml  10 litter of water
+State: TAMILNADU
+District: KRISHNAGIRI
+Season: RABI
+Crop Code: Chillies
+
+=== CHUNK 511 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Aphids in mango
+Answer: Recommended for spray Dimethoate 2ml  lit
+State: TAMILNADU
+District: KRISHNAGIRI
+Season: RABI
+Crop Code: Mango
+
+=== CHUNK 512 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Jasmine seedlings availability information
+Answer: Recommended for Dept of Vegetable Crops Horticulture College  Research Institute Periyakulam 04546 - 231726
+State: TAMILNADU
+District: TIRUPUR
+Season: KHARIF
+Crop Code: Jasmine
+
+=== CHUNK 513 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ashgourd top dressing fertilizer management
+Answer: Recommended for apply urea 10gm  pit
+State: TAMILNADU
+District: TIRUPUR
+Season: RABI
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 514 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information about flower 
+Answer: Dear former use to  Copper Oxychloride 50 WP  25gliter water splash in the field
+State: UTTAR PRADESH
+District: VARANASI
+Season: JAYAD
+Crop Code: Marigold
+
+=== CHUNK 515 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: NO RAIN POSSIBILITY IN NEXT 5 DAYS BUT CLOUDY SKY
+State: UTTAR PRADESH
+District: GORAKHPUR
+Season: 0
+
+=== CHUNK 516 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Eculeptous ke nichay koi fasal le saktay hai 
+Answer: kisan bhai aap koi fasal nahi laga saktay hai
+State: UTTAR PRADESH
+District: DEORIA
+Season: KHARIF
+Crop Code: Eculeptous
+
+=== CHUNK 517 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: LEAF CUTTER ON MANGO TREE
+Answer: spray of Bifenthrin 10 EC  2 mlliter of water
+State: UTTAR PRADESH
+District: AZAMGARH
+Season: 0
+Crop Code: Mango
+
+=== CHUNK 518 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: stawar kaha pe milegi
+Answer: Dear Kisan Bhai you call the Central Medicinal Plants Institute CIMAP Lucknow at the contact number - 0522-2359623
+State: UTTAR PRADESH
+District: SITAPUR
+Season: RABI
+Crop Code: Satawar
+
+=== CHUNK 519 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: strawberry cultivatioin 
+Answer: Aap apne Krishi Vigyan Kendra kvk ya zila udhyan vibhag me samprk kare
+State: UTTAR PRADESH
+District: KHERI
+Season: JAYAD
+Crop Code: Strawberry
+
+=== CHUNK 520 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Sowing time of Colocasia Crop 
+Answer: kisan  bhai arvi buwai ka samey feruary-march or jun-july hai
+State: UTTAR PRADESH
+District: GONDA
+Season: RABI
+Crop Code: Colocasia Arvi Arbi
+
+=== CHUNK 521 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Late blight
+Answer: Spray Mancozeb 2 glit or Chlorothalonil 2 glit on 45 60 and 75 days after planting
+State: JHARKAND
+District: DUMKA
+Season: 0
+Crop Code: Potato
+
+=== CHUNK 522 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: LIGHT RAIN MAY BE AFTER 2-3 DAYS
+State: DELHI
+District: North East Delhi Seelampur
+Crop Code: Cymbidium
+
+=== CHUNK 523 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked for SMS activation 
+Answer: SMS activation Process Is Successfully Completed on your number
+State: DELHI
+District: EAST DELHI Preet Vihar
+Season: JAYAD
+Crop Code: Beans
+
+=== CHUNK 524 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: NO RAIN POSSIBILITY IN NEXT 5 DAYS BUT CLOUDY SKY
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: Cauliflower
+
+=== CHUNK 525 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: NO RAIN POSSIBILITY IN NEXT 5 DAYS BUT CLOUDY SKY
+State: DELHI
+District: New Delhi Connaught Place
+Season: 0
+Crop Code: ARUM
+
+=== CHUNK 526 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: NO RAIN POSSIBILITY IN NEXT 5 DAYS BUT CLOUDY SKY
+State: DELHI
+District: New Delhi Connaught Place
+Season: 0
+Crop Code: ARUM
+
+=== CHUNK 527 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME VARIETY OF TOMATO
+Answer: VARIETY OF TOMATO PUSA GOURAV PUSA SADABAHAR PUSA ROHINI P H 8
+State: DELHI
+District: New Delhi Connaught Place
+Season: 0
+
+=== CHUNK 528 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME VARIETY OF MUSKMELON
+Answer: VARIETY OF MUSKMELON  DURGAPURA MADHU HARA MADHU PUSA MADHURAS ARKA JYOTI R M- 43
+State: DELHI
+District: New Delhi Connaught Place
+Season: 0
+
+=== CHUNK 529 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer: DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL
+State: DELHI
+District: New Delhi Connaught Place
+Season: 0
+
+=== CHUNK 530 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer: DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL
+State: DELHI
+District: CENTRAL DELHI Daryaganj
+Crop Code: Beet Root Garden BeetStock Beet
+
+=== CHUNK 531 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME PLANT PROCTION IN MOOMG
+Answer: SPRAY OF IMIDACHLOPRID 178 SL 05 ML PER LITER WATER
+State: DELHI
+District: CENTRAL DELHI Daryaganj
+Crop Code: Chinese Cabbage
+
+=== CHUNK 532 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Ask about sucking pests problem in crop
+Answer: Suggested: Imidacloprid 178 sl 7-8 mlpump spray
+State: GUJARAT
+District: BANAS KANTHA
+Crop Code: Spinach Palak
+
+=== CHUNK 533 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Ask about sucking pests problem in crop
+Answer: Suggested: Imidacloprid 178 sl 7-8 mlpump spray
+State: GUJARAT
+District: BANAS KANTHA
+Crop Code: Spinach Palak
+
+=== CHUNK 534 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME CONT NUM OF 
+Answer: KRISHI VIGYAN KENDRA BHOPANI FARIDABAD HARYANAContact detailsDr SS Yadav Head KVK Contact No: 91-9818827365Landline No0129-2202332
+State: HARYANA
+District: FARIDABAD
+Crop Code: 0
+
+=== CHUNK 535 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer:  DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL 
+State: HARYANA
+District: FARIDABAD
+Crop Code: 0
+
+=== CHUNK 536 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: LIGHT RAIN MAY BE NEXT 2-3 DAYS 
+State: HARYANA
+District: FARIDABAD
+Crop Code: 0
+
+=== CHUNK 537 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT BANANA CULTIVATION WITH HEBBEVU
+Answer: BANANA CAN CULTIVATE WITH HEBBEVU AND OTHER CROPS ALSO CAN GROW TILL 4 YEARS
+State: KARNATAKA
+District: BELLARY
+Crop Code: Banana
+
+=== CHUNK 538 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Plant protection Diseases
+Answer: Spray 10 g CarbendazimOR10 g Benomyllit water 200 lit spray solution requiredacrespray
+State: KARNATAKA
+District: GULBARGA
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 539 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Varietal DescriptionVarietiesPlanting TimeSpacing FeetRooted stem cuttings acYield tons  acThompson SeedlessOctober 2ndweek to January8 x 69106 - 75Sonaka Flame Seedless Bangalore Blue Anab-e-Shahi Dilkush Sharad Seedless GulabiBlack ChampaOther varieties 6 x 66 x 412101815Every year:6 - 72 tonsBangalore blue:8 - 12 tonsAnab-e-shahi:12 - 15 tons
+Answer: Varietal DescriptionVarietiesPlanting TimeSpacing FeetRooted stem cuttings acYield tons  acThompson SeedlessOctober 2ndweek to January8 x 69106 - 75Sonaka Flame Seedless Bangalore Blue Anab-e-Shahi Dilkush Sharad Seedless GulabiBlack ChampaOther varieties 6 x 66 x 412101815Every year:6 - 72 tonsBangalore blue:8 - 12 tonsAnab-e-shahi:12 - 15 tons
+State: KARNATAKA
+District: GULBARGA
+Crop Code: Grape
+
+=== CHUNK 540 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Varietal DescriptionVarietiesPlanting TimeSpacing FeetRooted stem cuttings acYield tons  acThompson SeedlessOctober 2ndweek to January8 x 69106 - 75Sonaka Flame Seedless Bangalore Blue Anab-e-Shahi Dilkush Sharad Seedless GulabiBlack ChampaOther varieties 6 x 66 x 412101815Every year:6 - 72 tonsBangalore blue:8 - 12 tonsAnab-e-shahi:12 - 15 tons
+Answer: Varietal DescriptionVarietiesPlanting TimeSpacing FeetRooted stem cuttings acYield tons  acThompson SeedlessOctober 2ndweek to January8 x 69106 - 75Sonaka Flame Seedless Bangalore Blue Anab-e-Shahi Dilkush Sharad Seedless GulabiBlack ChampaOther varieties 6 x 66 x 412101815Every year:6 - 72 tonsBangalore blue:8 - 12 tonsAnab-e-shahi:12 - 15 tons
+State: KARNATAKA
+District: GULBARGA
+Crop Code: Grape
+
+=== CHUNK 541 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about rodents control
+Answer: recomended to apply silver sheet  around the cocont and arecanut plants
+State: KARNATAKA
+District: SHIMOGA
+Crop Code: Arecanut
+
+=== CHUNK 542 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: coconut development board number 
+Answer: coconut development board number :0484 -2377266  67
+State: KERALA
+District: MALAPPURAM
+Crop Code: Coconut
+
+=== CHUNK 543 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: coconut development board
+Answer: 0484-2376265 2377267 2377266 2376553
+State: KERALA
+District: WAYANAD
+Crop Code: Coconut
+
+=== CHUNK 544 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FERTILIZER SPRAY FOR GROWTH 
+Answer: SPRAY 19 19 19 40 GM  MICROLLA 30 ML  HUMIC ACID 30 ML 15 LITERS OF WATER
+State: MAHARASHTRA
+District: DHULE
+Crop Code: Beet Root Garden BeetStock Beet
+
+=== CHUNK 545 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FERTILIZER DOSE FOR ORANGE1 YEAR PLANT
+Answer: Application of urea 108 gm or 250 gm Ammonium Sulfate 250 gm  Single superphosphate 157 gm  zinc sulphate 25 gm  ferrous sulphate 25 gm  Manganese sulfate 25 gm
+State: MAHARASHTRA
+District: SOLAPUR
+Crop Code: Pomegranate
+
+=== CHUNK 546 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKING ABOUT THE SOWING TIME OF POTATO 
+Answer: THE SOWING TIME OF POTATO - KHARIP -JUN-JULY AND RABBI -OCT-NOV
+State: MAHARASHTRA
+District: KOLHAPUR
+Crop Code: Potato
+
+=== CHUNK 547 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: RUST ATTACK 
+Answer: SPRAY RIDOMIL GOLD 30 GM  15 LITERS OF WATER SYNGENTA
+State: MAHARASHTRA
+District: AURANGABAD
+Crop Code: Turmeric
+
+=== CHUNK 548 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ATTACK OF GRAM POD BORER
+Answer:      Spray Proclaim 5gm15lit of Water Emamectin Benzoate 5 SG-Syngenta
+State: MAHARASHTRA
+District: JALNA
+Crop Code: Beet Root Garden BeetStock Beet
+
+=== CHUNK 549 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ATTACK OF GRAM POD BORER
+Answer:     Spray Proclaim 5 gm15lit of Water Emamectin Benzoate 5 SG-Syngenta
+State: MAHARASHTRA
+District: JALNA
+Crop Code: Beans
+
+=== CHUNK 550 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: RUST ATTACK  
+Answer: Spray Blue copper -30 gm15 lit waterCOPPER OXYCHLORIDE 50 WP  SYNGENTA
+State: MAHARASHTRA
+District: BEED
+Crop Code: ARUM
+
+=== CHUNK 551 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Attack of JassidsLeaf hoppers 
+Answer: Spray Actra 5 gm15 Liter of WaterThiomithoxom 25-Syngenta
+State: MAHARASHTRA
+District: BEED
+Crop Code: Beet Root Garden BeetStock Beet
+
+=== CHUNK 552 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about weather forecast   
+Answer: This week weather is mostly clear and NO Possibility of Rainfall 
+State: MAHARASHTRA
+District: NANDED
+Crop Code: Beet Root Garden BeetStock Beet
+
+=== CHUNK 553 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: PEST  PROTECTION   ON OKRA   
+Answer: Natural enemies of red spider mite:Predators: Predatory mite predatory thrips oligota spp orius spp hover fly mirid bug etc
+State: MAHARASHTRA
+District: NANDED
+Crop Code: BhindiOkraLadysfinger
+
+=== CHUNK 554 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: VARIETIES OF BHENDI 
+Answer: VARIETIES OF BHENDI -PHULE UTKARSHA PARBHANI KRANTI ARKA ANAMIKA ARKA ABHAY MAHYCO -64 SHAN SAHIBA 
+State: MAHARASHTRA
+District: NANDED
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 555 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: VARIETIES OF CORIANDER 
+Answer: 15 Feb RainfallMM : 0 TempMaxMin:363 172  HumidityMaxMin00 00  Wind:00 VARIETIES OF CORIANDER  -SUGANDHA SUDHA NO-65 V-1 V-2 CO -1 D-92 D-94 WAI DHANA JALGAON DHANA 
+State: MAHARASHTRA
+District: LATUR
+Crop Code: Coriander
+
+=== CHUNK 556 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT CONTACT NUMBER CCRI NAGPUR
+Answer: CONTACT NUMBER CCRI NAGPUR- Dr AD Huchche -      0712-2500813     0712-2500813                                   0712-2500249       0712-2500249                                   
+State: MAHARASHTRA
+District: AMRAVATI
+Crop Code: Citrus
+
+=== CHUNK 557 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT ATTACK OF POWDERY MILDEW ON PAPAYA 
+Answer: ATTACK OF POWDERY MILDEW ON PAPAYA :SPRAY  Tebuconyazol 50 Trifloxystrobin 25  06 gm15 Liter of Water  
+State: MAHARASHTRA
+District: YEVATMAL
+Crop Code: Papaya
+
+=== CHUNK 558 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: VARIETIES OF ACID LIME 
+Answer: VARIETIES OF ACID LIME -VIKRAM PRE MALINI SAI SARBATI PHULE SARBATI 
+State: MAHARASHTRA
+District: WARDHA
+Crop Code: Citrus
+
+=== CHUNK 559 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKING ABOUT SPRAYING AT POD FILLING  STAGE IN PIGEAON PEA 
+Answer: spray 00:52:34  60 gram  microla 30 mili  15 litre of water 
+State: MAHARASHTRA
+District: WASHIM
+Crop Code: Brinjal
+
+=== CHUNK 560 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Mushroom training
+Answer: Recommended to contact krushi vigyan kendra balangirfor mushroom training
+State: ODISHA
+District: BALANGIR
+Crop Code: Mushroom
+
+=== CHUNK 561 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding contact no of PAULudhiana
+Answer: Contact no of PAULudhiana:- 0161-2401960Dr jaswinder singh 99882-33793
+State: PUNJAB
+District: FAZILKA
+Crop Code: Guava
+
+=== CHUNK 562 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME DISEASE CONTROL OF CUMIN 
+Answer: SPRAY OF MENCOZEB 2 GM PER LITER WATER
+State: RAJASTHAN
+District: CHITTAURGARH
+Crop Code: Cumin
+
+=== CHUNK 563 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME MICRO NUTRIENT MANAGEMENT 
+Answer: SPRAY OF MULTIPLAX MICRONUTRIENT 4 ML PER LITER WATER 
+State: RAJASTHAN
+District: PALI
+Crop Code: Celery
+
+=== CHUNK 564 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer: DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL 
+State: RAJASTHAN
+District: SIKAR
+Crop Code: 0
+
+=== CHUNK 565 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asking about coconut seedlings availability information
+Answer: Recommended for TNAU Coconut Research station coimbatore contact no 0422 - 2432484
+State: TAMILNADU
+District: TIRUPUR
+Crop Code: Coconut
+
+=== CHUNK 566 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: NO RAIN POSSIBILITY IN NEXT 5 DAYS BUT CLOUDY SKY 
+State: UTTAR PRADESH
+District: GHAZIABAD
+Crop Code: 0
+
+=== CHUNK 567 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: LIGHT RAIN MAY BE NEXT 2-3 DAYS 
+State: UTTAR PRADESH
+District: GAUTAM BUDDHA NAGAR
+Crop Code: 0
+
+=== CHUNK 568 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question:  FRUIT RESEARCH STATION
+Answer:  FRUIT RESEARCH STATION7382129799
+State: TELANGANA
+District: SANGAREDDY
+Crop Code: Aonla
+
+=== CHUNK 569 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: LIGHT RAIN MAY BE AFTER 2-3 DAYS 
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 570 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME CONT NUM OF UJWA KVK
+Answer: Dr P K Gupta Programme CoordinatorKrishi Vigyan KendraUjwa Delhi-110073Tel 011-65638199Mob 08888867619E-mail: kvkujwayahoocom
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 571 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer: DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL 
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 572 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer: DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL 
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 573 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: TODAY MAY BE LIGHT RAIN 
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 574 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer: DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL 
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 575 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT WEATHER INFORMATION 
+Answer: LIGHT RAIN MAY BE AFTER 2-3 DAYS 
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 576 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer: DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL 
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 577 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer:  DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL 
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 578 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer: DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL 
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 579 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT TAKING SOIL SAMPLE 
+Answer: DEEG 6-9 INCH DEEP V SHAPE PIT AND TACKING 500 GM SOIL SAMPLE FOR TESTING SOIL 
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: 0
+
+=== CHUNK 580 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: The Voice of farmer is not coming to me 
+Answer: --                    :   I 
+State: BIHAR
+District: AURANGABAD
+Crop Code: Bishops Weed
+
+=== CHUNK 581 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: The Voice of farmer is not coming to me
+Answer: --                  :   I 
+State: BIHAR
+District: ARWAL
+Crop Code: Anthurium
+
+=== CHUNK 582 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: The Voice of farmer is not coming to me 
+Answer: --                    :   I 
+State: BIHAR
+District: ARWAL
+Crop Code: China Astor
+
+=== CHUNK 583 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: District horticulture officer
+Answer: Farmers Information Center New Grain Market Bhiwani Phone No 01664 244897
+State: HARYANA
+District: BHIWANI
+Crop Code: Almond
+
+=== CHUNK 584 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Transplanting in Drumstick
+Answer: Dig the pits of 1 cubic feet depth with a spacing of 10 feet for dwarf varieties and 15 feet for tall varieties Fill the pits with equal quantity of soil and FYM Transplant one seedlings per pitIt can also be raised by planting twigs 1 miter long and 6 inches circumference during rainy seasonNipping of the plants to be practiced when they attain height of 25 - 3 feet to encourage branching to get higher yield
+State: KARNATAKA
+District: BANGALORE
+Crop Code: Drum Stick
+
+=== CHUNK 585 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 586 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 587 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 588 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 589 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 590 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 591 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 592 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 593 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 594 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 595 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 596 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 597 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 598 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: CALL DISCONNECTED  BY FARMER 
+Answer: CALL DISCONNECTED  BY FARMER 
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Bhang Hemp Canabis
+
+=== CHUNK 599 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about harvesting time of Coconut
+Answer: Coconut palms start yielding from 4 - 7 years after plantingDwarf varieties and hybrids starts bearing in about 3 - 4 yearsCoconuts may be harvested throughout the year as and when they matureThe main harvesting season is summer however the peak harvesting period is April - MayAverage yield is about 80 - 100 nuts per plant per year
+State: KARNATAKA
+District: BELLARY
+Crop Code: Coconut
+
+=== CHUNK 600 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about the general information
+Answer: suggested to the farmer as per the guidelines under the horticulture pop
+State: KARNATAKA
+District: BIJAPUR
+Crop Code: Guava
+
+=== CHUNK 601 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about sandalwood cultivation
+Answer: --hulimavu-08026584904prathiba
+State: KARNATAKA
+District: KODAGU
+Crop Code: Sandal Wood
+
+=== CHUNK 602 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about crops information for reading
+Answer: --Suggested kisan suvidha and Iffco kisan apps to download
+State: KARNATAKA
+District: RAMANAGARA
+Crop Code: Banana
+
+=== CHUNK 603 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about cultural practices in arecanut
+Answer: advised him to go for single row intercultivation 
+State: KARNATAKA
+District: DAVANAGERE
+Crop Code: Arecanut
+
+=== CHUNK 604 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about raising of drumstick seedlings
+Answer: Fill the polythene bags of size 6 x 2 inches with soil and sand mixtureSow the seeds 2 per bag at 1 inche depth and water it everydaySeeds will germinate in 7 - 10 days transfer the seedlings to polythene bagsSeedlings will grow to the height of 8 inches to 1 feet in 35 - 4 monthsTransplant for seedlings during the month of June - July for the field establishment for this sow the seeds during the month of March
+State: KARNATAKA
+District: YADAGIRI
+Crop Code: Drum Stick
+
+=== CHUNK 605 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer want to regarding information about cultural practices in cluster bean crop
+Answer:    - 45 00       - 15-20 0015-20 00  0
+State: MADHYA PRADESH
+District: CHHINDWARA
+Crop Code: Cluster Bean
+
+=== CHUNK 606 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: farmer want to know information about how to uses  in Pea crop
+Answer:       :: ::19:19: 19 100  15      
+State: MADHYA PRADESH
+District: RATLAM
+Crop Code: Pea Vegetable
+
+=== CHUNK 607 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Ideal tree pruning of mango
+Answer: Pruning can be done if the tree height is about 12-15 feet above the ground 
+State: ODISHA
+District: KEONJHAR
+Crop Code: Mango
+
+=== CHUNK 608 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME FIG CULTIVATION AREA IN INDIA 
+Answer: --                         13802     1232       5600   
+State: RAJASTHAN
+District: HANUMANGARH
+Crop Code: Fig
+
+=== CHUNK 609 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asking about onion crop insurance application 
+Answer:  :          : https:pmfbygovin             1667             : 15-02-2021  
+State: TAMILNADU
+District: DINDIGUL
+Crop Code: Onion
+
+=== CHUNK 610 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Infotion about AllahabadMawanaAllahabad
+Answer:     - 2627    28293031          27 - 330c     10  20                
+State: UTTAR PRADESH
+District: ALLAHABAD
+Crop Code: Beans
+
+=== CHUNK 611 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information about in Fenugreek methi  turning black
+Answer:     50 WP 300-400     200        
+State: UTTAR PRADESH
+District: BAGHPAT
+Crop Code: Sudan Grass
+
+=== CHUNK 612 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Want to know about forest plants and insurance policy 
+Answer: Please contact your block forest office for forest plant and  for insurance  policy contact block  assistant  director of  agriculture
+State: WEST BENGAL
+District: JALPAIGURI
+Crop Code: Sandal Wood
+
+=== CHUNK 613 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: orchard rejuvenation
+Answer: -                                   I
+State: JHARKAND
+District: GODDA
+Crop Code: Mango
+
+=== CHUNK 614 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: farmer ask about cultar application in mango crop
+Answer:     10-30       20   10-20                
+State: GUJARAT
+District: AMRELI
+Crop Code: Mango
+
+=== CHUNK 615 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding premium paid by farmer  premium paid by government and sum insured amount for 350 Apple plant 
+Answer: Premium paid by farmer Rs 14000 premium paid by government Rs 26600 and sum insured amount Rs 280000  for 350 Apple plant
+State: HIMACHAL PRADESH
+District: SIRMAUR
+Crop Code: Apple
+
+=== CHUNK 616 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Nutrient management in coconut    
+Answer: Recommended to spray Imidachloprid 178 SL- 05 ml per lit water
+State: KARNATAKA
+District: BELLARY
+Crop Code: Coconut
+
+=== CHUNK 617 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about General information 
+Answer: Toll Free: 1902 State Helpline No102108 Ambulance181 Womens Helpline100 Police Department080-2225 2442080-2225 7982State helpline number: 1902Womens Helpline: 181Kovid-19 State Control  Room Numbers: 104 Department of Health and Family Welfare: 104
+State: KARNATAKA
+District: BIJAPUR
+Crop Code: ARUM
+
+=== CHUNK 618 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about germination of sapota seed
+Answer: Suggested to the farmer as per the guidance under Horticulture POP  
+State: KARNATAKA
+District: DAKSHINAKANNADA
+Crop Code: Sapota
+
+=== CHUNK 619 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about information on stevia and chiya seeds
+Answer: 0836 221 4420University of Agricultural Sciences Admin Block Dharwad phone
+State: KARNATAKA
+District: DHARWAD
+Crop Code: Cumin
+
+=== CHUNK 620 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer asked price detail of Bengal GramGramWhole in Gulbarga mandi
+Answer: 16112021Mandi  : GulbargaCommodity : Bengal GramGramWholeModal Price: 4950Quintal
+State: KARNATAKA
+District: GULBARGA
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 621 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about General information   
+Answer:   Given necessary information and Suggested to contact nearby Raita samparka kendra RSK or Assistant director of Agriculture ADA office or Horticulture department
+State: KARNATAKA
+District: RAICHUR
+Crop Code: ARUM
+
+=== CHUNK 622 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about green manuring in cowpea
+Answer: Given necessary information
+State: KARNATAKA
+District: DAVANAGERE
+Crop Code: Cowpea Vegetable
+
+=== CHUNK 623 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FARMER ASKED ABOUT MARKET RATE OF ONION  IN ANGAMALAY  MARKET
+Answer:       -   -   - 3400    - 4000     - 3700   
+State: MAHARASHTRA
+District: NASIK
+Crop Code: Onion
+
+=== CHUNK 624 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about pollination in Onion 
+Answer: Central Honey Bee Research  Training Institude-Pune - 020 25655351    -4    4    200         -                                    
+State: MAHARASHTRA
+District: AHMADNAGAR
+Crop Code: Onion
+
+=== CHUNK 625 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Contact number of Assistant director of Horticulture  
+Answer:    Room No 63 2nd Floor   01652-230571
+State: PUNJAB
+District: MANSA
+Crop Code: Acid Lime
+
+=== CHUNK 626 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer asked query on Weather
+Answer:          5                     39    29     14      
+State: RAJASTHAN
+District: JAISALMER
+Crop Code: Coriander
+
+=== CHUNK 627 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Tell me about Establishment of new fruit orchards
+Answer:              50     30000-           40     40000-        50     04    40                    02  
+State: RAJASTHAN
+District: JALOR
+Crop Code: Pomegranate
+
+=== CHUNK 628 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT SUBSIDY OF CITRUS FRUIT 
+Answer:                 50   30000              40   40000      I  66    - 278    I    4   
+State: RAJASTHAN
+District: HANUMANGARH
+Crop Code: Citrus
+
+=== CHUNK 629 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: TELL ME ABOUT SUBSIDY OF GUAVA
+Answer:             50   30000               40   40000      
+State: RAJASTHAN
+District: DAUSA
+Crop Code: Guava
+
+=== CHUNK 630 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding improved growth in Pea crop 
+Answer:    100                          NPK 19:19:19 1   100         10               
+State: HARYANA
+District: KURKSHETRA
+Crop Code: Pea Vegetable
+
+=== CHUNK 631 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FARMER ASKING INFORMATION REGARDING PLANTATION OF ONION  
+Answer: --      -                                      100   ::                                          -                        -     
+State: MAHARASHTRA
+District: BEED
+Crop Code: Onion
+
+=== CHUNK 632 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding control of fruit drop in Citrus
+Answer:        1250   27     500   50    500   25     500             
+State: PUNJAB
+District: JALANDHAR
+Crop Code: Aonla
+
+=== CHUNK 633 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding how to check the status of pradhan mantri kisan sammn nidhi yojana account 
+Answer:                           https:pmkisangovinBeneficiaryStatusBeneficiaryStatusaspx                         
+State: PUNJAB
+District: FEROZPUR
+Crop Code: Cocoa
+
+=== CHUNK 634 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information about weather forecast of Block in Chataura District  Bahraich 
+Answer:      23    28              2324       -                              15C        11C         04-07                       
+State: UTTAR PRADESH
+District: BAHRAICH
+Crop Code: ARUM
+
+=== CHUNK 635 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information about Cinnamon Cultivation dal cheni palnt 
+Answer:                     1000m          200-250cm         
+State: JHARKAND
+District: PALAMU
+Crop Code: Mint
+
+=== CHUNK 636 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: REGARDING POLINIZER VARIETIES  FOR APPLE 
+Answer: POLINIZER VARIETIES ARE : EARLY WORCESTOR RAZAKWAR JONATHAN  COXS ORANGE PIPPIN  GOLDEN DELICIOUS  YELLOW NEWTON
+State: JAMMU AND KASHMIR
+District: BARAMULLA
+Crop Code: Apple
+
+=== CHUNK 637 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information About Registration in Pradhan Mantri Kisan Samman Nidhi Yojana
+Answer:             wwwpmkisangovin    Farmers Corner       New Farmer Registration            -           
+State: UTTAR PRADESH
+District: FARRUKHABAD
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 638 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding control of thrips in onion crop
+Answer:          250    5-600   25     80        
+State: PUNJAB
+District: FAZILKA
+Crop Code: Baby Corn
+
+=== CHUNK 639 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question:  FARMER NEED INFORMATION ABOUT CONTACT OF Vengurla Regional Fruit Research Centre FOR OLD MANGO ORCHARD REJUVENATION 
+Answer:       :           - :-adrrfruitsvengurlagmailcom
+State: MAHARASHTRA
+District: RAIGARH
+Crop Code: Mango
+
+=== CHUNK 640 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKING ABOUT CONTROLOF YELLOWING LEAVES 
+Answer:  SPRAY GRADE 2  2-3 GMML  LIT OF WATER
+State: WEST BENGAL
+District: Alipurduar
+Crop Code: Chillies
+
+=== CHUNK 641 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FARMER ASKED QUERY ON MANGO CROP
+Answer: 10            100   400-500     1000     1000                          
+State: BIHAR
+District: BANKA
+Crop Code: Mango
+
+=== CHUNK 642 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: asked about spacing in coconut
+Answer: suggested to give 25 25 feet
+State: KARNATAKA
+District: KOPPAL
+Crop Code: Coconut
+
+=== CHUNK 643 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Pre Emargence weed control in the Goundnut crop
+Answer:     70  72           30 EC1000-1200ml  200      
+State: UTTAR PRADESH
+District: ETAWAH
+Crop Code: Beans
+
+=== CHUNK 644 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer asked query on Weather
+Answer:       05  10           27  32C        07-11               
+State: UTTAR PRADESH
+District: MAHOBA
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 645 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer asked query on Weather
+Answer:       19  24    -       29  33C        07-11               
+State: UTTAR PRADESH
+District: KANPUR DEHAT
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 646 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regrading fertilizers in cabbage 
+Answer:      55   155     40     55   4-5    
+State: PUNJAB
+District: BARNALA
+Crop Code: Bitter Gourd
+
+=== CHUNK 647 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer  asked about  control measure on  onion crop   
+Answer:  25 -5  15        -               meothrin  penpropethrin   15     
+State: MAHARASHTRA
+District: AHMADNAGAR
+Crop Code: Onion
+
+=== CHUNK 648 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding for control of root rot in pea
+Answer: For control of root rot in pea broadcast 500 gram Saaf mixed with sand per acre          500           
+State: PUNJAB
+District: HOSHIARPUR
+Crop Code: Baby Corn
+
+=== CHUNK 649 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding plantation of nursery of onion
+Answer:      4  5    8  200       15  20          1  2   5               1000  -  125         10                  50  60               
+State: PUNJAB
+District: BHATINDA
+Crop Code: Chrysanthemum
+
+=== CHUNK 650 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Improved Early Maturing varieties of Pea 
+Answer:          - AP-3 315       -7 32       -6 24       18-20     
+State: PUNJAB
+District: TARN TARAN
+Crop Code: Mushroom
+
+=== CHUNK 651 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Control of sucking insect in chrysanthemum
+Answer: RECOMMENDED FOR SPRAY   AZADIRACHTIN 1 EC10000 PPM   3 ML  LIT OF WATERSPRAY   IMIDACLOPRID 178 SL  1 ML   5 LIT OF WATER
+State: WEST BENGAL
+District: BANKURA
+Crop Code: Chrysanthemum
+
+=== CHUNK 652 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: REGARDING WILTING OF CHILLI PLANT
+Answer: DO OOZE TEST AND CHECK IF ITS BACTERIAL INFECTION OR NOT
+State: ASSAM
+District: DHUBRI
+Crop Code: Chillies
+
+=== CHUNK 653 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: How to kill Mango tree roots
+Answer: Recommended to spray Glyphosate 41SL  7ml per 1 liter of water to kill Mango tree roots
+State: ODISHA
+District: NAYAGARH
+Crop Code: Mango
+
+=== CHUNK 654 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT TO VARIETY OF JEERA 
+Answer:    - -19 - 209 -223 - 4         
+State: RAJASTHAN
+District: NAGAUR
+Crop Code: Cumin
+
+=== CHUNK 655 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Coconut replanting information
+Answer: :      :      : 044 - 25554443  
+State: TAMILNADU
+District: CHENNAIMADRAS
+Crop Code: Coconut
+
+=== CHUNK 656 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question:  Information regarding how to form organic manure 
+Answer:      25                                            5   150    1     4  5                                       
+State: HARYANA
+District: MAHENDRA GARH
+Crop Code: Guava
+
+=== CHUNK 657 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information reegarding training pruning in pear
+Answer:              -             -            -    
+State: HARYANA
+District: FATEHABAD
+Crop Code: Pear
+
+=== CHUNK 658 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding training pruning in peach
+Answer:                                   -                15     -        
+State: HARYANA
+District: FATEHABAD
+Crop Code: Peach
+
+=== CHUNK 659 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about cultural practices
+Answer: gave necessary information
+State: KARNATAKA
+District: SHIMOGA
+Crop Code: Musk Melon
+
+=== CHUNK 660 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about harvesting of turmeric
+Answer: Suggested that turmeric will be ready for harvesting in about 7-9 months after harvesting
+State: KERALA
+District: KOZHIKODE
+Crop Code: Turmeric
+
+=== CHUNK 661 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding control of downy mildew and alternaria blight in cauliflower
+Answer:              600   M-45   200           I  7       I
+State: PUNJAB
+District: FARIDKOT
+Crop Code: Snake Gourd
+
+=== CHUNK 662 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding manures and fertilizers used in ONION crop
+Answer:     20   45   125    35             45   30-45     
+State: PUNJAB
+District: BARNALA
+Crop Code: Ash Gourd Petha
+
+=== CHUNK 663 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information about Of Cultivation of Suran Crop
+Answer:      -  -   M-15         - - -         - NPK- 80:60:80kg     - 190-215         -400-500     PH - 55-72   PH         -   20-35    - 75 x 75 x 30 CM   -           - - 250gm  -75 x 75CM - 40-50   - 500gm  -75 x 75CM - 70-80    
+State: UTTAR PRADESH
+District: SHIVASTI
+Crop Code: Others
+
+=== CHUNK 664 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKING ABOUT PGH FLOWERING OF MANGO
+Answer: N-TRIACONTAN0L   1 ML  3 LIT OF WATER
+State: WEST BENGAL
+District: BARDDHAMAN
+Crop Code: Mango
+
+=== CHUNK 665 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: hafed haryana contact number
+Answer: hafed haryana contact number Panchkula Haryana  0172 259 0520
+State: HARYANA
+District: MEWAT
+Crop Code: Arecanut
+
+=== CHUNK 666 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information regarding control of downy mildew and alternaria blight 
+Answer:          600   M-45   200           I  7       I
+State: PUNJAB
+District: FEROZPUR
+Crop Code: ARUM
+
+=== CHUNK 667 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer wants information about flower falling in his 10 year old mango tree
+Answer:                     45                   paclobutrazol 23       12               8  10                    
+State: MADHYA PRADESH
+District: RAJGARH
+Crop Code: Mango
+
+=== CHUNK 668 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Information on spraying EM solution and panchakavyam for tomato crop
+Answer:  :           :      10   150    
+State: TAMILNADU
+District: KRISHNAGIRI
+Crop Code: Tomato
+
+=== CHUNK 669 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information  regarding  how to control fungal disease in crop
+Answer:     400    45  75 WP      50 WP   200         
+State: HARYANA
+District: MAHENDRA GARH
+Crop Code: Chillies
+
+=== CHUNK 670 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: information regarding contact number Dept of Floriculture and Landscape Architecture- Production technology of cut flowers and Landscaping In Nauni University solan
+Answer: Dr Rajesh BhallaDept of Floriculture and Landscape Architecture- Production technology of cut flowers and Landscaping01792-252276 
+State: HIMACHAL PRADESH
+District: KINNAUR
+Crop Code: Lilliums
+
+=== CHUNK 671 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT COCONUT DEVELOPMENT BOARD CONTACT DETAILS
+Answer: KARNATAKADirector Regional Office Coconut Development Board Hulimavu Bannerghatta Road Bengaluru - 560 076 KarnatakaPhone080 26593750 26593743Fax080-26594768E-mail:ro-bnglracoconutboarddotgovdotin
+State: KARNATAKA
+District: BELGAUM
+Crop Code: Coconut
+
+=== CHUNK 672 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FARMER ASKED  ABOUT TO TRAINING AND PRUNING IN AONLA 
+Answer:          075-1                                             -                     
+State: RAJASTHAN
+District: JAIPUR
+Crop Code: Aonla
+
+=== CHUNK 673 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question:  farmer asked query about on weed management in banana
+Answer: RECOMMENDED TO SPRAY GLYPHOSATE 
+State: ANDHRA PRADESH
+District: VIZIANAGARM
+Crop Code: Banana
+
+=== CHUNK 674 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about disease management in Black pepper
+Answer: Suggested to spray Saaf gm per litre of water or Drench 10 lit fungicide mixturevine viz 0125 per cent Metalaxyl - MZ 72WdivOR 2 per cent Copper oxychloride 50 Wdiv
+State: KARNATAKA
+District: HASSAN
+Crop Code: Cashew
+
+=== CHUNK 675 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about inducing flowering in 20 year old sapota plant
+Answer: Suggested to do girdling and apply more potassium fertilizers
+State: KERALA
+District: ALAPPUZHA
+Crop Code: Sapota
+
+=== CHUNK 676 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT TO SUBSIDY OF AONLA
+Answer:                50   30000               40   40000       I  66     - 278     I  04 STSC-02    4     
+State: RAJASTHAN
+District: DAUSA
+Crop Code: Aonla
+
+=== CHUNK 677 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: farmer asked query about on mango orchard preparation
+Answer: recommended to dig pts on 111  fill on fym 50  kgs  ssp 2kgs 
+State: ANDHRA PRADESH
+District: GUNTUR
+Crop Code: Mango
+
+=== CHUNK 678 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Button shedding control mesures
+Answer: Button shedding occurs due to inadequate or lack of manuring The recommended dose of manurial schedules and proper time of application are important to minimise the button shedding Apply extra 2 kg of muriate of potash with 200 g of Boraxpalm over and above the usual dosage of fertilizer to correct the barren nuts in coconut for period of 3 years
+State: KARNATAKA
+District: BIJAPUR
+Crop Code: Coconut
+
+=== CHUNK 679 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Preparation of 1  Bordeaux Mixture
+
+=== CHUNK 680 ===
+Answer: One kg of copper sulphate powder is dissolved in 50 litres of water Similarly 1 kg of lime is powdered and dissolved in another 50 litres of water Then copper sulphate solution is slowly added to lime solution with constant stirring or alternatively both the solutions may be poured simultaneously to a third contained and mixed wellPreparation of 05 Bordeaux mixture is same as above but reducing the copper sulphate and lime half of the amount but keeping water same as 1 mixture preparationIn general 1 Bordeaux mixture is applied to hardy plant parts such as roots stem and 05 of mixture is applied on leaffoliagThe ratio of copper sulphate to lime solution determines the pH of the mixture The mixture prepared in the above said ratio gives neutral or alkaline mixture If the quality of the used materials is inferior the mixture may become acidic If the mixture is acidic it contains free copper which is highly phytotoxic resulting in scorching of the plants Therefore it is highly
+
+=== CHUNK 681 ===
+of the used materials is inferior the mixture may become acidic If the mixture is acidic it contains free copper which is highly phytotoxic resulting in scorching of the plants Therefore it is highly essential to test the presence of free copper in the mixture before applie
+
+=== CHUNK 682 ===
+State: KARNATAKA
+District: HASSAN
+Crop Code: Baby Corn
+
+=== CHUNK 683 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about disease management in RIDGE GOURD
+Answer: Spray 20 g Chlorothalonil or 10 g Carbendazim or 15 g Dinocap in a lit water 200 lit spray solution requiredacreIf disease persist spray at an interval of two weeks
+State: KARNATAKA
+District: DAVANAGERE
+Crop Code: Ridge Gourd
+
+=== CHUNK 684 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about disease management in  
+Answer: 025       -         -      05gm     3gm                  5  
+State: KARNATAKA
+District: KOPPAL
+Crop Code: Celery
+
+=== CHUNK 685 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about pruning in jack fruit
+Answer: Suggested to prune leaving some lower braches
+State: KERALA
+District: KOTTAYAM
+Crop Code: Jack Fruit
+
+=== CHUNK 686 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT TO SUBSIDY OF ORANGE LEMON
+Answer:                   50   30000              40   40000      I   66     - 278     I     4   
+State: RAJASTHAN
+District: BHARATPUR
+Crop Code: Citrus
+
+=== CHUNK 687 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about general information 
+Answer: In the monsoon season groundnut sesame cowpea and green lentils etc grow as a intercrops Fruit crops like pomegranate Amla Custard apple guava West Indian cherry maple Ber etc by intercropped cultivation to get over the extra income Moringa grow as a border crop and cow pea grow as grain crop can be obtained additional revenueCleaning of Palm treesSixth year onwards cleaning is necessary Cleaning depending on Palms height age etc
+State: KARNATAKA
+District: BANGALORE
+Crop Code: Arecanut
+
+=== CHUNK 688 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about disease management 
+Answer: --Suggested to spray Copper oxychloride  3 gltr of water  Streptocycline  05 gltr of water
+State: KARNATAKA
+District: KODAGU
+Crop Code: Ginger
+
+=== CHUNK 689 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: For plantation of eculeptous 
+Answer: Advised to get the permission from the forestry officer for the plantation of  eculeptous and to know the availability of planting material
+State: ODISHA
+District: KALAHANDI
+Crop Code: Eculeptous
+
+=== CHUNK 690 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FARMER ASKED QUERY ABOUT ON CHILLI LAND PRERPARATION 
+Answer: RECOMMENDED TO APPLY SSPFYMNEEM CAKE SHOULD BE APPLIED ON ENTIRE FIELD
+State: ANDHRA PRADESH
+District: GUNTUR
+Crop Code: Chillies
+
+=== CHUNK 691 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Market rate 
+Answer: BINNY MILL FV22092023Lime Lemon21327003200MYSURU21092023Lime Lemon7012001200
+State: KARNATAKA
+District: BIJAPUR
+Crop Code: Lemon
+
+=== CHUNK 692 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked how to control White fly
+Answer: SPRAY  PYRIPROXYFEN 10  BIFENTHRIN 10 EC  125 ML  LITER OF WATER 
+State: WEST BENGAL
+District: Cooch BIHAR
+Crop Code: Bell Pepper
+
+=== CHUNK 693 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Market rate
+Answer: BYADGI13102023Kaddi58726895250033529CHIKKAMAGALURU12102023Other2800080008000CHINTAMANI09102023Local1170001900018000HUBBALLI13102023Kaddi327500200997500MANGALURU09102023Other10164302082516664MYSURU09102023Local4976001150010200SINDHANUR12102023Local9680002270013000UDIPI12102023Byadgi7350004500040000
+State: KARNATAKA
+District: BELLARY
+Crop Code: Chillies
+
+=== CHUNK 694 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about market price
+Answer: BYADGI16102023Dabbi39033295639942489BYADGI16102023Guntur56415691868916469BYADGI16102023Kaddi47622695250035009
+State: KARNATAKA
+District: BELLARY
+Crop Code: Chillies
+
+=== CHUNK 695 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about market price
+Answer: RANIBENNUR0110202353600016000
+State: KARNATAKA
+District: DHARWAD
+Crop Code: Garlic
+
+=== CHUNK 696 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about market price
+Answer: ARSIKERE06102023Copra621750085658318BENGALURU03102023Copra498001100010400HULIYAR03102023Ball457780081008000KRPET06102023Other6805080508050TIPTUR06102023Copra1219720087068500
+State: KARNATAKA
+District: TUMKUR
+Crop Code: Coconut
+
+=== CHUNK 697 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about Top fertilizer management and Foliar spray for Banana stem size increase 
+Answer:  :           :90   100    500   160     150180   100    160       -  2       
+State: TAMILNADU
+District: TIRUCHIRAPPALLI
+Crop Code: Banana
+
+=== CHUNK 698 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Know about banana plantation 
+Answer: Advised the distance is 18meterplant to plant and row to row pit size is 05meter and contact the Block Horticulture Officer
+State: ODISHA
+District: BARGARH
+Crop Code: Banana
+
+=== CHUNK 699 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: QUERY REGARDING REGISTRATION FOR HORTICULTURAL EQUIPMENTS
+Answer: KINDLY CONTACT DISTRICT AGRICULTURE OFFICE FOR FURTHER DETAILS
+State: ASSAM
+District: NAGAON
+Crop Code: Gerbera
+
+=== CHUNK 700 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer wants information how to get better quality fruits in onion  crop 
+Answer:                    5  Zn 53   24   01   10      25        
+State: MADHYA PRADESH
+District: AGAR
+Crop Code: Onion
+
+=== CHUNK 701 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer want to know information about fertilizer Schedule for orange crop 
+Answer: --   10-15       5    400 -   350     250                           30       -500       250-300      -150 -200        
+State: MADHYA PRADESH
+District: RATLAM
+Crop Code: Orange
+
+=== CHUNK 702 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about management of flowering in old mango branch
+Answer: Girdling can be done to induce flowering in old mango branch
+State: KERALA
+District: KOTTAYAM
+Crop Code: Mango
+
+=== CHUNK 703 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: HOW TO CONTACT UTTARAKHAND KISAN CALL CENTRE
+Answer: PLEASE USE UTTARAKHAND SIM TO CONTACT UTTARAKHANDS KISAN CALL CENTRE
+State: SIKKIM
+District: EAST DISTRICT
+Crop Code: Anthurium
+
+=== CHUNK 704 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Information about turning of branches in eucalyptus
+Answer:        -    Copper oxychloride 50 WP  2              -         
+State: UTTAR PRADESH
+District: MAHOBA
+Crop Code: Eculeptous
+
+=== CHUNK 705 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Who took the information to prepare the seasonal garden
+Answer: 50   50   50  -         1                       
+State: RAJASTHAN
+District: KOTA
+Crop Code: Citrus
+
+=== CHUNK 706 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer asked about subsidy for planting garden 
+Answer: --             50     30000-      25     
+State: RAJASTHAN
+District: BARMER
+Crop Code: Pomegranate
+
+=== CHUNK 707 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer asked about subsidy for planting garden 
+Answer:          40     40000-     50       25     
+State: RAJASTHAN
+District: BARMER
+Crop Code: Pomegranate
+
+=== CHUNK 708 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer asked about subsidy for planting garden 
+Answer:     04    40                    02  
+State: RAJASTHAN
+District: BARMER
+Crop Code: Pomegranate
+
+=== CHUNK 709 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about flowering problem in Musk melon
+Answer: --   Suggested to spray Planofix  1ml in 4 litre of water
+State: RAJASTHAN
+District: AJMER
+Crop Code: Melon
+
+=== CHUNK 710 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT TO SUBSIDY OF ORANGE LEMON
+Answer: --                  50   30000              40   40000      I   66     - 278     I     4   
+State: RAJASTHAN
+District: JHUNJHUNU
+Crop Code: Citrus
+
+=== CHUNK 711 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer asked method of planting mango tree 
+Answer:    1   -     20  25                                       -100 x 100 x 100        : 5  x 5  400 
+State: RAJASTHAN
+District: CHURU
+Crop Code: Mango
+
+=== CHUNK 712 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT TO VARIETIES OF GUAVA 
+Answer:   -   46 49             -1      
+State: RAJASTHAN
+District: CHURU
+Crop Code: Guava
+
+=== CHUNK 713 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about methods for increasing latex production
+Answer: Swab Ethephon  1mlL just below the tapping panel
+State: KERALA
+District: MALAPPURAM
+Crop Code: Rubber
+
+=== CHUNK 714 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED ABOUT TO FERTILIZER REQUIREMENT IN BOTTLE GOURD 
+Answer:   20-25                 80-100             32-40  70-90   16     100   16     30                  13                 25-30                         
+State: RAJASTHAN
+District: HANUMANGARH
+Crop Code: Bottle Gourd
+
+=== CHUNK 715 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Given necessary information and suggested to contact RSK or agriculture department
+Answer: --Given necessary information and suggested to contact RSK or agriculture department
+State: MIZORAM
+District: AIZAWL
+Crop Code: ARUM
+
+=== CHUNK 716 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKED FOR INDUCER NEEDED FOR GENERATING MORE NEW LEAVES
+Answer: 1 RECOMMENDED FOR SPRAY   GIBBERALIC ACID  50 MG  LIT OF WATER2RECOMMENDED FOR SPRAY GRADE 4    2-3 ML  LIT OF WATER        BOZN 
+State: WEST BENGAL
+District: Cooch BIHAR
+Crop Code: Tea
+
+=== CHUNK 717 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer asked query on Weather
+Answer:          -      16    20                          29      24         13         
+State: RAJASTHAN
+District: JHALAWAR
+Crop Code: Orange
+
+=== CHUNK 718 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about requirement of cultar in mango
+Answer:  10   20         Drench cultar 20ml in 10 litres of water in the tree basin
+State: KERALA
+District: MALAPPURAM
+Crop Code: Mango
+
+=== CHUNK 719 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: FARMER ASKED ABOUT TO SOWING TIME OF WHEAT 
+Answer:                   15  25              15   10         :-
+State: RAJASTHAN
+District: BHILWARA
+Crop Code: Wheat
+
+=== CHUNK 720 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked for the spacing in coconut cum arecanut plantation
+Answer: Given necessary information and suggested to plant coconut at the spacing of 27 ft27 ft and arecanut at the spacing of 85 ft 85 ft   27   27     85   85      
+State: KARNATAKA
+District: HASSAN
+Crop Code: Coconut
+
+=== CHUNK 721 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Asked about fertigation schedule for tomato 
+Answer:  :        11-40    :     - 2  730    14  800    6  600   5    
+State: TAMILNADU
+District: TIRUPUR
+Crop Code: Tomato
+
+=== CHUNK 722 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: ASKING ABOUT ACCREDIATION AND GI TAG
+Answer: --PLEASE VISIT DISTRICT AGRICULTURE OFFICE
+State: BIHAR
+District: MADHUBANI
+Crop Code: Litchi
+
+=== CHUNK 723 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer wants to know information about the Fertilizer dose in the coriander crop
+Answer:                  130    90    35-40         20                              
+State: MADHYA PRADESH
+District: DHAR
+Crop Code: Coriander
+
+=== CHUNK 724 ===
+Query Type: OldSenile Orchard Rejuvenation
+Question: Farmer asked about to olive cultivation subsidy in rajasthan 
+Answer:                    4       3200        90    
+State: DELHI
+District: New Delhi Connaught Place
+Crop Code: Periwinkle
+

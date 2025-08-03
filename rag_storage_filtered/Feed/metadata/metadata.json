@@ -1,0 +1,392 @@
+[
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "KARNATAKA",
+    "district": "KOPPAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 0
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MADHYA PRADESH",
+    "district": "UMARIA",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 1
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MADHYA PRADESH",
+    "district": "UMARIA",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 2
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 3
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 4
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MAHARASHTRA",
+    "district": "KOLHAPUR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 5
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MAHARASHTRA",
+    "district": "JALNA",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 6
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MEGHALAYA",
+    "district": "EAST JAINTA HILLS",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 7
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "RAJASTHAN",
+    "district": "HANUMANGARH",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 8
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "TAMILNADU",
+    "district": "DHARMAPURI",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 9
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "UTTAR PRADESH",
+    "district": "JAUNPUR",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 10
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "UTTAR PRADESH",
+    "district": "MAU",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 11
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "CHHATTISGARH",
+    "district": "SURGUJA",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 12
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "JHARKAND",
+    "district": "RANCHI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 13
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 14
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 15
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "KARNATAKA",
+    "district": "MYSORE",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 16
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "KARNATAKA",
+    "district": "HAVERI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 17
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MADHYA PRADESH",
+    "district": "JHABUA",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 18
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MAHARASHTRA",
+    "district": "BEED",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 19
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MEGHALAYA",
+    "district": "EAST KHASI HILLS",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 20
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "UTTAR PRADESH",
+    "district": "AGRA",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 21
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "UTTAR PRADESH",
+    "district": "SANT KABIR NAGAR",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 22
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MIZORAM",
+    "district": "AIZAWL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 23
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "ASSAM",
+    "district": "SIVASAGAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 24
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "ASSAM",
+    "district": "TINSUKIA",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 25
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MAHARASHTRA",
+    "district": "AKOLA",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 26
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "ODISHA",
+    "district": "SAMBALPUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 27
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "TRIPURA",
+    "district": "WEST TRIPURA",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 28
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "UTTAR PRADESH",
+    "district": "SANT KABIR NAGAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 29
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 30
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "MIZORAM",
+    "district": "AIZAWL",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 31
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "PUDUCHERRY",
+    "district": "PUDUCHERRY",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 32
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "ANDHRA PRADESH",
+    "district": "EAST GODAVARI",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "2825",
+    "original_index": 33
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "ANDHRA PRADESH",
+    "district": "ANANTPUR",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "2825",
+    "original_index": 34
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "ODISHA",
+    "district": "KEONJHAR",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 35
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "TAMILNADU",
+    "district": "CUDDALORE",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 36
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "TAMILNADU",
+    "district": "PUDUKKOTTAI",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "2825",
+    "original_index": 37
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Feed_dataset.csv",
+    "query_type": "Feed",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 38
+  }
+]

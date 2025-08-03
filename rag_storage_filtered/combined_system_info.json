@@ -1,0 +1,19 @@
+{
+  "datasets": [
+    "rag_storage_filtered\\Bio-Pesticides and Bio-Fertilizers",
+    "rag_storage_filtered\\Crop Insurance",
+    "rag_storage_filtered\\Cultivation Conditions",
+    "rag_storage_filtered\\Disease",
+    "rag_storage_filtered\\Disease Management",
+    "rag_storage_filtered\\Disease Reporting",
+    "rag_storage_filtered\\Feed",
+    "rag_storage_filtered\\Floriculture",
+    "rag_storage_filtered\\Integrated Farming",
+    "rag_storage_filtered\\Landscaping",
+    "rag_storage_filtered\\Medicinal and Aromatic Plants",
+    "rag_storage_filtered\\Mushroom Production",
+    "rag_storage_filtered\\OldSenile Orchard Rejuvenation"
+  ],
+  "total_vectors": 346135,
+  "vector_dimension": 384
+}

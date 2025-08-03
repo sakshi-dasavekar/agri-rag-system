@@ -1,0 +1,5922 @@
+[
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "JAMMU AND KASHMIR",
+    "district": "PULWAMA",
+    "season": "KHARIF",
+    "year": "2009",
+    "crop_code": "2825",
+    "original_index": 0
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "JAMMU AND KASHMIR",
+    "district": "UDHAMPUR",
+    "season": "KHARIF",
+    "year": "2009",
+    "crop_code": "2825",
+    "original_index": 1
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "JAMMU AND KASHMIR",
+    "district": "JAMMU",
+    "season": "KHARIF",
+    "year": "2009",
+    "crop_code": "2825",
+    "original_index": 2
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "JAMMU AND KASHMIR",
+    "district": "JAMMU",
+    "season": "KHARIF",
+    "year": "2009",
+    "crop_code": "2825",
+    "original_index": 3
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "JAMMU AND KASHMIR",
+    "district": "RAJOURI",
+    "season": "KHARIF",
+    "year": "2009",
+    "crop_code": "2825",
+    "original_index": 4
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "season": "JAYAD",
+    "year": "2009",
+    "crop_code": "2825",
+    "original_index": 5
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "BALASORE",
+    "season": "nan",
+    "year": "2009",
+    "crop_code": "1266",
+    "original_index": 6
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "season": "KHARIF",
+    "year": "2009",
+    "crop_code": "1266",
+    "original_index": 7
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "VISAKHAPATNAM",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 8
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 9
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "NELLORE",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 10
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "ANANTPUR",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 11
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "GUJARAT",
+    "district": "KHEDA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 12
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "TRIVANDRUM",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 13
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "TRIVANDRUM",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 14
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "TRIVANDRUM",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 15
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "TRIVANDRUM",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 16
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "ALAPPUZHA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 17
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 18
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 19
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 20
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "PALAKKAD",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 21
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "MALAPPURAM",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 22
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 23
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 24
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 25
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 26
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 27
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "KANNUR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 28
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "KANNUR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 29
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "KOLLAM",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 30
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KERALA",
+    "district": "KOLLAM",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 31
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MAHARASHTRA",
+    "district": "JALNA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 32
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MAHARASHTRA",
+    "district": "YEVATMAL",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 33
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "BALASORE",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 34
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 35
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "KALAHANDI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 36
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "KENDRAPARA",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 37
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "ANUGUL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 38
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "KHORDHA",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 39
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "BARGARH",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 40
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "BARGARH",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 41
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "JHARSUGUDA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 42
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "TAMILNADU",
+    "district": "CUDDALORE",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 43
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "TAMILNADU",
+    "district": "DHARMAPURI",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 44
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "TAMILNADU",
+    "district": "THOOTHUKUDI",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 45
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "AGRA",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 46
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "AGRA",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 47
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "PILIBHIT",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 48
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "VARANASI",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 49
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "HARDOI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 50
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "KHERI",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 51
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "KHERI",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 52
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "CHANDAULI",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 53
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "KUSHI NAGAR",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 54
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "KANPUR DEHAT",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 55
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "WEST BENGAL",
+    "district": "NADIA",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 56
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "JHARKAND",
+    "district": "GODDA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 57
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 58
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 59
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 60
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 61
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 62
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 63
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 64
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 65
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 66
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 67
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 68
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 69
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 70
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 71
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 72
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 73
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 74
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 75
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 76
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 77
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 78
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 79
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 80
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 81
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 82
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 83
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 84
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 85
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 86
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 87
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 88
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 89
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 90
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 91
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 92
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 93
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 94
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 95
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 96
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 97
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 98
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 99
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 100
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 101
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 102
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 103
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 104
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 105
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 106
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 107
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 108
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 109
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 110
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 111
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 112
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 113
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 114
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 115
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 116
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 117
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 118
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 119
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 120
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 121
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 122
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 123
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 124
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 125
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 126
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 127
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 128
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 129
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 130
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 131
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 132
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 133
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 134
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 135
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 136
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 137
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 138
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 139
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 140
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 141
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 142
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 143
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 144
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 145
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 146
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 147
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 148
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 149
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 150
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 151
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 152
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 153
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 154
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 155
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 156
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 157
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 158
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 159
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 160
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 161
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 162
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 163
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 164
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 165
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 166
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 167
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 168
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 169
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 170
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 171
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 172
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 173
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 174
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 175
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 176
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 177
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 178
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 179
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 180
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 181
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 182
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 183
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 184
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 185
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 186
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 187
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 188
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 189
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 190
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 191
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 192
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 193
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 194
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 195
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 196
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 197
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 198
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 199
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 200
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 201
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 202
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 203
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 204
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 205
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 206
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 207
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 208
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 209
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 210
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 211
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 212
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 213
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 214
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 215
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 216
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 217
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 218
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 219
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 220
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 221
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 222
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 223
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 224
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 225
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 226
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 227
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 228
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 229
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 230
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 231
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 232
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 233
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 234
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 235
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 236
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 237
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 238
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 239
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 240
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 241
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 242
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 243
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 244
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 245
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 246
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 247
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 248
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 249
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 250
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 251
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 252
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 253
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 254
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 255
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 256
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 257
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 258
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 259
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 260
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 261
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 262
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 263
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 264
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 265
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 266
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 267
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 268
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 269
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 270
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 271
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 272
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 273
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 274
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 275
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 276
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 277
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 278
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 279
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 280
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 281
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 282
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 283
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 284
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 285
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 286
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 287
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 288
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 289
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 290
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 291
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 292
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 293
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 294
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 295
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "VIZIANAGARM",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 296
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "PRAKASAM",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 297
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "ANANTPUR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 298
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "Y S R ",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 299
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "RATLAM",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 300
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 301
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MAHARASHTRA",
+    "district": "YEVATMAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 302
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "BALASORE",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 303
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 304
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "GANJAM",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 305
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "KALAHANDI",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 306
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "SONEPUR",
+    "season": "JAYAD",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 307
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "GAJAPATI",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 308
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "KHORDHA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 309
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "JHARSUGUDA",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 310
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "PUNJAB",
+    "district": "JALANDHAR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 311
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "TAMILNADU",
+    "district": "COIMBATORE",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 312
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "TAMILNADU",
+    "district": "VILLUPPURAM",
+    "season": "JAYAD",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 313
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "ETAH",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 314
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "ETAH",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 315
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "BASTI",
+    "season": "JAYAD",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 316
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "FAIZABAD",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 317
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "FAIZABAD",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 318
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "FIROZABAD",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 319
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "KUSHI NAGAR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 320
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "KUSHI NAGAR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 321
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "SIDDHARTH NAGAR",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 322
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "SANT KABIR NAGAR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 323
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "AMBEDKAR NAGAR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 324
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 325
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "JHARKAND",
+    "district": "WEST SINGHBHUM",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 326
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 327
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 328
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 329
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 330
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 331
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 332
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 333
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 334
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 335
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 336
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 337
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 338
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 339
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 340
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 341
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 342
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 343
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 344
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 345
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 346
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 347
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 348
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 349
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 350
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 351
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 352
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 353
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 354
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 355
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 356
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 357
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 358
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 359
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 360
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 361
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 362
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 363
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 364
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 365
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 366
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 367
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 368
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 369
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 370
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 371
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 372
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 373
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 374
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 375
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 376
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 377
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 378
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 379
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 380
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 381
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 382
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 383
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 384
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 385
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 386
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 387
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 388
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 389
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 390
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 391
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 392
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 393
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 394
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 395
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 396
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 397
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 398
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 399
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 400
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 401
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 402
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 403
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 404
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 405
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 406
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 407
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 408
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 409
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 410
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 411
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 412
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 413
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 414
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 415
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 416
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 417
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 418
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 419
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 420
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 421
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 422
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 423
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 424
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 425
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 426
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 427
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 428
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 429
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 430
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 431
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 432
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 433
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 434
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 435
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 436
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 437
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 438
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 439
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 440
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 441
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 442
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 443
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 444
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 445
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 446
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 447
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 448
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 449
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 450
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 451
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 452
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 453
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 454
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 455
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 456
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 457
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 458
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 459
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 460
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 461
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 462
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 463
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 464
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 465
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 466
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 467
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 468
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 469
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 470
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 471
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 472
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 473
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 474
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 475
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 476
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 477
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 478
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 479
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 480
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 481
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 482
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 483
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 484
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 485
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 486
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 487
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 488
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 489
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 490
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 491
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 492
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 493
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 494
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 495
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 496
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 497
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 498
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 499
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 500
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 501
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 502
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 503
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 504
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 505
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 506
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 507
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 508
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 509
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 510
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 511
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 512
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "GUNTUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 513
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "PRAKASAM",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 514
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ASSAM",
+    "district": "KAMRUP",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 515
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KARNATAKA",
+    "district": "CHITRADURGA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 516
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KARNATAKA",
+    "district": "KOLAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 517
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KARNATAKA",
+    "district": "MANDYA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 518
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KARNATAKA",
+    "district": "DAVANAGERE",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 519
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "KARNATAKA",
+    "district": "KOPPAL",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 520
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "EAST NIMAR",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 521
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "CHHINDWARA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 522
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "RAJGARH",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 523
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "INDORE",
+    "season": "RABI",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 524
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "JHABUA",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 525
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "REWA",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 526
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "REWA",
+    "season": "RABI",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 527
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "REWA",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 528
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "CHHATARPUR",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 529
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MADHYA PRADESH",
+    "district": "CHHATARPUR",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 530
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "SUNDARGARH",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 531
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ODISHA",
+    "district": "JAJAPUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 532
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "TAMILNADU",
+    "district": "KANCHEEPURAM",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "Curry Leaf",
+    "original_index": 533
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "TAMILNADU",
+    "district": "COIMBATORE",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 534
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "MUZAFFARNAGAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 535
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "MUZAFFARNAGAR",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 536
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "MEERUT",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 537
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "BULANDSHAHAR",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 538
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "FARRUKHABAD",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 539
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "FATEHPUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 540
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "BANDA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 541
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "MIRZAPUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 542
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "BALLIA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 543
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "GORAKHPUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 544
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "DEORIA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 545
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "UNNAO",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 546
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "HATHRAS",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 547
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "CHITRAKOOT",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 548
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "SANT RAVIDAS NAGAR BHADOHI",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 549
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "KUSHI NAGAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 550
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "WEST BENGAL",
+    "district": "BIRBHUM",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 551
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "CHHATTISGARH",
+    "district": "RAIPUR",
+    "season": "RABI",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 552
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "CHHATTISGARH",
+    "district": "MAHASAMUND",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 553
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "CHHATTISGARH",
+    "district": "JANJGIR-CHAMPA",
+    "season": "RABI",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 554
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "CHHATTISGARH",
+    "district": "JANJGIR-CHAMPA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 555
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "CHHATTISGARH",
+    "district": "SURGUJA",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 556
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 557
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 558
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 559
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 560
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 561
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 562
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 563
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 564
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 565
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 566
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 567
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 568
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 569
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 570
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 571
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 572
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "UDHAM SINGH NAGAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 573
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "ANDHRA PRADESH",
+    "district": "PRAKASAM",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "2825",
+    "original_index": 574
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "HIMACHAL PRADESH",
+    "district": "SIRMAUR",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 575
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MAHARASHTRA",
+    "district": "JALGAON",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 576
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "MAHARASHTRA",
+    "district": "AURANGABAD",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "2825",
+    "original_index": 577
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "SITAPUR",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 578
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTAR PRADESH",
+    "district": "SULTANPUR",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 579
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "WEST BENGAL",
+    "district": "JALPAIGURI",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 580
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 581
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "WEST BENGAL",
+    "district": "WEST MEDINIPUR",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "2825",
+    "original_index": 582
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 583
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 584
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 585
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 586
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 587
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 588
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 589
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 590
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Cultivation Conditions_dataset.csv",
+    "query_type": "Cultivation Conditions",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 591
+  }
+]

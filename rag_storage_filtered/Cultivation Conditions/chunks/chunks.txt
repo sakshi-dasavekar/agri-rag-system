@@ -1,0 +1,4827 @@
+=== CHUNK 1 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER IN AGRICULTUE DEPTT
+State: JAMMU AND KASHMIR
+District: PULWAMA
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 2 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR 
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: JAMMU AND KASHMIR
+District: UDHAMPUR
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 3 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR 
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: JAMMU AND KASHMIR
+District: JAMMU
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 4 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SHORTAGE OF DAP 
+Answer: THE PROBLEM IS FORWORDED TO HIGHER AUTHORITIES
+State: JAMMU AND KASHMIR
+District: JAMMU
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 5 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR 
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: JAMMU AND KASHMIR
+District: RAJOURI
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 6 ===
+Query Type: Cultivation Conditions
+Question: imu farm informaation
+Answer: to contact imu farm association pune
+State: MAHARASHTRA
+District: PUNE
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 7 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT POULTRY FARMING
+Answer: TO CONTACT BLOCK VETERINARY OFFICER
+State: ODISHA
+District: BALASORE
+Crop Code: 1266
+
+=== CHUNK 8 ===
+Query Type: Cultivation Conditions
+Question: FARMING OF POULTRY  SUBSIDY OF POULTRY FARM
+Answer: CONTACT TO KRISHI SAHAYAK KENDRA
+State: ODISHA
+District: CUTTACK
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 9 ===
+Query Type: Cultivation Conditions
+Question: ASKED ABOUT THE MANAGEMENT OF CHICKS
+Answer: PROVIDED INFORMATION AS PER THE DATA AVAILABLE
+State: ANDHRA PRADESH
+District: VISAKHAPATNAM
+Crop Code: 1266
+
+=== CHUNK 10 ===
+Query Type: Cultivation Conditions
+Question: ASKED ABOUT THE POULTRY
+Answer: GIVEN INFORMATION AS PER THE DATA
+State: ANDHRA PRADESH
+District: KRISHNA
+Crop Code: 1266
+
+=== CHUNK 11 ===
+Query Type: Cultivation Conditions
+Question: ASKED ABOUT THE SHEDS
+Answer: GIVEN INFORMATION AS PER THE DATA
+State: ANDHRA PRADESH
+District: NELLORE
+Crop Code: 1266
+
+=== CHUNK 12 ===
+Query Type: Cultivation Conditions
+Question: ASKED ABOUT GROWING CONDITIONS
+Answer: PROVIDED INFORMATION AS PER DATA
+State: ANDHRA PRADESH
+District: ANANTPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 13 ===
+Query Type: Cultivation Conditions
+Question: asked for the brinjal malformation
+Answer: sugested to spray methyl-dematom 10 gmpump
+State: GUJARAT
+District: KHEDA
+Crop Code: 2825
+
+=== CHUNK 14 ===
+Query Type: Cultivation Conditions
+Question: cough for 3 month old chickens
+Answer: V-cofex sig 1 ml in 1lt of water for 3 days
+State: KERALA
+District: TRIVANDRUM
+Crop Code: 1266
+
+=== CHUNK 15 ===
+Query Type: Cultivation Conditions
+Question: vaccination schedule for quails advice any vitamin drops for the same
+Answer: vaccination is not usually done for quials since they are comparativly disease resistant Vimeral sig 25ml for 100 layers as vitamin suppliment
+State: KERALA
+District: TRIVANDRUM
+Crop Code: 2825
+
+=== CHUNK 16 ===
+Query Type: Cultivation Conditions
+Question: how to prepare a ration for layers
+Answer: gave the percentage of each item that should be included
+State: KERALA
+District: TRIVANDRUM
+Crop Code: 1266
+
+=== CHUNK 17 ===
+Query Type: Cultivation Conditions
+Question: Training on quail farming
+Answer: Training available from CENTRAL HATCHERYCHENGANNUR - 0479 2452277
+State: KERALA
+District: TRIVANDRUM
+Crop Code: 2825
+
+=== CHUNK 18 ===
+Query Type: Cultivation Conditions
+Question: from where will i get the hatcher trays
+Answer: gave the contact number of chengannur hatchery
+State: KERALA
+District: ALAPPUZHA
+Crop Code: 2825
+
+=== CHUNK 19 ===
+Query Type: Cultivation Conditions
+Question: quail availability
+Answer: contact no of quail farm is given
+State: KERALA
+District: ERNAKULAM
+Crop Code: 2825
+
+=== CHUNK 20 ===
+Query Type: Cultivation Conditions
+Question: from where did i get goose
+Answer: gave the contact number
+State: KERALA
+District: THRISSUR
+Crop Code: 2825
+
+=== CHUNK 21 ===
+Query Type: Cultivation Conditions
+Question: from where quail can purchase in thrissur
+Answer: disrict panchayat hatchery ollur
+State: KERALA
+District: THRISSUR
+Crop Code: 2825
+
+=== CHUNK 22 ===
+Query Type: Cultivation Conditions
+Question: pox like lesions on the face and comb
+Answer: boric acid ointment for external application and OTC 100g tab sig as directed orally for 3 days
+State: KERALA
+District: PALAKKAD
+Crop Code: 1266
+
+=== CHUNK 23 ===
+Query Type: Cultivation Conditions
+Question: government farm from where ducklings are get
+Answer: gave the contact number of Niranam duck farm
+State: KERALA
+District: MALAPPURAM
+Crop Code: 2825
+
+=== CHUNK 24 ===
+Query Type: Cultivation Conditions
+Question: nearest farm from where i get the chicks of fancy breeds
+Answer: gave the contact nummber of Mannuthy poultry farm
+State: KERALA
+District: KOZHIKODE
+Crop Code: 2825
+
+=== CHUNK 25 ===
+Query Type: Cultivation Conditions
+Question: nearest farm from where i get the quail chicks
+Answer: gave the contact number of Chathamangalam farm
+State: KERALA
+District: KOZHIKODE
+Crop Code: 2825
+
+=== CHUNK 26 ===
+Query Type: Cultivation Conditions
+Question: 1 month old chicken is showing droopiness
+Answer: Biotrim DS sig as directed orally for 3 days
+State: KERALA
+District: KOZHIKODE
+Crop Code: 1266
+
+=== CHUNK 27 ===
+Query Type: Cultivation Conditions
+Question: how many turnings per day for egg incubation
+Answer: 6-8 turnings per day can be given
+State: KERALA
+District: KOZHIKODE
+Crop Code: 1266
+
+=== CHUNK 28 ===
+Query Type: Cultivation Conditions
+Question: male female ratio for chicken floor space requirement for deep litter system
+Answer: 1:8 is the male female ration floor space requirement for adult chicken is 025m sq
+State: KERALA
+District: KOZHIKODE
+Crop Code: 1266
+
+=== CHUNK 29 ===
+Query Type: Cultivation Conditions
+Question: from where will i get the training for starting the quail farming
+Answer: gave the contact number of Mundayad poultry farm
+State: KERALA
+District: KANNUR
+Crop Code: 2825
+
+=== CHUNK 30 ===
+Query Type: Cultivation Conditions
+Question: training centre for quail farming
+Answer: gave the contact number of mundayad farm
+State: KERALA
+District: KANNUR
+Crop Code: 2825
+
+=== CHUNK 31 ===
+Query Type: Cultivation Conditions
+Question: from where kairali breeds of chicken are get
+Answer: gave the contact number of triveni hatchery
+State: KERALA
+District: KOLLAM
+Crop Code: 1266
+
+=== CHUNK 32 ===
+Query Type: Cultivation Conditions
+Question: incubation temperature of quail eggs
+Answer: 359-362 degree celcius and incubation period 18 days
+State: KERALA
+District: KOLLAM
+Crop Code: 2825
+
+=== CHUNK 33 ===
+Query Type: Cultivation Conditions
+Question: cultivation of poultry information
+Answer: rajendranagar hydrabadproject directorate on poultry
+State: MAHARASHTRA
+District: JALNA
+Crop Code: 1266
+
+=== CHUNK 34 ===
+Query Type: Cultivation Conditions
+Question: Training for Emu rearing
+Answer: Contact animal husbandary dept
+State: MAHARASHTRA
+District: YEVATMAL
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 35 ===
+Query Type: Cultivation Conditions
+Question: CULTIVATION PRACTICES OF POULTRY
+Answer: CONTACT WITH BLOCK VS
+State: ODISHA
+District: BALASORE
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 36 ===
+Query Type: Cultivation Conditions
+Question: FARMING OF CHICKEN
+Answer: CONTACT TO KRUSHI SAHAYAK KENDRA
+State: ODISHA
+District: CUTTACK
+Crop Code: 1266
+
+=== CHUNK 37 ===
+Query Type: Cultivation Conditions
+Question: AVAILABILITY OF CHICK
+Answer: CONTACT TO CENTRAL POULTRY FARMBHUBANESWAR
+State: ODISHA
+District: KALAHANDI
+Crop Code: 1266
+
+=== CHUNK 38 ===
+Query Type: Cultivation Conditions
+Question: cultivation of poultry
+Answer: contact with block vs
+State: ODISHA
+District: KENDRAPARA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 39 ===
+Query Type: Cultivation Conditions
+Question: FARMING OF POULTRY
+Answer: CONTACT TO KRISHI SAHAYAK KENDRA
+State: ODISHA
+District: ANUGUL
+Crop Code: 1266
+
+=== CHUNK 40 ===
+Query Type: Cultivation Conditions
+Question: CULTIVATION CONDITION OF CHICKEN
+Answer: CONTACT TO KRUSHI SAHAYAK KENDRA
+State: ODISHA
+District: KHORDHA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 41 ===
+Query Type: Cultivation Conditions
+Question: AVAILABILITY OF POULTRY CHICKS
+Answer: CONTACT WITH DISTRICT KVKs
+State: ODISHA
+District: BARGARH
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 42 ===
+Query Type: Cultivation Conditions
+Question: availability of banaraj poultry
+Answer: contact with  nearest kvks
+State: ODISHA
+District: BARGARH
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 43 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT BOILER FARMING
+Answer: CONTACT TO BLOCK VETERINARY OFFICER
+State: ODISHA
+District: JHARSUGUDA
+Crop Code: 1266
+
+=== CHUNK 44 ===
+Query Type: Cultivation Conditions
+Question: asking about poultry rearing details
+Answer: given Veterinary university Kattupakkam Kancheepuram contact no 044  27452371
+State: TAMILNADU
+District: CUDDALORE
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 45 ===
+Query Type: Cultivation Conditions
+Question: asking about poultry details
+Answer: given Veterinary University Namakkal contact no 04286  266345
+State: TAMILNADU
+District: DHARMAPURI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 46 ===
+Query Type: Cultivation Conditions
+Question: asking about rearing details
+Answer: given veterinary university kancheepuram kattupakkam contact no 044 - 27452371
+State: TAMILNADU
+District: THOOTHUKUDI
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 47 ===
+Query Type: Cultivation Conditions
+Question: MURGI PALAN KI JANKARI BATAO
+Answer: PLS CONTACT TO IARI-IZZATNAGAR BAREILLYUP
+State: UTTAR PRADESH
+District: AGRA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 48 ===
+Query Type: Cultivation Conditions
+Question: POULTRY TRAINING CENTER BATAO
+Answer: PLS CONTACT TO IARI-IZAT NAGAR BAREILLYUP
+State: UTTAR PRADESH
+District: AGRA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 49 ===
+Query Type: Cultivation Conditions
+Question: POULTRY FORM KI JANKARI
+Answer: CONTACT TO IARI-IZZAT NAGAR BAREILLYUP
+State: UTTAR PRADESH
+District: PILIBHIT
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 50 ===
+Query Type: Cultivation Conditions
+Question: BATAKH PALAN KI JANKARI
+Answer: PLS CONTACT TO DHO CENTER
+State: UTTAR PRADESH
+District: VARANASI
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 51 ===
+Query Type: Cultivation Conditions
+Question: MURGI DIED HO RAHI HAIN
+Answer: SHOULD BE SAINITATION
+State: UTTAR PRADESH
+District: HARDOI
+Crop Code: 1266
+
+=== CHUNK 52 ===
+Query Type: Cultivation Conditions
+Question: AUSTRALIAN AVIES PALAN KI JANKARI
+Answer: PLS CONTACT TO-IARI IZZATNAGAR BAREILYUP
+State: UTTAR PRADESH
+District: KHERI
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 53 ===
+Query Type: Cultivation Conditions
+Question: MURGI PALAN KI JANKARI-CENTER BATAO
+Answer: PLS CONTACT TO IARI-IZZAT NAGAR BAREILLYUP
+State: UTTAR PRADESH
+District: KHERI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 54 ===
+Query Type: Cultivation Conditions
+Question: emo bird ki jankari den
+Answer: pl call CARIbareilly phone no 0581-2300204
+State: UTTAR PRADESH
+District: CHANDAULI
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 55 ===
+Query Type: Cultivation Conditions
+Question: MURGI PALAN KI JANKARI BATAO
+Answer: PLS CONTACT TO IARI-IZZATNAGAR BAREILLYUP
+State: UTTAR PRADESH
+District: KUSHI NAGAR
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 56 ===
+Query Type: Cultivation Conditions
+Question: POULTRY FORM KI TRAINING KAISE KAREIN
+Answer: PLS CONTACT TO IARI-IZZAT NAGAR BAREILLYUP
+State: UTTAR PRADESH
+District: KANPUR DEHAT
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 57 ===
+Query Type: Cultivation Conditions
+Question: CHICKEN CLUTIVATION
+Answer: EXPLAIN ALL AND ADVICE TO CONTACT WITH VS  BLOCK
+State: WEST BENGAL
+District: NADIA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 58 ===
+Query Type: Cultivation Conditions
+Question: asking ab out poultry farming
+Answer: answer givemn in detail
+State: JHARKAND
+District: GODDA
+Crop Code: 1266
+
+=== CHUNK 59 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX 
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 60 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 61 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 62 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 63 ===
+Query Type: Cultivation Conditions
+Question: HOW TO ERADICATE GRASS IN AN OPEN FIELD
+Answer: APPLY GLYPHOSATE 41 EC  2ML  LITRE OF WATER
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 64 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 65 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGRDING SHORTAGE OF DAP
+Answer: IN THIS REGRD PLEASE ASK YOUR AEO OF YOUR AREA AND WE ALSO GIVE THIS COMPLAIN TO HIGHER AUTHORITY
+State: UTTARAKHAND
+District: ALMORA
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 66 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 67 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 68 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 69 ===
+Query Type: Cultivation Conditions
+Question: FROM WHERE I CAN HAVE THE POPULAR TREES 
+Answer: CONTACT  LOCAL AGROFORESTRY NURSERY
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 70 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 71 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 72 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 73 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 74 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 75 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 76 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 77 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 78 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 79 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 80 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 81 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 82 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 83 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 84 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 85 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 86 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 87 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 88 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: USE LINDANE DUST  10 KG ACRE
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 89 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 90 ===
+Query Type: Cultivation Conditions
+Question: information regarding  variety of aonla
+Answer: chakyyabnarasin-7 use variety in aonla
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 91 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: BROADCAST THE CHLOROPYRIPHOS 20 EC  200 ML MIX WITH SANDKANAL
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 92 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 93 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX 
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 94 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 95 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BRE ADDED TO MAKE IT ALKALINE  OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 96 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 97 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 98 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 99 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 100 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 101 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 102 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: BROADCAST THE CHLOROPYRIPHOS 20 EC  200 ML MIX WITH SANDKANAL
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 103 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 104 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 105 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 106 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 107 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 108 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 109 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR 
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 110 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: Pls contect to nerest Bank branch maneger
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 111 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACATOR
+Answer: SUBSIDY OF TRACATOR IS 23-30
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 112 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 113 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 114 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF WEED FROM OPEN FIELD 
+Answer: SPRAY GLYPHOSHATE 41  SL  250 ML IN 50 LITRES OF WATER PER KANAL 
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 115 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 116 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 117 ===
+Query Type: Cultivation Conditions
+Question: SOIL IS NOT RESPONDING PROPERLY TO THE CROPS
+Answer: GET YOUR SOIL TESTED AT NEAREST KRISHI VIGYAAN KENDRA
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 118 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY 
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 119 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 120 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 121 ===
+Query Type: Cultivation Conditions
+Question: SOIL IS NOT RESPONDING PROPERLY TO THE CROPS
+Answer: GET YOUR SOIL TESTED AT NEAREST KRISHI VIGYAAN KENDRA
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 122 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 123 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 124 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX 
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 125 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 126 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 127 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 128 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 129 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 130 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 131 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BRE ADDED TO MAKE IT ALKALINE  OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 132 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BRE ADDED TO MAKE IT ALKALINE  OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 133 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BRE ADDED TO MAKE IT ALKALINE  OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 134 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 135 ===
+Query Type: Cultivation Conditions
+Question: FROM WHERE I CAN HAVE THE POPULAR TREES 
+Answer: CONTACT  LOCAL AGROFORESTRY NURSERY
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 136 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 137 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF FERTILIZER 
+Answer: SUBSIDY OF FERTILIZER IS 50
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 138 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 139 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 140 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF WEED FROM OPEN FIELD 
+Answer: SPRAY GLYPHOSHATE 41  SL  250 ML IN 50 LITRES OF WATER PER KANAL 
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 141 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 142 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 143 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 144 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 145 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 146 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 147 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: BROADCAST THE CHLOROPYRIPHOS 20 EC  200 ML MIX WITH SANDKANAL
+State: UTTARAKHAND
+District: CHAMPAWAT
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 148 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF TERMITES IN ORCHIDS
+Answer: DRENCH THE SOIL WITH CHLOROPYRIHOS 20 EC  16LITRE IN 200 LITRE OF WATERACRE
+State: UTTARAKHAND
+District: CHAMPAWAT
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 149 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 1266
+
+=== CHUNK 150 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOWING TIME OF ALOEVERA 
+Answer: SOWING TIME OF ALOEVERA IS OCT- NOV
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 151 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 152 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 153 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX 
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 154 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 155 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGRDING SHORTAGE OF DAP
+Answer: IN THIS REGRD PLEASE ASK YOUR AEO OF YOUR AREA AND WE ALSO GIVE THIS COMPLAIN TO HIGHER AUTHORITY
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 156 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 157 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: CHAMPAWAT
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 158 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 159 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR 
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 160 ===
+Query Type: Cultivation Conditions
+Question: FROM WHERE I CAN HAVE THE POPULAR TREES 
+Answer: CONTACT  LOCAL AGROFORESTRY NURSERY
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 161 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 162 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 163 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 164 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 165 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 166 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 167 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 168 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 169 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 170 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF TERMITE IN LAWN 
+Answer: DRENCH CHLOROPYRIPHOS 20EC  2ML  LITRE OF WATER
+State: UTTARAKHAND
+District: DEHRADUN
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 171 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING PLANTING DISTANCE OF ALOEVERA
+Answer: PLANTING DISTANCE 125FEET PLANT - PLANT AND 25FEET  LINE- LINE
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 172 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: DEHRADUN
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 173 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 174 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 175 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 176 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 177 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BRE ADDED TO MAKE IT ALKALINE  OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 178 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF FERTILIZER 
+Answer: SUBSIDY OF FERTILIZER IS 50
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 179 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 180 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 181 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 182 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 183 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 184 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 185 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 186 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF MITES IN HONEY BEE 
+Answer: SULPHUR DUSTING  1GM FRAME AT WEEKLY INTERVALS IS RECOMMENDED
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 187 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 188 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 189 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG 
+Answer: SPRAY GLYPHOSATE 41EC  2MLLITRE OF WATER
+State: UTTARAKHAND
+District: HARIDWAR
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 190 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BRE ADDED TO MAKE IT ALKALINE  OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 191 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 192 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 193 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 194 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOWING TIME OF ALOEVERA 
+Answer: SOWING TIME OF ALOEVERA IS OCT- NOV
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 195 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING PLANTING DISTANCE OF ALOEVERA 
+Answer: PLANTING DISTANCE 125FEET PLANT - PLANT AND 25FEET  LINE- LINE
+State: UTTARAKHAND
+District: HARIDWAR
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 196 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 197 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR 
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 198 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 199 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 200 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 201 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 202 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 203 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 204 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 205 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: USE LINDANE DUST  10 KG ACRE
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 206 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 207 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGRDING SHORTAGE OF DAP
+Answer: IN THIS REGRD PLEASE ASK YOUR AEO OF YOUR AREA AND WE ALSO GIVE THIS COMPLAIN TO HIGHER AUTHORITY
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 208 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGRDING SHORTAGE OF DAP
+Answer: IN THIS REGRD PLEASE ASK YOUR AEO OF YOUR AREA AND WE ALSO GIVE THIS COMPLAIN TO HIGHER AUTHORITY
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 209 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: NAINITAL
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 210 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: NAINITAL
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 211 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WEATHER TODAY
+Answer: FRIDAY High: 31 C  Wind WSW 10 kmh  Heat Index: 28 C  Sunday Night Clear Low: 12 C  Wind ENE 14 kmh 
+State: UTTARAKHAND
+District: NAINITAL
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 212 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 213 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 214 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BRE ADDED TO MAKE IT ALKALINE  OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 215 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGRDING SHORTAGE OF DAP
+Answer: IN THIS REGRD PLEASE ASK YOUR AEO OF YOUR AREA AND WE ALSO GIVE THIS COMPLAIN TO HIGHER AUTHORITY
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 216 ===
+Query Type: Cultivation Conditions
+Question: INFORAMTION REGARDING SUBSIDY OF TRACATOR  
+Answer: SUBSIDY OF TRACATOR  IS 25-30
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 217 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 218 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX 
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 219 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 220 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR 
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 221 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CUT WORM IN SOIL 
+Answer: BROADCAST THE CHLOROPYRIPHOS 20 EC  200 ML MIX WITH SANDKANAL
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 222 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF FERTILIZER
+Answer: SUBSIDY OF FERTILIZER IS 50
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 223 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 224 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 225 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 226 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 227 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 228 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 229 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 230 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 231 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 232 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 233 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 234 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 235 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: USE LINDANE DUST  10 KG ACRE
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 236 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: BROADCAST THE CHLOROPYRIPHOS 20 EC  200 ML MIX WITH SANDKANAL
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 237 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 238 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 239 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 240 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 241 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 242 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 243 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 244 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 245 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 246 ===
+Query Type: Cultivation Conditions
+Question: FROM WHERE I CAN HAVE THE POPULAR TREES 
+Answer: CONTACT  LOCAL AGROFORESTRY NURSERY
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 247 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 248 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 249 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BRE ADDED TO MAKE IT ALKALINE  OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 250 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: BROADCAST THE CHLOROPYRIPHOS 20 EC  200 ML MIX WITH SANDKANAL
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 251 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX 
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 252 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 253 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 254 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 255 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 256 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 257 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 258 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 259 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY 
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 260 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 261 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 262 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 263 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 264 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 265 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRANING OF VERMICULTURE
+Answer: FOR TRANING CONTACT AGRICULTURE EXTESION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 266 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGRDING SHORTAGE OF DAP
+Answer: IN THIS REGRD PLEASE ASK YOUR AEO OF YOUR AREA AND WE ALSO GIVE THIS COMPLAIN TO HIGHER AUTHORITY
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 267 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BRE ADDED TO MAKE IT ALKALINE  OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 268 ===
+Query Type: Cultivation Conditions
+Question: HOW WE CAN COLLECT SOIL SAMPLE
+Answer: COLLECT THE SOIL SAMPLE FROM ALL THE CORNER OF THE FEILD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 269 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF TERMITE IN LAWN 
+Answer: DRENCH CHLOROPYRIPHOS 20EC  2ML  LITRE OF WATER
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 270 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 271 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 272 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 273 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 274 ===
+Query Type: Cultivation Conditions
+Question: SOIL IS NOT RESPONDING PROPERLY TO THE CROPS
+Answer: GET YOUR SOIL TESTED AT NEAREST KRISHI VIGYAAN KENDRA
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 275 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 276 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 277 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 278 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 279 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 280 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: BROADCAST THE CHLOROPYRIPHOS 20 EC  200 ML MIX WITH SANDKANAL
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 281 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 282 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 283 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 284 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY 
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 285 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: USE LINDANE DUST  10 KG ACRE
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 286 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 287 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 288 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 289 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 290 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLSECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 291 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING KISSAN CREDIT CARD
+Answer: CONTACT NEAREST AGRICULTURE OFFICE
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 292 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contect in govt
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 293 ===
+Query Type: Cultivation Conditions
+Question: information regarding new plan of govt
+Answer: central ministery contact in govt
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 294 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 295 ===
+Query Type: Cultivation Conditions
+Question: SOIL IS NOT RESPONDING PROPERLY TO THE CROPS
+Answer: GET YOUR SOIL TESTED AT NEAREST KRISHI VIGYAAN KENDRA
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 296 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 297 ===
+Query Type: Cultivation Conditions
+Question: ASKED ABOUT THE EMU PRODUCTION
+Answer: GIVEN INFORMATION AS PER THE DATA
+State: ANDHRA PRADESH
+District: VIZIANAGARM
+Crop Code: 2825
+
+=== CHUNK 298 ===
+Query Type: Cultivation Conditions
+Question: ASKED ABOUT THE FARMING
+Answer: TRANSFERRED TO LEVEL  2
+State: ANDHRA PRADESH
+District: PRAKASAM
+Crop Code: 2825
+
+=== CHUNK 299 ===
+Query Type: Cultivation Conditions
+Question: chicks rearing
+Answer: recommanded data has given
+State: ANDHRA PRADESH
+District: ANANTPUR
+Crop Code: 1266
+
+=== CHUNK 300 ===
+Query Type: Cultivation Conditions
+Question: ASKED ABOUT THE RABBITS IN FARM
+Answer: TRANSFERRED TO LEVEL  2
+State: ANDHRA PRADESH
+District: Y S R 
+Crop Code: 2825
+
+=== CHUNK 301 ===
+Query Type: Cultivation Conditions
+Question: gime me information about loan finance in poultry farm
+Answer: you contect at nearest branch meniger
+State: MADHYA PRADESH
+District: RATLAM
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 302 ===
+Query Type: Cultivation Conditions
+Question: ASK ABOUT EMU
+Answer: CONTACT EMU FARMER ASSOCIATION PUNU CHICHAWAD PUNE 020-56111857
+State: MAHARASHTRA
+District: PUNE
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 303 ===
+Query Type: Cultivation Conditions
+Question: IN4MATION ON POULTRY FARMING
+Answer: GIVEN DETAILS AND REFERS TO CONTACT LIVESTOCK DEVELOPMENT OFFICER
+State: MAHARASHTRA
+District: YEVATMAL
+Crop Code: 1266
+
+=== CHUNK 304 ===
+Query Type: Cultivation Conditions
+Question: availability of banaraj chicken
+Answer: contact with nearest kvks
+State: ODISHA
+District: BALASORE
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 305 ===
+Query Type: Cultivation Conditions
+Question: farming of chicken
+Answer: answer given in detyail
+State: ODISHA
+District: CUTTACK
+Crop Code: 1266
+
+=== CHUNK 306 ===
+Query Type: Cultivation Conditions
+Question: farming of poultry
+Answer: contact to krushi sahayak kendra
+State: ODISHA
+District: GANJAM
+Crop Code: 1266
+
+=== CHUNK 307 ===
+Query Type: Cultivation Conditions
+Question: cultivation practices of poultry
+Answer: contact with block   VS
+State: ODISHA
+District: KALAHANDI
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 308 ===
+Query Type: Cultivation Conditions
+Question: cultivation practices of poultry
+Answer: contact with block veterinery sorgeon
+State: ODISHA
+District: SONEPUR
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 309 ===
+Query Type: Cultivation Conditions
+Question: making a new poultry farm
+Answer: contact with block veterinery surgeon
+State: ODISHA
+District: GAJAPATI
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 310 ===
+Query Type: Cultivation Conditions
+Question: farming of banraj poultry
+Answer: contact to nearest vetenary surgeon
+State: ODISHA
+District: KHORDHA
+Crop Code: 1266
+
+=== CHUNK 311 ===
+Query Type: Cultivation Conditions
+Question: cultivation practices of poultry
+Answer: contact with block office
+State: ODISHA
+District: JHARSUGUDA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 312 ===
+Query Type: Cultivation Conditions
+Question: INFORAMTION REGARDING TRAINING ON POLUTRY
+Answer: CONTACT PAU LUDHAINNA
+State: PUNJAB
+District: JALANDHAR
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 313 ===
+Query Type: Cultivation Conditions
+Question: Enquiry about broiler chicken farming and  Veterinary details
+Answer: TANUVAS  Regional Research Centre District Livestock Farm ComplexAndakulam Road  Pudukkottai  622 004Phone No 04322-271443
+State: TAMILNADU
+District: COIMBATORE
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 314 ===
+Query Type: Cultivation Conditions
+Question: asking about broiler chicken farming
+Answer: give on broiler chicken cultivation condition
+State: TAMILNADU
+District: VILLUPPURAM
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 315 ===
+Query Type: Cultivation Conditions
+Question: bird emu palak ka mob no de den
+Answer: gururaj singh hoshiyarpurpunjabmolno09463702303
+State: UTTAR PRADESH
+District: ETAH
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 316 ===
+Query Type: Cultivation Conditions
+Question: emu ki jankari den
+Answer: pl contact to CARI bareilly 0581-2310206
+State: UTTAR PRADESH
+District: ETAH
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 317 ===
+Query Type: Cultivation Conditions
+Question: poultry ki jankari chahiya
+Answer: contact to 0581-2300204
+State: UTTAR PRADESH
+District: BASTI
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 318 ===
+Query Type: Cultivation Conditions
+Question: poultry ki training kaha se hoti hai
+Answer: pl contact to CARI bareillyphone No0581-2310206
+State: UTTAR PRADESH
+District: FAIZABAD
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 319 ===
+Query Type: Cultivation Conditions
+Question: MURGI PALAN KI TRAINING KANHA SE MILEGI
+Answer: PLSCONTACT TO CARI-IZZAT NAGAR BAREILLYUP
+State: UTTAR PRADESH
+District: FAIZABAD
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 320 ===
+Query Type: Cultivation Conditions
+Question: japani bater ki jankari kaha se milegi
+Answer: pl contact to CARI barielly
+State: UTTAR PRADESH
+District: FIROZABAD
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 321 ===
+Query Type: Cultivation Conditions
+Question: poultry ki jankari den
+Answer: pl take trainig from CARI bareillyphone no0581-2310206
+State: UTTAR PRADESH
+District: KUSHI NAGAR
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 322 ===
+Query Type: Cultivation Conditions
+Question: ENOBIRDS KI JANKARI DEN
+Answer: Pl contact to CARIBareilly0581-2310206
+State: UTTAR PRADESH
+District: KUSHI NAGAR
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 323 ===
+Query Type: Cultivation Conditions
+Question: emu cultivation ki jankari den
+Answer: jankari de di gayipl contact to bhoop singh ganga nagarrajsthan09415315510
+State: UTTAR PRADESH
+District: SIDDHARTH NAGAR
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 324 ===
+Query Type: Cultivation Conditions
+Question: MURGI PALAN KI JANKARI KANHA SE MILEGI
+Answer: PLS CONTACT TO CARI-IZZAT NAGAR BAREILLYUP
+State: UTTAR PRADESH
+District: SANT KABIR NAGAR
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 325 ===
+Query Type: Cultivation Conditions
+Question: give information of duck cultivation
+Answer: information regarding duck cultivation givenpl contact to CARI bareilly-0581-2310206
+State: UTTAR PRADESH
+District: AMBEDKAR NAGAR
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 326 ===
+Query Type: Cultivation Conditions
+Question: CULTIVATION OF POULTRY
+Answer: ANSWER GIVEN DETAILS
+State: WEST BENGAL
+District: HOOGHLY
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 327 ===
+Query Type: Cultivation Conditions
+Question: Asking about poultry farming traning
+Answer: answer given in detials
+State: JHARKAND
+District: WEST SINGHBHUM
+Crop Code: 2825
+
+=== CHUNK 328 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 329 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 330 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY 
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 331 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 332 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 333 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 334 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 335 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 336 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 337 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 338 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 339 ===
+Query Type: Cultivation Conditions
+Question: CONTROL OF POWDERY MILDEW IN EVERGREEN PLANTS
+Answer: SPRAY WETTABLE SULPHUR  2  5 GM IN ONE LITRE OF WATER
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 340 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY 
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 341 ===
+Query Type: Cultivation Conditions
+Question: SOIL IS NOT RESPONDING PROPERLY TO THE CROPS
+Answer: SOIL IS NOT RESPONDING PROPERLY TO THE CROPS
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 342 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 343 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 344 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 345 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 346 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 347 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 2825
+
+=== CHUNK 348 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 349 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 350 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 351 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 352 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 353 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 354 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 355 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 356 ===
+Query Type: Cultivation Conditions
+Question: SOIL IS NOT RESPONDING PROPERLY TO THE CROPS
+Answer: GET YOUR SOIL TESTED AT NEAREST KRISHI VIGYAAN KENDRA
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 357 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 358 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 359 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 360 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 361 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 362 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 363 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 364 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 365 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 366 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 367 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 368 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 369 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 370 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY 
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 371 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 372 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 373 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 374 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 375 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 376 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 377 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 378 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION  REGARDING SOWING TIME OF ALOEVERA 
+Answer: SOWING TIME OF ALOEVERA IS OCT-NOV
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 379 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 380 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 381 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 382 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 383 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 384 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 385 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 386 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 387 ===
+Query Type: Cultivation Conditions
+Question: SOIL IS NOT RESPONDING PROPERLY TO THE CROPS
+Answer: GET YOUR SOIL TESTED AT NEAREST KRISHI VIGYAAN KENDRA
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 388 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 389 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 390 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 391 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 392 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 393 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 394 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 395 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 396 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 397 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 398 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 399 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 400 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 401 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 402 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 403 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 404 ===
+Query Type: Cultivation Conditions
+Question: SOIL IS NOT RESPONDING PROPERLY TO THE CROPS
+Answer: GET YOUR SOIL TESTED AT NEAREST KRISHI VIGYAAN KENDRA
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 405 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 406 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 407 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 408 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 409 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 410 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 411 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 412 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 413 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 414 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 415 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 416 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 417 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 2825
+
+=== CHUNK 418 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 419 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 420 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 421 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 422 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 423 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 424 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF WEED FROM OPEN FIELD 
+Answer: SPRAY GLYPHOSHATE 41  SL  250 ML IN 50 LITRES OF WATER PER KANAL 
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 425 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 426 ===
+Query Type: Cultivation Conditions
+Question: MURGI PALAN KI JANKARI
+Answer: PLS CONTACT TO CARI-IZZAT NAGAR BAREILLYUP
+State: UTTARAKHAND
+District: DEHRADUN
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 427 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF MITES IN HONEY BEE 
+Answer: SULPHUR DUSTING  1GM FRAME AT WEEKLY INTERVALS IS RECOMMENDED
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 428 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 429 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 430 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 431 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 432 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 433 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 434 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 435 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 436 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 437 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 438 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 439 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 440 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 441 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 442 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 443 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 444 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 445 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 446 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 447 ===
+Query Type: Cultivation Conditions
+Question: CONTROL OF POWDERY MILDEW IN EVERGREEN PLANTS
+Answer: SPRAY WETTABLE SULPHUR  2  5 GM IN ONE LITRE OF WATER
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 448 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 449 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 450 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 451 ===
+Query Type: Cultivation Conditions
+Question: SOIL IS NOT RESPONDING PROPERLY TO THE CROPS
+Answer: GET YOUR SOIL TESTED AT NEAREST KRISHI VIGYAAN KENDRA
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 452 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 453 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 454 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 455 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 456 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 457 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 458 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 459 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 460 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 461 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 462 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 463 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 464 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF CUT WORM IN SOIL
+Answer: USE LINDANE DUST  10 KG ACRE
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 2825
+
+=== CHUNK 465 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 466 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 467 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 468 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 469 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 470 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY 
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 471 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 472 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY 
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 473 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 474 ===
+Query Type: Cultivation Conditions
+Question: FARMER WANT INFORMATION ABOUT WHERE CAN GET BEE BOX
+Answer: PLEASE CONTACT PANT NAGAR
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 475 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF MITES IN HONEY BEE 
+Answer: SULPHUR DUSTING  1GM FRAME AT WEEKLY INTERVALS IS RECOMMENDED
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 476 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 477 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 478 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 479 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 480 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TRAINING OF VERMICULTURE 
+Answer: FOR TRAINING CONTACT AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 481 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: PITHORAGARH
+Crop Code: 2825
+
+=== CHUNK 482 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 483 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 484 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 485 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 486 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY 
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 487 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 488 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 489 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 490 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 491 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING TO WHOM CONTACT TO GET SUBSCIDE ON IRRIGATION PUMP SET 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAIL
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 492 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 493 ===
+Query Type: Cultivation Conditions
+Question: WHAT IS THE USE OF CEDAR WOOD OIL 
+Answer: CEDAR WOOD OIL IS A ESSANCE FIXATIVE AND CAN BE USED AGAINST SOME SKIN DISEASES AND ALSO USED IN AROMA THEREPY 
+State: UTTARAKHAND
+District: RUDRAPRAYAG
+Crop Code: 2825
+
+=== CHUNK 494 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 495 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 496 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING CONTROL OF BHANG FROM OPEN FIELD
+Answer: SPRAY GLYPHOSHATE 41  EC  250 ML IN 50 LITRES OF WATER PER KANAL
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 497 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 498 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 499 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 500 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SUBSIDY OF TRACTOR
+Answer: SUBSIDY OF TRACTOR IS 25-30
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 501 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 502 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 503 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING WHEARE I GET POULTRY TRAINING
+Answer: PLEASECONTACT TO PANT NAGAR
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 504 ===
+Query Type: Cultivation Conditions
+Question: STORAGE OF RICE 
+Answer: STORAGE OF RICE USE CELPHOS THREE TABLEST FOR ONE QUNITAL
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 505 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION ABOUT THE KISAN CREDIT CARD 
+Answer: VISIT NEAREST AGRICULTURE OFFICE AND MEET AEO FOR MORE DETAILS
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 2825
+
+=== CHUNK 506 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 507 ===
+Query Type: Cultivation Conditions
+Question: HOW  WE CAN COLLECT SOIL SAMPLE 
+Answer: COLLECT THE SOIL SAMPLES FROM ALL THE CORNER OF THE FIELD FROM THE DEPTH OF 6 INCH
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 508 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL RATS IN FIELD
+Answer: FUMIGATE LIVE BURROWS PUT TWO TABLETS OF ALUMINIUM PHOSPHIDE 06 G EACH OR 12 TABLETS OF 3GBURROW AND CLOSE THE BURROW WITH MUD
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 509 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 510 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING SOIL TEST 
+Answer: CONTACT NEAREST AGRICULTURE EXTENSION OFFICER OF YOUR BLOCK
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 511 ===
+Query Type: Cultivation Conditions
+Question: HOW TO CONTROL STORAGE PESTS IN RICE 
+Answer: APPLY CELPHOS POUCHES  1 POUCH PER 50 KG GRAIN
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 512 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 513 ===
+Query Type: Cultivation Conditions
+Question: INFORMATION REGARDING HOW TO TEST BORDEAUX MIXTURE 
+Answer: IF BLUE LITMUS TURNS RED THEN MORE LIME SHOULD BE ADDED TO MAKE IT ALKALINE OR ADD FEW DROPS OF POTASSIUM FERROCYANIDE TO BORDEAUX MIXTURE SOLUTION IN A TUBE IF NO CHANGE OCCUR THEN MIXTURE IS SAFE OTHER WISE ADD MORE LIME TO MAKE IT ALKALINE
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 514 ===
+Query Type: Cultivation Conditions
+Question: asked about poultry
+Answer: referred to vetrinary deprtment
+State: ANDHRA PRADESH
+District: GUNTUR
+Crop Code: 1266
+
+=== CHUNK 515 ===
+Query Type: Cultivation Conditions
+Question: asked about cultivation of emu birds
+Answer: infmatn is given as  per data
+State: ANDHRA PRADESH
+District: PRAKASAM
+Crop Code: 2825
+
+=== CHUNK 516 ===
+Query Type: Cultivation Conditions
+Question: VETY QWERRY
+Answer: TRANSFERED TO EXPERT
+State: ASSAM
+District: KAMRUP
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 517 ===
+Query Type: Cultivation Conditions
+Question: cultivation practices
+Answer: contact number given
+State: KARNATAKA
+District: CHITRADURGA
+Crop Code: 1266
+
+=== CHUNK 518 ===
+Query Type: Cultivation Conditions
+Question: cultivation pratices
+Answer: contact number given
+State: KARNATAKA
+District: KOLAR
+Crop Code: 1266
+
+=== CHUNK 519 ===
+Query Type: Cultivation Conditions
+Question: management practice
+Answer: contact number given IAHR state popultry pt
+State: KARNATAKA
+District: MANDYA
+Crop Code: 1266
+
+=== CHUNK 520 ===
+Query Type: Cultivation Conditions
+Question: Poultry dpt contact number
+Answer: Poultry dpt contact number is given
+State: KARNATAKA
+District: DAVANAGERE
+Crop Code: 1266
+
+=== CHUNK 521 ===
+Query Type: Cultivation Conditions
+Question: cultivation practices
+Answer: contact number given
+State: KARNATAKA
+District: KOPPAL
+Crop Code: 1266
+
+=== CHUNK 522 ===
+Query Type: Cultivation Conditions
+Question: Q Give Emu information
+Answer: To get birds for rearing contactDirector Central Avian Research InstituteIzatnagar Dist Bareilly Uttar Pradesh Pin: 243122 2AVM Hatcheries  Poultry Breeding Center Pvt Ltd 25  327 Rangai Gauder Street Coimbatore Pin: 641001 3Director Central Poultry Breeding Farm Government of India located at :Aarey colony Goregaon E Mumbai-
+State: MADHYA PRADESH
+District: EAST NIMAR
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 523 ===
+Query Type: Cultivation Conditions
+Question: How much height should be taken from surface to construct a good house for poultry 
+Answer: It should be at least 90 cm from the surface of earth
+State: MADHYA PRADESH
+District: CHHINDWARA
+Crop Code: 1266
+
+=== CHUNK 524 ===
+Query Type: Cultivation Conditions
+Question: whar is the cultivation practicces for emu bird
+Answer: given all the informatin abou EMU forming bnd given sme contact information for more detail like -Tel: 2533 7071
+State: MADHYA PRADESH
+District: RAJGARH
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 525 ===
+Query Type: Cultivation Conditions
+Question: farmer want to know about Eggs of EMU Birds
+Answer: A unique feature of EMU bird eggs is their dark green color Often female birds lay egg every 3 to 5 days When female bird lays eggs male covers them with leaves grass straw and other things available to begin the incubating process
+State: MADHYA PRADESH
+District: INDORE
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 526 ===
+Query Type: Cultivation Conditions
+Question: farmer want to know aboutb the poultry farming
+Answer: contact to 1800 180 1199
+State: MADHYA PRADESH
+District: JHABUA
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 527 ===
+Query Type: Cultivation Conditions
+Question: emu Farming 
+Answer: PLz contect  SAMIS REARING AND FARMING   91 98200 99443  or  91 98672 39443
+State: MADHYA PRADESH
+District: REWA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 528 ===
+Query Type: Cultivation Conditions
+Question: Give the information about emu farming
+Answer: You can contect Animal Welfare Board of India131 3rd Seaward Road Valmiki Nagar ThiruvanmiyurCHENNAI 600 041 Tamil NaduTel:  91 44 445 4935445 4958
+State: MADHYA PRADESH
+District: REWA
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 529 ===
+Query Type: Cultivation Conditions
+Question: About emu farming
+Answer: PLz contect SAMIS REARING AND FARMING 91 98200 99443 or 91 98672 39443
+State: MADHYA PRADESH
+District: REWA
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 530 ===
+Query Type: Cultivation Conditions
+Question: farmer want to know about poultry culture
+Answer: suggest him to contact 1800 180 1199
+State: MADHYA PRADESH
+District: CHHATARPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 531 ===
+Query Type: Cultivation Conditions
+Question: farmer want to know about poultry 
+Answer: given contact no of NDRI 1800 180 1199
+State: MADHYA PRADESH
+District: CHHATARPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 532 ===
+Query Type: Cultivation Conditions
+Question: poultry cultivation
+Answer: contact block office
+State: ODISHA
+District: SUNDARGARH
+Crop Code: 1266
+
+=== CHUNK 533 ===
+Query Type: Cultivation Conditions
+Question: BROILER CULTIVATION
+Answer: CONTACT TO VETERINARY SURGEON
+State: ODISHA
+District: JAJAPUR
+Crop Code: 1266
+
+=== CHUNK 534 ===
+Query Type: Cultivation Conditions
+Question: currey leaf cultivation practices
+Answer: explain the cultivation practices
+State: TAMILNADU
+District: KANCHEEPURAM
+Season: JAYAD
+Crop Code: Curry Leaf
+
+=== CHUNK 535 ===
+Query Type: Cultivation Conditions
+Question: detail for turkey chicks
+Answer: contact to Hosur livestock farm 04344-262632
+State: TAMILNADU
+District: COIMBATORE
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 536 ===
+Query Type: Cultivation Conditions
+Question: emu palan ki jankari
+Answer: given detail by kcc expert
+State: UTTAR PRADESH
+District: MUZAFFARNAGAR
+Crop Code: 2825
+
+=== CHUNK 537 ===
+Query Type: Cultivation Conditions
+Question: MURGI PALAN KE SAMBANDH ME BATAY
+Answer: MURGI PALAN KE SAMBANDH PROPER JANKARI DI GAI
+State: UTTAR PRADESH
+District: MUZAFFARNAGAR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 538 ===
+Query Type: Cultivation Conditions
+Question: emu palan ke baare me bataye
+Answer: proper jaankari de  gayi
+State: UTTAR PRADESH
+District: MEERUT
+Crop Code: 2825
+
+=== CHUNK 539 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke sambandh me jankari de
+Answer: murgi palaan ke sambandh me proper jankari di gai
+State: UTTAR PRADESH
+District: BULANDSHAHAR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 540 ===
+Query Type: Cultivation Conditions
+Question: murgi palan karna hai
+Answer: give full query of poultry 
+State: UTTAR PRADESH
+District: FARRUKHABAD
+Crop Code: 1266
+
+=== CHUNK 541 ===
+Query Type: Cultivation Conditions
+Question: emu palan karna hai
+Answer: give full query of emu palan
+State: UTTAR PRADESH
+District: FATEHPUR
+Crop Code: 2825
+
+=== CHUNK 542 ===
+Query Type: Cultivation Conditions
+Question: murgi pala karna hai
+Answer: give full query of murgi palan
+State: UTTAR PRADESH
+District: BANDA
+Crop Code: 1266
+
+=== CHUNK 543 ===
+Query Type: Cultivation Conditions
+Question: emu palan karna hai
+Answer: give full query of emu palan
+State: UTTAR PRADESH
+District: MIRZAPUR
+Crop Code: 2825
+
+=== CHUNK 544 ===
+Query Type: Cultivation Conditions
+Question: amu palan ke bare me jankari de
+Answer: propper jankari dey de gayi hai
+State: UTTAR PRADESH
+District: BALLIA
+Crop Code: 2825
+
+=== CHUNK 545 ===
+Query Type: Cultivation Conditions
+Question: emu palan ke baare me bataye
+Answer: proper jankaari de gayi
+State: UTTAR PRADESH
+District: GORAKHPUR
+Crop Code: 2825
+
+=== CHUNK 546 ===
+Query Type: Cultivation Conditions
+Question: emu palan karna hai
+Answer: give full query of emu
+State: UTTAR PRADESH
+District: DEORIA
+Crop Code: 2825
+
+=== CHUNK 547 ===
+Query Type: Cultivation Conditions
+Question: what proses of duck  farming 
+Answer: pleas contect kvk unnao
+State: UTTAR PRADESH
+District: UNNAO
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 548 ===
+Query Type: Cultivation Conditions
+Question: emu palan ke baare me bataye
+Answer: proper jaankari de gayi
+State: UTTAR PRADESH
+District: HATHRAS
+Crop Code: 2825
+
+=== CHUNK 549 ===
+Query Type: Cultivation Conditions
+Question: poultry farm ke bare me batay
+Answer: nasdeek ke KVK SE SAMPERK KARE
+State: UTTAR PRADESH
+District: CHITRAKOOT
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 550 ===
+Query Type: Cultivation Conditions
+Question: emu palan karna hai
+Answer: give full query of emu palan
+State: UTTAR PRADESH
+District: SANT RAVIDAS NAGAR BHADOHI
+Crop Code: 2825
+
+=== CHUNK 551 ===
+Query Type: Cultivation Conditions
+Question: About amoo palan
+Answer: Tele consultancies through helpline No 0581-2311111
+State: UTTAR PRADESH
+District: KUSHI NAGAR
+Crop Code: 2825
+
+=== CHUNK 552 ===
+Query Type: Cultivation Conditions
+Question: ASKED ABOUT CULTIVATION CONDITION OF DUCK
+Answer: ANSWER GEVIN IN DETAIL
+State: WEST BENGAL
+District: BIRBHUM
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 553 ===
+Query Type: Cultivation Conditions
+Question: information about rabbit farming
+Answer: provide all information about rabbit farming
+State: CHHATTISGARH
+District: RAIPUR
+Season: RABI
+Crop Code: 2825
+
+=== CHUNK 554 ===
+Query Type: Cultivation Conditions
+Question: About Emu farming 
+Answer: SAMIS REARING AND FARMING UNDER NATIONAL EMU ASSOCATION REARING FARMING AND WELFARE OF ANIMAL RESARCH  91 98200 99443  or  91 98672 39443
+State: CHHATTISGARH
+District: MAHASAMUND
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 555 ===
+Query Type: Cultivation Conditions
+Question: about poultry production 
+Answer: Plz contect to nearest poultry farm and poultry breeds are Broad Breasted Bronze Broad Breasted Large White and Beltsville Small White varieties
+State: CHHATTISGARH
+District: JANJGIR-CHAMPA
+Season: RABI
+Crop Code: 1266
+
+=== CHUNK 556 ===
+Query Type: Cultivation Conditions
+Question: poultry farming karna hai
+Answer: DD animal husbendray se contract kare
+State: CHHATTISGARH
+District: JANJGIR-CHAMPA
+Crop Code: 1266
+
+=== CHUNK 557 ===
+Query Type: Cultivation Conditions
+Question: Cultivation of poultry 
+Answer: PLZ visit your district poultry house
+State: CHHATTISGARH
+District: SURGUJA
+Season: JAYAD
+Crop Code: 1266
+
+=== CHUNK 558 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke bare me bataye
+Answer: proper jankari de gayi
+State: UTTARAKHAND
+District: ALMORA
+Crop Code: 1266
+
+=== CHUNK 559 ===
+Query Type: Cultivation Conditions
+Question: Information regarding to distance between popular plant 
+Answer: Apply  Distance between popular plant  10 10 meter 
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 2825
+
+=== CHUNK 560 ===
+Query Type: Cultivation Conditions
+Question: emu palan ke baare me bataye
+Answer: proper jaankari de gayi
+State: UTTARAKHAND
+District: CHAMOLI
+Crop Code: 2825
+
+=== CHUNK 561 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ki jankari dai
+Answer: proper jankari dai dee gai
+State: UTTARAKHAND
+District: CHAMPAWAT
+Crop Code: 1266
+
+=== CHUNK 562 ===
+Query Type: Cultivation Conditions
+Question: battakh palan ke baare me bataye
+Answer: proper jaankari de gayi
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 563 ===
+Query Type: Cultivation Conditions
+Question: emu palan ke baare me bataye
+Answer: proper jaankari de gayi
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 564 ===
+Query Type: Cultivation Conditions
+Question: emu palan ke baare me bataye
+Answer: proper jaankari de gayi
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 565 ===
+Query Type: Cultivation Conditions
+Question: emu palan ke bare me bataye
+Answer: proper jaankari de gayi
+State: UTTARAKHAND
+District: DEHRADUN
+Crop Code: 2825
+
+=== CHUNK 566 ===
+Query Type: Cultivation Conditions
+Question: khet banjar hai kai saal se kuch bhi nahi hota hai kya kare
+Answer: krishi baniki apnayee ausidhi paudhee ki kheti kare
+State: UTTARAKHAND
+District: HARIDWAR
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 567 ===
+Query Type: Cultivation Conditions
+Question: emo palan ki jankari dai
+Answer: proper jankari dai dee gai
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 568 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke baare me bataye
+Answer: proper jaankari de gayi
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 1266
+
+=== CHUNK 569 ===
+Query Type: Cultivation Conditions
+Question: Emu palan ke bare me jankari de
+Answer: propper jankari de dy gayi hai
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 2825
+
+=== CHUNK 570 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke bare me bataye
+Answer: proper jankari de gayi
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 1266
+
+=== CHUNK 571 ===
+Query Type: Cultivation Conditions
+Question: 1 acre mai tricoderma kitna parega
+Answer: Apply 3 kg of Trichoderma viridae along with 25 kg compost per acre
+State: UTTARAKHAND
+District: NAINITAL
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 572 ===
+Query Type: Cultivation Conditions
+Question: barseem ke uper ke gobh ko kat rahi hai kya kare
+Answer: DHAN MAI SAINIK KIT LAGNE PAR VASSILUS THIURIJIENSIS 05-100 KGHA KI DAR SE SPRAY KARE YA DICLOROVAS 76 EC 05 LT HA KI DA SE SPRAY KARE
+State: UTTARAKHAND
+District: PITHORAGARH
+Season: JAYAD
+Crop Code: 2825
+
+=== CHUNK 573 ===
+Query Type: Cultivation Conditions
+Question: emau palan ke bare me jankare de
+Answer: propper jankare de dy gayi hai
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 2825
+
+=== CHUNK 574 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke bare me bataye
+Answer: proper jankari de gayi
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Crop Code: 1266
+
+=== CHUNK 575 ===
+Query Type: Cultivation Conditions
+Question: asked about giriraja cultivation practices
+Answer: given him cultivation practices
+State: ANDHRA PRADESH
+District: PRAKASAM
+Crop Code: 2825
+
+=== CHUNK 576 ===
+Query Type: Cultivation Conditions
+Question: information regarding for disease of poltary
+Answer: contect no18001808006 for for disease of poltary
+State: HIMACHAL PRADESH
+District: SIRMAUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 577 ===
+Query Type: Cultivation Conditions
+Question: cultivation condition
+Answer: provide all information
+State: MAHARASHTRA
+District: JALGAON
+Crop Code: 1266
+
+=== CHUNK 578 ===
+Query Type: Cultivation Conditions
+Question: poultry farming
+Answer: provide all information
+State: MAHARASHTRA
+District: AURANGABAD
+Crop Code: 2825
+
+=== CHUNK 579 ===
+Query Type: Cultivation Conditions
+Question: murgi palan  ko batay
+Answer: amber kvk se samperk kare
+State: UTTAR PRADESH
+District: SITAPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 580 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke bare me batay
+Answer: proper jankari di gai
+State: UTTAR PRADESH
+District: SULTANPUR
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 581 ===
+Query Type: Cultivation Conditions
+Question: ASKED ABOUT POULTRY FARMING
+Answer: EXPLAIN ALL AND ADVICE TO CONTACT WITH VSFOR TRAINING
+State: WEST BENGAL
+District: JALPAIGURI
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 582 ===
+Query Type: Cultivation Conditions
+Question: CULTIVATION PRACTICE OF CHICKEN
+Answer: ANSWER GIVE IN DETAIL
+State: WEST BENGAL
+District: HOOGHLY
+Season: KHARIF
+Crop Code: 1266
+
+=== CHUNK 583 ===
+Query Type: Cultivation Conditions
+Question: WANT TO KNOW ABOUT EMU CULTIVATION
+Answer: ADVICE TO CONTACT BLOCK VETERINARY DEPT
+State: WEST BENGAL
+District: WEST MEDINIPUR
+Season: KHARIF
+Crop Code: 2825
+
+=== CHUNK 584 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke bare me bataye
+Answer: proper jaankari de gayi
+State: UTTARAKHAND
+District: BAGESHWAR
+Crop Code: 1266
+
+=== CHUNK 585 ===
+Query Type: Cultivation Conditions
+Question: kakut palan ki jankari dai dai dee gai
+Answer: proper jankari dai dee gai
+State: UTTARAKHAND
+District: HARIDWAR
+Crop Code: 1266
+
+=== CHUNK 586 ===
+Query Type: Cultivation Conditions
+Question: kaukat palan ki jankari dai
+Answer: proper jankari dai dee gai
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 1266
+
+=== CHUNK 587 ===
+Query Type: Cultivation Conditions
+Question: murgi ke bacche kaha se milenge
+Answer: GB Pant University of Agriculture and Technology Pantnagar se sampark kare
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 1266
+
+=== CHUNK 588 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke bare me bataye
+Answer: proper jaankari de gayi
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 1266
+
+=== CHUNK 589 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke bare mai jankari  de
+Answer: proper jankari di gayi
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 1266
+
+=== CHUNK 590 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke bare me bataye
+Answer: proper jaankari de gayi
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 1266
+
+=== CHUNK 591 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ke bare mai jankari  de
+Answer: proper jankari di gayi
+State: UTTARAKHAND
+District: NAINITAL
+Crop Code: 1266
+
+=== CHUNK 592 ===
+Query Type: Cultivation Conditions
+Question: murgi palan ki jankari dai
+Answer: properjankari dai dee gai
+State: UTTARAKHAND
+District: TEHRI GARWAL
+Crop Code: 1266
+

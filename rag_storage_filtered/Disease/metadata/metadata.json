@@ -1,0 +1,2212 @@
+[
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "season": "JAYAD",
+    "year": "2009",
+    "crop_code": "1266",
+    "original_index": 0
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "PURI",
+    "season": "KHARIF",
+    "year": "2009",
+    "crop_code": "1266",
+    "original_index": 1
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "RAJASTHAN",
+    "district": "HANUMANGARH",
+    "season": "nan",
+    "year": "2009",
+    "crop_code": "1266",
+    "original_index": 2
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "WEST TRIPURA",
+    "season": "nan",
+    "year": "2009",
+    "crop_code": "1266",
+    "original_index": 3
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "SOUTH TRIPURA",
+    "season": "nan",
+    "year": "2009",
+    "crop_code": "1266",
+    "original_index": 4
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "JYOTIBA PHULE NAGAR",
+    "season": "KHARIF",
+    "year": "2009",
+    "crop_code": "2825",
+    "original_index": 5
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "KHARIF",
+    "year": "2009",
+    "crop_code": "2825",
+    "original_index": 6
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "KHARIF",
+    "year": "2009",
+    "crop_code": "1266",
+    "original_index": 7
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "KAMRUP",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 8
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "GUJARAT",
+    "district": "Mehsana",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 9
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "GUJARAT",
+    "district": "Mehsana",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 10
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "GUJARAT",
+    "district": "Mehsana",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 11
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "JAMMU AND KASHMIR",
+    "district": "PULWAMA",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 12
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "JAMMU AND KASHMIR",
+    "district": "GANDERBAL",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 13
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MAHARASHTRA",
+    "district": "JALNA",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 14
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MAHARASHTRA",
+    "district": "BHANDARA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 15
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BALANGIR",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 16
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BALANGIR",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 17
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "CUTTACK",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 18
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "GANJAM",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 19
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "KALAHANDI",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 20
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "KEONJHAR",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 21
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "MAYURBHANJ",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 22
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "PURI",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 23
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "SAMBALPUR",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 24
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "SAMBALPUR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 25
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "SUNDARGARH",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 26
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BHADRAK",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 27
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BHADRAK",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 28
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BHADRAK",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 29
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "SONEPUR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 30
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "JAGATSINGHAPUR",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 31
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "RAYAGADA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 32
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BAUDH",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 33
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BARGARH",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 34
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BARGARH",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 35
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "RAJASTHAN",
+    "district": "JHUNJHUNU",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 36
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "RAJASTHAN",
+    "district": "JHUNJHUNU",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 37
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "COIMBATORE",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 38
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "TIRUNELVELI",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 39
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "WEST TRIPURA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 40
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "WEST TRIPURA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 41
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "WEST TRIPURA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 42
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "WEST TRIPURA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 43
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "SOUTH TRIPURA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 44
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "PILIBHIT",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 45
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "PILIBHIT",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 46
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "LALITPUR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 47
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "JALAUN",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 48
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "MIRZAPUR",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 49
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "JAUNPUR",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 50
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "GORAKHPUR",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 51
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "DEORIA",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 52
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "LUCKNOW",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 53
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "JYOTIBA PHULE NAGAR",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 54
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "SONBHADRA",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 55
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "SONBHADRA",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 56
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "SANT RAVIDAS NAGAR BHADOHI",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 57
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "MAU",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 58
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "MAU",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 59
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "KUSHI NAGAR",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 60
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "AMBEDKAR NAGAR",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 61
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "WEST BENGAL",
+    "district": "MALDAH",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 62
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "WEST BENGAL",
+    "district": "MURSHIDABAD",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 63
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "WEST BENGAL",
+    "district": "BARDDHAMAN",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 64
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "WEST BENGAL",
+    "district": "EAST MEDINIPUR",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 65
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "SIKKIM",
+    "district": "SOUTH DISTRICT",
+    "season": "nan",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 66
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "CHHATTISGARH",
+    "district": "UTTAR BASTAR KANKER",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 67
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "BAGESHWAR",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 68
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 69
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "RABI",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 70
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 71
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 72
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 73
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "JAYAD",
+    "year": "2010",
+    "crop_code": "1266",
+    "original_index": 74
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "PITHORAGARH",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 75
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "KHARIF",
+    "year": "2010",
+    "crop_code": "2825",
+    "original_index": 76
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "GOALPARA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 77
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "DHUBRI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 78
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "DHUBRI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 79
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "DHUBRI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 80
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "DHUBRI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 81
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "DHUBRI",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 82
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "KAMRUP",
+    "season": "JAYAD",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 83
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "DIBRUGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 84
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "JAMMU AND KASHMIR",
+    "district": "UDHAMPUR",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 85
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "MAYURBHANJ",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 86
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "JAJAPUR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 87
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "JAJAPUR",
+    "season": "JAYAD",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 88
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BAUDH",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 89
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "KHORDHA",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 90
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "PUNJAB",
+    "district": "AMRITSAR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1324",
+    "original_index": 91
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "SOUTH TRIPURA",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 92
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "BULANDSHAHAR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 93
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "ALLAHABAD",
+    "season": "JAYAD",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 94
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "MIRZAPUR",
+    "season": "JAYAD",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 95
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIPUR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 96
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "GORAKHPUR",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 97
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "GORAKHPUR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 98
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "BASTI",
+    "season": "JAYAD",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 99
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "AZAMGARH",
+    "season": "nan",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 100
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "UNNAO",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 101
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "GONDA",
+    "season": "JAYAD",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 102
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "SULTANPUR",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 103
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "MAU",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 104
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "MAHARAHGANJ",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 105
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "KUSHI NAGAR",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "2825",
+    "original_index": 106
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "KUSHI NAGAR",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 107
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "BALRAMPUR",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 108
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "WEST BENGAL",
+    "district": "BIRBHUM",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 109
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "CHHATTISGARH",
+    "district": "DURG",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1279",
+    "original_index": 110
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "CHHATTISGARH",
+    "district": "UTTAR BASTAR KANKER",
+    "season": "KHARIF",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 111
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "CHAMPAWAT",
+    "season": "RABI",
+    "year": "2011",
+    "crop_code": "1266",
+    "original_index": 112
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 113
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ANDHRA PRADESH",
+    "district": "KRISHNA",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 114
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ANDHRA PRADESH",
+    "district": "NELLORE",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 115
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "NAGAON",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 116
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "JORHAT",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 117
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "LAKHIMPUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 118
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "DIBRUGARH",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 119
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "GOLAGHAT",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 120
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "GOLAGHAT",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 121
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "GOLAGHAT",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 122
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "GOLAGHAT",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 123
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "DHEMAJI",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 124
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "TINSUKIA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 125
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "BIHAR",
+    "district": "DARBHANGA",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 126
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "GUJARAT",
+    "district": "BANAS KANTHA",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 127
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "JAMMU AND KASHMIR",
+    "district": "BARAMULLA",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 128
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "JAMMU AND KASHMIR",
+    "district": "BARAMULLA",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 129
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "JAMMU AND KASHMIR",
+    "district": "JAMMU",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 130
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 131
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "KERALA",
+    "district": "ERNAKULAM",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 132
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "KERALA",
+    "district": "THRISSUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 133
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 134
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "KERALA",
+    "district": "KOZHIKODE",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 135
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "KERALA",
+    "district": "KASARGOD",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 136
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "KERALA",
+    "district": "KOLLAM",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 137
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "KERALA",
+    "district": "KOLLAM",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 138
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MADHYA PRADESH",
+    "district": "BALAGHAT",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 139
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MADHYA PRADESH",
+    "district": "SEONI",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 140
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MADHYA PRADESH",
+    "district": "CHHATARPUR",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 141
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MAHARASHTRA",
+    "district": "BHANDARA",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 142
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MEGHALAYA",
+    "district": "EAST JAINTA HILLS",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 143
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BALANGIR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 144
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BALANGIR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 145
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BALANGIR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 146
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BALANGIR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 147
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BALANGIR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 148
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BALANGIR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 149
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "DHENKANAL",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 150
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "BARGARH",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 151
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "PUNJAB",
+    "district": "LUDHIANA",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 152
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "CUDDALORE",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 153
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "VELLORE",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 154
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "VELLORE",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 155
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "SALEM",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 156
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "COIMBATORE",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 157
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "ERODE",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 158
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "MADURAI",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 159
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "MADURAI",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 160
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "MADURAI",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 161
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "TIRUNELVELI",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 162
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "NAMAKKAL",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 163
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "NAMAKKAL",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 164
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "ARIYALUR",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 165
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "WEST TRIPURA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 166
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "WEST TRIPURA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 167
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TRIPURA",
+    "district": "NORTH TRIPURA",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 168
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "ALLAHABAD",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 169
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "JHANSI",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 170
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "VARANASI",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 171
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "MIRZAPUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 172
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "MIRZAPUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 173
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIPUR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 174
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "AZAMGARH",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 175
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "FAIZABAD",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 176
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "FAIZABAD",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 177
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "GONDA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 178
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "SANT RAVIDAS NAGAR BHADOHI",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 179
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "WEST BENGAL",
+    "district": "HOOGHLY",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 180
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "WEST BENGAL",
+    "district": "BARDDHAMAN",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 181
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "CHHATTISGARH",
+    "district": "SURGUJA",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 182
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 183
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "ALMORA",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 184
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "CHAMOLI",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 185
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 186
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 187
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "HARIDWAR",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 188
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "NAINITAL",
+    "season": "KHARIF",
+    "year": "2012",
+    "crop_code": "1266",
+    "original_index": 189
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "RUDRAPRAYAG",
+    "season": "JAYAD",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 190
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "TEHRI GARWAL",
+    "season": "nan",
+    "year": "2012",
+    "crop_code": "2825",
+    "original_index": 191
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "DIBRUGARH",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 192
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "KARBI-ANGLONG",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 193
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ASSAM",
+    "district": "TINSUKIA",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 194
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "GUJARAT",
+    "district": "SURAT",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 195
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MADHYA PRADESH",
+    "district": "REWA",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 196
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MAHARASHTRA",
+    "district": "DHULE",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 197
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MAHARASHTRA",
+    "district": "PUNE",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 198
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "MAHARASHTRA",
+    "district": "LATUR",
+    "season": "RABI",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 199
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "JAJAPUR",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 200
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "ODISHA",
+    "district": "KENDRAPARA",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 201
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "KANCHEEPURAM",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 202
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "VELLORE",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 203
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "SALEM",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 204
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "DHARMAPURI",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 205
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "ERODE",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 206
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "THANJAVUR",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 207
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "MADURAI",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 208
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "TIRUNELVELI",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 209
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "THIRUVALLUR",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 210
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "THENI",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 211
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "TAMILNADU",
+    "district": "ARIYALUR",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 212
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "VARANASI",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 213
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTAR PRADESH",
+    "district": "SANT KABIR NAGAR",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 214
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "WEST BENGAL",
+    "district": "EAST MEDINIPUR",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 215
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "CHHATTISGARH",
+    "district": "RAIPUR",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 216
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "CHHATTISGARH",
+    "district": "SURGUJA",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 217
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "JHARKAND",
+    "district": "LOHARDAGA",
+    "season": "KHARIF",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 218
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 219
+  },
+  {
+    "source": "filtered_datasets\\QueryType_Disease_dataset.csv",
+    "query_type": "Disease",
+    "state": "UTTARAKHAND",
+    "district": "DEHRADUN",
+    "season": "nan",
+    "year": "2013",
+    "crop_code": "1266",
+    "original_index": 220
+  }
+]
