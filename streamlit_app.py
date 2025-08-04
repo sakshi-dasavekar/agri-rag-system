@@ -4,6 +4,7 @@ Agricultural RAG System - Streamlit Web Interface (Deployment Ready)
 
 A user-friendly web interface for the agricultural RAG system.
 Optimized for deployment on Streamlit Cloud, Heroku, or other platforms.
+Supports both UI mode and API mode for external frontend integration.
 """
 
 import streamlit as st
@@ -98,6 +99,17 @@ def load_rag_system():
     # Load environment variables
     groq_api_key = os.getenv("GROQ_API_KEY")
     
+    # Debug information
+    st.write(f"🔍 Debug: API key found: {'Yes' if groq_api_key else 'No'}")
+    if groq_api_key:
+        st.write(f"🔍 Debug: API key starts with: {groq_api_key[:10]}...")
+    
+    # Temporary fallback for testing (remove this after fixing secrets)
+    if not groq_api_key:
+        st.warning("⚠️ Trying fallback API key for testing...")
+        groq_api_key = "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"
+        st.success("✅ Using fallback API key")
+    
     if not groq_api_key:
         st.error("❌ Groq API key not found. Please set GROQ_API_KEY environment variable.")
         st.info("💡 For local development, create a .env file with your GROQ_API_KEY")
@@ -189,12 +201,202 @@ def load_rag_system():
         st.error(f"❌ Error loading RAG system: {e}")
         return None
 
+def load_rag_system_api():
+    """Load the RAG system for API mode (no UI functions)"""
+    
+    # Load environment variables
+    groq_api_key = os.getenv("GROQ_API_KEY")
+    
+    # Temporary fallback for testing (remove this after fixing secrets)
+    if not groq_api_key:
+        groq_api_key = "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"
+    
+    if not groq_api_key:
+        return None
+    
+    try:
+        # Load all available vector stores
+        all_vectorstores = []
+        dataset_folders = glob.glob("rag_storage_filtered/*")
+        
+        if not dataset_folders:
+            return None
+        
+        embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+        
+        loaded_datasets = []
+        total_vectors = 0
+        
+        for folder in dataset_folders:
+            dataset_name = os.path.basename(folder)
+            embeddings_path = os.path.join(folder, "embeddings")
+            
+            if os.path.exists(embeddings_path):
+                try:
+                    vectorstore = FAISS.load_local(embeddings_path, embeddings, allow_dangerous_deserialization=True)
+                    all_vectorstores.append((dataset_name, vectorstore))
+                    loaded_datasets.append(dataset_name)
+                    total_vectors += vectorstore.index.ntotal
+                except Exception as e:
+                    continue
+        
+        if not all_vectorstores:
+            return None
+        
+        # Create combined retriever
+        class CombinedRetriever(BaseRetriever):
+            vectorstores: list
+            
+            def _get_relevant_documents(self, query, *, runnable_manager=None):
+                all_docs = []
+                for dataset_name, vectorstore in self.vectorstores:
+                    docs = vectorstore.similarity_search(query, k=5)
+                    for doc in docs:
+                        doc.metadata['dataset'] = dataset_name
+                    all_docs.extend(docs)
+                
+                # Sort by relevance and return top 5
+                return all_docs[:5]
+        
+        combined_retriever = CombinedRetriever(vectorstores=all_vectorstores)
+        
+        # Initialize LLM
+        llm = ChatGroq(temperature=0, model_name="llama3-70b-8192", api_key=groq_api_key)
+        
+        # Create retrieval chain
+        agricultural_prompt_template = """
+        You are an expert agricultural advisor with deep knowledge of crop production, farming practices, disease management, and agricultural technologies. 
+        Answer the following question based only on the provided agricultural knowledge base:
+
+        Context:
+        {context}
+
+        Question: {input}
+
+        Provide a comprehensive, practical answer that includes:
+        - Specific recommendations based on the context
+        - Any relevant location-specific information (state/district)
+        - Seasonal considerations if mentioned
+        - Practical steps or solutions
+        - Mention which dataset the information comes from
+
+        Answer:
+        """
+        
+        prompt = ChatPromptTemplate.from_template(agricultural_prompt_template)
+        document_chain = create_stuff_documents_chain(llm, prompt)
+        retrieval_chain = create_retrieval_chain(combined_retriever, document_chain)
+        
+        return {
+            'chain': retrieval_chain,
+            'datasets': loaded_datasets,
+            'total_vectors': total_vectors
+        }
+        
+    except Exception as e:
+        return None
+
+def handle_api_request(user_input, rag_system):
+    """Handle API requests and return JSON response"""
+    try:
+        if not user_input or not user_input.strip():
+            return {
+                "error": "Missing 'input' parameter",
+                "status": "error",
+                "message": "Please provide a question in the 'input' parameter"
+            }
+        
+        # Get response from RAG system
+        response = rag_system['chain'].invoke({"input": user_input})
+        answer = response["answer"]
+        
+        # Extract datasets used from the answer
+        datasets_used = []
+        for dataset in rag_system['datasets']:
+            if dataset.lower() in answer.lower():
+                datasets_used.append(dataset)
+        
+        return {
+            "reply": answer,
+            "status": "success",
+            "datasets_used": datasets_used,
+            "total_datasets_available": len(rag_system['datasets']),
+            "total_vectors": rag_system['total_vectors']
+        }
+        
+    except Exception as e:
+        return {
+            "error": f"Error processing request: {str(e)}",
+            "status": "error",
+            "message": "An error occurred while processing your question"
+        }
+
 def main():
     """Main Streamlit application"""
     
+    # Check if this is an API request
+    query_params = st.experimental_get_query_params()
+    user_input = query_params.get("input", [None])[0]
+    
+    # If API request, handle it and return JSON
+    if user_input:
+        # Load RAG system for API mode
+        rag_system = load_rag_system_api()
+        
+        if rag_system is None:
+            result = {
+                "error": "RAG system not available",
+                "status": "error",
+                "message": "The agricultural knowledge base is not loaded"
+            }
+        else:
+            result = handle_api_request(user_input, rag_system)
+        
+        # Output only raw JSON text (no Streamlit UI)
+        st.markdown(
+            f"""
+            <pre>{json.dumps(result, indent=2)}</pre>
+            <script>
+            const output = document.querySelector('pre');
+            if (output) {{
+                document.body.innerText = output.innerText;
+            }}
+            </script>
+            """,
+            unsafe_allow_html=True
+        )
+        return
+    
+    # Regular UI mode - continue with normal interface
     # Header
     st.markdown('<h1 class="main-header">🌾 Agricultural Expert System</h1>', unsafe_allow_html=True)
     st.markdown('<p style="text-align: center; font-size: 1.2rem; color: #666;">Your AI-powered agricultural advisor</p>', unsafe_allow_html=True)
+    
+    # API usage info
+    with st.expander("🔗 API Usage", expanded=False):
+        st.markdown("""
+        ### API Endpoint
+        You can also use this system as an API by calling:
+        ```
+        https://your-app.streamlit.app/?input=Your question here
+        ```
+        
+        ### Example API Call
+        ```
+        https://your-app.streamlit.app/?input=How to control Ranikhet disease in poultry?
+        ```
+        
+        ### JSON Response Format
+        ```json
+        {
+          "reply": "Based on the agricultural knowledge base...",
+          "status": "success",
+          "datasets_used": ["Disease Management", "Feed"],
+          "total_datasets_available": 8,
+          "total_vectors": 15000
+        }
+        ```
+        """)
     
     # Load RAG system
     with st.spinner("🔄 Loading Agricultural Expert System..."):
