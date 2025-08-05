@@ -235,7 +235,21 @@ def main():
     
     # Check if this is an API request
     query_params = st.query_params
-    user_input = query_params.get("input", [None])[0]
+    
+    # Try different ways to get the input parameter
+    user_input = None
+    
+    # Method 1: Try direct access
+    if "input" in query_params:
+        user_input = query_params["input"]
+        if isinstance(user_input, list):
+            user_input = user_input[0] if user_input else None
+    
+    # Method 2: Try get method
+    if not user_input:
+        user_input = query_params.get("input")
+        if isinstance(user_input, list):
+            user_input = user_input[0] if user_input else None
     
     # Debug: Show what we received
     st.write(f"Raw query params: {query_params}")
