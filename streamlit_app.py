@@ -208,19 +208,25 @@ def handle_api_request(user_input, rag_system):
             if dataset.lower() in answer.lower():
                 datasets_used.append(dataset)
         
-        return {
+        # Create the complete result object
+        result = {
             "reply": answer,
             "status": "success",
             "datasets_used": datasets_used,
             "total_datasets_available": len(rag_system['datasets']),
-            "total_vectors": rag_system['total_vectors']
+            "total_vectors": rag_system['total_vectors'],
+            "query": user_input,
+            "timestamp": "2024-01-01T00:00:00Z"  # Add timestamp for API completeness
         }
+        
+        return result
         
     except Exception as e:
         return {
             "error": f"Error processing request: {str(e)}",
             "status": "error",
-            "message": "An error occurred while processing your question"
+            "message": "An error occurred while processing your question",
+            "query": user_input
         }
 
 def main():
@@ -239,10 +245,15 @@ def main():
             result = {
                 "error": "RAG system not available",
                 "status": "error",
-                "message": "The agricultural knowledge base is not loaded"
+                "message": "The agricultural knowledge base is not loaded",
+                "query": user_input
             }
         else:
             result = handle_api_request(user_input, rag_system)
+        
+        # Debug: Print the result structure
+        st.write("DEBUG - Result structure:")
+        st.write(result)
         
         # Return pure JSON response
         st.json(result)
