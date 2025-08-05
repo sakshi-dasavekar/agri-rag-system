@@ -46,3 +46,7 @@ fsspec>=2023.5.0
 
 # Optional: For better performance
 accelerate>=0.20.0 
+
+# FastAPI and Web Server
+fastapi>=0.116.0
+uvicorn>=0.35.0
