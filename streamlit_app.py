@@ -3,6 +3,7 @@ import os
 import glob
 import json
 import sys
+import urllib.parse
 from pathlib import Path
 
 # Add current directory to Python path for imports
@@ -236,8 +237,19 @@ def main():
     query_params = st.query_params
     user_input = query_params.get("input", [None])[0]
     
+    # Debug: Show what we received
+    st.write(f"Raw query params: {query_params}")
+    st.write(f"Raw user_input: {user_input}")
+    
     # If API request, handle it and return JSON
     if user_input:
+        # URL decode the input
+        try:
+            user_input = urllib.parse.unquote(user_input)
+            st.write(f"Decoded user_input: {user_input}")
+        except Exception as e:
+            st.write(f"Error decoding: {e}")
+        
         # Load RAG system for API mode
         rag_system = load_rag_system()
         
