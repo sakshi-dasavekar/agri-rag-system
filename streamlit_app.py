@@ -1,22 +1,9 @@
-#!/usr/bin/env python3
-"""
-Agricultural RAG System - Streamlit Web Interface with API Endpoints
-Deployment Ready for Cross-Platform Communication
-
-This version exposes HTTP endpoints that can be called by FastAPI deployed on different platforms.
-"""
-
 import streamlit as st
 import os
 import glob
 import json
 import sys
 from pathlib import Path
-from fastapi import FastAPI, HTTPException
-from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
-import uvicorn
-from contextlib import asynccontextmanager
 
 # Add current directory to Python path for imports
 sys.path.append(str(Path(__file__).parent))
@@ -34,96 +21,65 @@ try:
     from langchain_huggingface import HuggingFaceEmbeddings
     from langchain_community.vectorstores import FAISS
     from langchain_core.retrievers import BaseRetriever
-    from langchain.text_splitter import RecursiveCharacterTextSplitter
 except ImportError as e:
-    st.error(f"❌ Missing required packages: {e}")
-    st.error("Please install requirements: pip install -r requirements.txt")
+    st.error(f"Missing required packages: {e}")
     st.stop()
 
-# Global variable to store the RAG system
-_rag_system = None
-
-# Pydantic models for API
-class QuestionRequest(BaseModel):
-    question: str
-
-class QuestionResponse(BaseModel):
-    answer: str
-    question: str
-    success: bool
-    datasets_used: list = []
-    total_vectors: int = 0
-    error: str = None
-
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    """Initialize and cleanup resources"""
-    # Load RAG system on startup
-    global _rag_system
-    _rag_system = load_rag_system()
-    yield
-    # Cleanup on shutdown
-    _rag_system = None
-
-# Create FastAPI app for HTTP endpoints
-api_app = FastAPI(
-    title="Agricultural Expert API",
-    description="API for accessing the Agricultural Expert System",
-    version="1.0.0",
-    lifespan=lifespan
+# Page configuration
+st.set_page_config(
+    page_title="Agricultural Expert System",
+    page_icon="��",
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
 
-# Add CORS middleware
-api_app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-def get_rag_system():
-    """Get or create the RAG system singleton"""
-    global _rag_system
-    if _rag_system is None:
-        _rag_system = load_rag_system()
-    return _rag_system
-
-def get_agricultural_answer(question: str) -> dict:
-    """
-    Get agricultural answer programmatically (for API calls)
-    
-    Args:
-        question (str): The agricultural question
-        
-    Returns:
-        dict: Response with answer and metadata
-    """
-    try:
-        rag_system = get_rag_system()
-        if rag_system is None:
-            return {
-                "error": "RAG system not loaded",
-                "success": False
-            }
-        
-        response = rag_system['chain'].invoke({"input": question})
-        answer = response["answer"]
-        
-        return {
-            "answer": answer,
-            "question": question,
-            "success": True,
-            "datasets_used": rag_system['datasets'],
-            "total_vectors": rag_system['total_vectors']
-        }
-        
-    except Exception as e:
-        return {
-            "error": str(e),
-            "success": False,
-            "question": question
-        }
+# Custom CSS for better styling
+st.markdown("""
+<style>
+    .main-header {
+        font-size: 3rem;
+        font-weight: bold;
+        color: #2E8B57;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    .sub-header {
+        font-size: 1.5rem;
+        color: #556B2F;
+        margin-bottom: 1rem;
+    }
+    .info-box {
+        background-color: #F0F8FF;
+        padding: 1rem;
+        border-radius: 10px;
+        border-left: 5px solid #2E8B57;
+        margin: 1rem 0;
+    }
+    .dataset-info {
+        background-color: #F5F5F5;
+        padding: 0.5rem;
+        border-radius: 5px;
+        margin: 0.25rem 0;
+    }
+    .stButton > button {
+        background-color: #2E8B57;
+        color: white;
+        border-radius: 10px;
+        padding: 0.5rem 2rem;
+        font-weight: bold;
+    }
+    .stButton > button:hover {
+        background-color: #3CB371;
+    }
+    .error-box {
+        background-color: #FFE6E6;
+        padding: 1rem;
+        border-radius: 10px;
+        border-left: 5px solid #FF4444;
+        margin: 1rem 0;
+    }
+</style>
+""", unsafe_allow_html=True)
 
 @st.cache_resource
 def load_rag_system():
@@ -163,7 +119,7 @@ def load_rag_system():
                     loaded_datasets.append(dataset_name)
                     total_vectors += vectorstore.index.ntotal
                 except Exception as e:
-                    st.warning(f"⚠ Error loading {dataset_name}: {e}")
+                    st.warning(f"⚠️ Error loading {dataset_name}: {e}")
         
         if not all_vectorstores:
             st.error("❌ No vector stores could be loaded")
@@ -223,146 +179,121 @@ def load_rag_system():
         st.error(f"❌ Error loading RAG system: {e}")
         return None
 
-# API Endpoints
-@api_app.get("/")
-def root():
-    """Root endpoint with API information"""
-    return {
-        "message": "Agricultural Expert API",
-        "version": "1.0.0",
-        "endpoints": {
-            "/agri": "GET - Get agricultural answer (query parameter)",
-            "/agri/post": "POST - Get agricultural answer (JSON body)",
-            "/health": "GET - Health check"
+def handle_api_request(user_input, rag_system):
+    """Handle API requests and return JSON response"""
+    try:
+        if not user_input or not user_input.strip():
+            return {
+                "error": "Missing 'input' parameter",
+                "status": "error",
+                "message": "Please provide a question in the 'input' parameter"
+            }
+        
+        # Get response from RAG system
+        response = rag_system['chain'].invoke({"input": user_input})
+        answer = response["answer"]
+        
+        # Extract datasets used from the answer
+        datasets_used = []
+        for dataset in rag_system['datasets']:
+            if dataset.lower() in answer.lower():
+                datasets_used.append(dataset)
+        
+        return {
+            "reply": answer,
+            "status": "success",
+            "datasets_used": datasets_used,
+            "total_datasets_available": len(rag_system['datasets']),
+            "total_vectors": rag_system['total_vectors']
         }
-    }
-
-@api_app.get("/agri")
-def get_agri_answer(query: str):
-    """
-    Get agricultural answer via GET request
-    
-    Args:
-        query (str): The agricultural question
-        
-    Returns:
-        dict: Response with answer and metadata
-    """
-    try:
-        result = get_agricultural_answer(query)
-        
-        if not result.get("success", False):
-            raise HTTPException(status_code=500, detail=result.get("error", "Unknown error"))
-        
-        return result
         
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to get answer: {str(e)}")
+        return {
+            "error": f"Error processing request: {str(e)}",
+            "status": "error",
+            "message": "An error occurred while processing your question"
+        }
 
-@api_app.post("/agri/post", response_model=QuestionResponse)
-def post_agri_answer(request: QuestionRequest):
-    """
-    Get agricultural answer via POST request
-    
-    Args:
-        request (QuestionRequest): The request containing the question
-        
-    Returns:
-        QuestionResponse: Response with answer and metadata
-    """
-    try:
-        result = get_agricultural_answer(request.question)
-        
-        if not result.get("success", False):
-            raise HTTPException(status_code=500, detail=result.get("error", "Unknown error"))
-        
-        return QuestionResponse(**result)
-        
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to get answer: {str(e)}")
-
-@api_app.get("/health")
-def health_check():
-    """Health check endpoint"""
-    return {"status": "healthy", "service": "Agricultural Expert API"}
-
-# Streamlit UI (only runs when this file is run directly)
 def main():
     """Main Streamlit application"""
     
-    # Page configuration
-    st.set_page_config(
-        page_title="Agricultural Expert System",
-        page_icon="🌾",
-        layout="wide",
-        initial_sidebar_state="expanded"
-    )
-
-    # Custom CSS for better styling
-    st.markdown("""
-    <style>
-        .main-header {
-            font-size: 3rem;
-            font-weight: bold;
-            color: #2E8B57;
-            text-align: center;
-            margin-bottom: 2rem;
-        }
-        .sub-header {
-            font-size: 1.5rem;
-            color: #556B2F;
-            margin-bottom: 1rem;
-        }
-        .info-box {
-            background-color: #F0F8FF;
-            padding: 1rem;
-            border-radius: 10px;
-            border-left: 5px solid #2E8B57;
-            margin: 1rem 0;
-        }
-        .dataset-info {
-            background-color: #F5F5F5;
-            padding: 0.5rem;
-            border-radius: 5px;
-            margin: 0.25rem 0;
-        }
-        .stButton > button {
-            background-color: #2E8B57;
-            color: white;
-            border-radius: 10px;
-            padding: 0.5rem 2rem;
-            font-weight: bold;
-        }
-        .stButton > button:hover {
-            background-color: #3CB371;
-        }
-        .error-box {
-            background-color: #FFE6E6;
-            padding: 1rem;
-            border-radius: 10px;
-            border-left: 5px solid #FF4444;
-            margin: 1rem 0;
-        }
-    </style>
-    """, unsafe_allow_html=True)
+    # Check if this is an API request
+    query_params = st.query_params
+    user_input = query_params.get("input", [None])[0]
     
+    # If API request, handle it and return JSON
+    if user_input:
+        # Load RAG system for API mode
+        rag_system = load_rag_system()
+        
+        if rag_system is None:
+            result = {
+                "error": "RAG system not available",
+                "status": "error",
+                "message": "The agricultural knowledge base is not loaded"
+            }
+        else:
+            result = handle_api_request(user_input, rag_system)
+        
+        # Output only raw JSON text (no Streamlit UI)
+        st.markdown(
+            f"""
+            <pre>{json.dumps(result, indent=2)}</pre>
+            <script>
+            const output = document.querySelector('pre');
+            if (output) {{
+                document.body.innerText = output.innerText;
+            }}
+            </script>
+            """,
+            unsafe_allow_html=True
+        )
+        return
+    
+    # Regular UI mode - continue with normal interface
     # Header
     st.markdown('<h1 class="main-header">🌾 Agricultural Expert System</h1>', unsafe_allow_html=True)
     st.markdown('<p style="text-align: center; font-size: 1.2rem; color: #666;">Your AI-powered agricultural advisor</p>', unsafe_allow_html=True)
     
+    # API usage info
+    with st.expander("🔗 API Usage", expanded=False):
+        st.markdown("""
+        ### API Endpoint
+        You can also use this system as an API by calling:
+        ```
+        https://your-app.streamlit.app/?input=Your question here
+        ```
+        
+        ### Example API Call
+        ```
+        https://your-app.streamlit.app/?input=How to control Ranikhet disease in poultry?
+        ```
+        
+        ### JSON Response Format
+        ```json
+        {
+          "reply": "Based on the agricultural knowledge base...",
+          "status": "success",
+          "datasets_used": ["Disease Management", "Feed"],
+          "total_datasets_available": 8,
+          "total_vectors": 15000
+        }
+        ```
+        """)
+    
     # Load RAG system
     with st.spinner("🔄 Loading Agricultural Expert System..."):
-        rag_system = get_rag_system()
+        rag_system = load_rag_system()
     
     if rag_system is None:
         st.stop()
     
     # Sidebar with system info
     with st.sidebar:
-        st.markdown("## 📊 System Information")
+        st.markdown("## �� System Information")
         
         # Dataset info
-        st.markdown("### 📁 Available Datasets")
+        st.markdown("### �� Available Datasets")
         for dataset in rag_system['datasets']:
             st.markdown(f"• {dataset}")
         
@@ -439,9 +370,9 @@ def main():
             
             for i, chat in enumerate(reversed(st.session_state.chat_history)):
                 with st.expander(f"Q{i+1}: {chat['question'][:50]}...", expanded=True):
-                    st.markdown("*Question:*")
+                    st.markdown("**Question:**")
                     st.write(chat['question'])
-                    st.markdown("*Answer:*")
+                    st.markdown("**Answer:**")
                     st.markdown(chat['answer'])
                     
                     # Add copy button
@@ -449,7 +380,7 @@ def main():
                         st.write("✅ Answer copied to clipboard!")
         
         # Clear chat history
-        if st.session_state.chat_history and st.button("🗑 Clear History"):
+        if st.session_state.chat_history and st.button("��️ Clear History"):
             st.session_state.chat_history = []
             st.rerun()
     
@@ -459,18 +390,11 @@ def main():
         """
         <div style="text-align: center; color: #666; padding: 1rem;">
             <p>🌾 Agricultural Expert System | Powered by LangChain & Groq</p>
-            <p>Built with ❤ for farmers and agricultural professionals</p>
+            <p>Built with ❤️ for farmers and agricultural professionals</p>
         </div>
         """,
         unsafe_allow_html=True
     )
 
 if __name__ == "__main__":
-    # Check if we should run the API server or Streamlit UI
-    import sys
-    if len(sys.argv) > 1 and sys.argv[1] == "api":
-        # Run as API server
-        uvicorn.run(api_app, host="0.0.0.0", port=8501)
-    else:
-        # Run as Streamlit UI
-        main()
+    main()
