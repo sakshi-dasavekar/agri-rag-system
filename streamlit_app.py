@@ -251,10 +251,6 @@ def main():
         else:
             result = handle_api_request(user_input, rag_system)
         
-        # Debug: Print the result structure
-        st.write("DEBUG - Result structure:")
-        st.write(result)
-        
         # Return pure JSON response
         st.json(result)
         return
