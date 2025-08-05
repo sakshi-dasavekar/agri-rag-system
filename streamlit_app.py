@@ -28,7 +28,7 @@ except ImportError as e:
 # Page configuration
 st.set_page_config(
     page_title="Agricultural Expert System",
-    page_icon="��",
+    page_icon="🌾",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -104,9 +104,8 @@ def load_rag_system():
             return None
         
         embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-        
-        loaded_datasets = []
         total_vectors = 0
+        loaded_datasets = []
         
         for folder in dataset_folders:
             dataset_name = os.path.basename(folder)
@@ -117,9 +116,15 @@ def load_rag_system():
                     vectorstore = FAISS.load_local(embeddings_path, embeddings, allow_dangerous_deserialization=True)
                     all_vectorstores.append((dataset_name, vectorstore))
                     loaded_datasets.append(dataset_name)
-                    total_vectors += vectorstore.index.ntotal
+                    
+                    # Count vectors in this dataset
+                    if hasattr(vectorstore, 'index') and hasattr(vectorstore.index, 'ntotal'):
+                        total_vectors += vectorstore.index.ntotal
+                    
                 except Exception as e:
-                    st.warning(f"⚠️ Error loading {dataset_name}: {e}")
+                    st.warning(f"⚠️ Could not load dataset '{dataset_name}': {e}")
+            else:
+                st.warning(f"⚠️ No embeddings found for dataset '{dataset_name}'")
         
         if not all_vectorstores:
             st.error("❌ No vector stores could be loaded")
@@ -128,51 +133,55 @@ def load_rag_system():
         # Create combined retriever
         class CombinedRetriever(BaseRetriever):
             vectorstores: list
-            
+
             def _get_relevant_documents(self, query, *, runnable_manager=None):
                 all_docs = []
                 for dataset_name, vectorstore in self.vectorstores:
-                    docs = vectorstore.similarity_search(query, k=5)
-                    for doc in docs:
-                        doc.metadata['dataset'] = dataset_name
-                    all_docs.extend(docs)
-                
-                # Sort by relevance and return top 5
+                    try:
+                        docs = vectorstore.similarity_search(query, k=5)
+                        for doc in docs:
+                            doc.metadata['dataset'] = dataset_name
+                        all_docs.extend(docs)
+                    except Exception as e:
+                        st.warning(f"Error searching dataset '{dataset_name}': {e}")
                 return all_docs[:5]
-        
+
         combined_retriever = CombinedRetriever(vectorstores=all_vectorstores)
         
-        # Initialize LLM
-        llm = ChatGroq(temperature=0, model_name="llama3-70b-8192", api_key=groq_api_key)
+        # Create LLM
+        llm = ChatGroq(
+            temperature=0,
+            model_name="llama3-70b-8192",
+            api_key=groq_api_key
+        )
         
-        # Create retrieval chain
+        # Create prompt template
         agricultural_prompt_template = """
-        You are an expert agricultural advisor with deep knowledge of crop production, farming practices, disease management, and agricultural technologies. 
-        Answer the following question based only on the provided agricultural knowledge base:
-
+        You are an expert agricultural advisor with deep knowledge of farming practices, crop management, disease control, and agricultural technologies. 
+        You have access to a comprehensive knowledge base covering various aspects of agriculture.
+        
+        Based on the provided context, answer the user's agricultural question accurately and comprehensively.
+        If the context doesn't contain relevant information, say so clearly.
+        
         Context:
         {context}
-
+        
         Question: {input}
-
-        Provide a comprehensive, practical answer that includes:
-        - Specific recommendations based on the context
-        - Any relevant location-specific information (state/district)
-        - Seasonal considerations if mentioned
-        - Practical steps or solutions
-        - Mention which dataset the information comes from
-
-        Answer:
+        
+        Answer: Provide a detailed, practical answer based on the context. Include specific recommendations, best practices, and actionable advice when possible.
         """
         
         prompt = ChatPromptTemplate.from_template(agricultural_prompt_template)
+        
+        # Create chains
         document_chain = create_stuff_documents_chain(llm, prompt)
         retrieval_chain = create_retrieval_chain(combined_retriever, document_chain)
         
         return {
             'chain': retrieval_chain,
             'datasets': loaded_datasets,
-            'total_vectors': total_vectors
+            'total_vectors': total_vectors,
+            'total_datasets': len(loaded_datasets)
         }
         
     except Exception as e:
@@ -235,19 +244,8 @@ def main():
         else:
             result = handle_api_request(user_input, rag_system)
         
-        # Output only raw JSON text (no Streamlit UI)
-        st.markdown(
-            f"""
-            <pre>{json.dumps(result, indent=2)}</pre>
-            <script>
-            const output = document.querySelector('pre');
-            if (output) {{
-                document.body.innerText = output.innerText;
-            }}
-            </script>
-            """,
-            unsafe_allow_html=True
-        )
+        # Return pure JSON response
+        st.json(result)
         return
     
     # Regular UI mode - continue with normal interface
@@ -255,49 +253,39 @@ def main():
     st.markdown('<h1 class="main-header">🌾 Agricultural Expert System</h1>', unsafe_allow_html=True)
     st.markdown('<p style="text-align: center; font-size: 1.2rem; color: #666;">Your AI-powered agricultural advisor</p>', unsafe_allow_html=True)
     
-    # API usage info
-    with st.expander("🔗 API Usage", expanded=False):
+    # Load RAG system
+    rag_system = load_rag_system()
+    
+    if rag_system is None:
+        st.error("❌ Failed to load the agricultural knowledge base")
+        st.info("💡 Please check your API key and ensure the data has been processed")
+        st.stop()
+    
+    # Sidebar with system information
+    with st.sidebar:
+        st.markdown("### 📊 System Information")
+        st.markdown(f"**Datasets Loaded:** {rag_system['total_datasets']}")
+        st.markdown(f"**Total Vectors:** {rag_system['total_vectors']:,}")
+        
+        st.markdown("### 📚 Available Datasets")
+        for dataset in rag_system['datasets']:
+            st.markdown(f"• {dataset}")
+        
+        st.markdown("---")
+        
+        # API usage info
+        st.markdown("### 🔗 API Usage")
         st.markdown("""
-        ### API Endpoint
-        You can also use this system as an API by calling:
+        **API Endpoint:**
         ```
         https://your-app.streamlit.app/?input=Your question here
         ```
         
-        ### Example API Call
+        **Example:**
         ```
         https://your-app.streamlit.app/?input=How to control Ranikhet disease in poultry?
         ```
-        
-        ### JSON Response Format
-        ```json
-        {
-          "reply": "Based on the agricultural knowledge base...",
-          "status": "success",
-          "datasets_used": ["Disease Management", "Feed"],
-          "total_datasets_available": 8,
-          "total_vectors": 15000
-        }
-        ```
         """)
-    
-    # Load RAG system
-    with st.spinner("🔄 Loading Agricultural Expert System..."):
-        rag_system = load_rag_system()
-    
-    if rag_system is None:
-        st.stop()
-    
-    # Sidebar with system info
-    with st.sidebar:
-        st.markdown("## �� System Information")
-        
-        # Dataset info
-        st.markdown("### �� Available Datasets")
-        for dataset in rag_system['datasets']:
-            st.markdown(f"• {dataset}")
-        
-        st.markdown(f"### 🔢 Total Vectors: {rag_system['total_vectors']:,}")
         
         # Sample questions
         st.markdown("### 💡 Sample Questions")
@@ -380,7 +368,7 @@ def main():
                         st.write("✅ Answer copied to clipboard!")
         
         # Clear chat history
-        if st.session_state.chat_history and st.button("��️ Clear History"):
+        if st.session_state.chat_history and st.button("🗑️ Clear History"):
             st.session_state.chat_history = []
             st.rerun()
     
