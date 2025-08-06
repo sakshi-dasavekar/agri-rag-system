@@ -267,18 +267,14 @@ def main():
         if isinstance(user_input, list):
             user_input = user_input[0] if user_input else None
     
-    # Debug: Show what we received
-    st.write(f"Raw query params: {query_params}")
-    st.write(f"Raw user_input: {user_input}")
-    
     # If API request, handle it and return JSON
     if user_input:
         # URL decode the input
         try:
             user_input = urllib.parse.unquote(user_input)
-            st.write(f"Decoded user_input: {user_input}")
         except Exception as e:
-            st.write(f"Error decoding: {e}")
+            # Handle decoding error silently for API mode
+            pass
         
         # Load RAG system for API mode
         rag_system = load_rag_system()
