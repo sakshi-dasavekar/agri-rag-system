@@ -26,6 +26,22 @@ except ImportError as e:
     st.error(f"Missing required packages: {e}")
     st.stop()
 
+# --- Add CORS headers for API responses ---
+def add_cors_headers():
+    st.markdown(
+        """
+        <script>
+        if (window.parent !== window) {
+            window.parent.postMessage("streamlit:allow-cors", "*");
+        }
+        </script>
+        <meta http-equiv="Access-Control-Allow-Origin" content="*">
+        <meta http-equiv="Access-Control-Allow-Headers" content="*">
+        <meta http-equiv="Access-Control-Allow-Methods" content="GET, POST, OPTIONS">
+        """,
+        unsafe_allow_html=True
+    )
+
 # Page configuration
 st.set_page_config(
     page_title="Agricultural Expert System",
@@ -277,7 +293,8 @@ def main():
         else:
             result = handle_api_request(user_input, rag_system)
         
-        # Return pure JSON response
+        # --- Add CORS headers before returning JSON ---
+        add_cors_headers()
         st.json(result)
         return
     
